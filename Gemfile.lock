@@ -74,4 +74,5 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-paginate
   rouge
