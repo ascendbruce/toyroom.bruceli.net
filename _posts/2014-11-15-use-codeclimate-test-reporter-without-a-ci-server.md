@@ -88,7 +88,8 @@ Modify the rspec command in `lib/capistrano/tasks/run_tests.cap`
 
 > I assume you always run complete test suit with this technique.
 
-``` diff lib/capistrano/tasks/run_tests.cap
+``` diff
+# lib/capistrano/tasks/run_tests.cap
 namespace :deploy do
   desc "Runs test before deploying, can't deploy unless they pass"
   task :run_tests do
