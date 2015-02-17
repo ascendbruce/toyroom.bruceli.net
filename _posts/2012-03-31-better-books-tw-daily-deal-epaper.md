@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] 博客來66折優化電子報'
+title: '博客來66折優化電子報'
 published: true
 date: 2012-03-31 15:32
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] 氣溫驟降預報'
+title: '氣溫驟降預報'
 published: true
 date: 2013-12-01 15:34
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

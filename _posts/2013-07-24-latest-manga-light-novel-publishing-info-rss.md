@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] 最新出版漫畫/輕小說資訊 RSS'
+title: '最新出版漫畫/輕小說資訊 RSS'
 published: true
 date: 2013-07-24 15:33
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

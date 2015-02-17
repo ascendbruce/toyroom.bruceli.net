@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] Rss2Plurk - 自動讀取 RSS 張貼到 Plurk 上'
+title: 'Rss2Plurk - 自動讀取 RSS 張貼到 Plurk 上'
 published: true
 date: 2013-09-01 15:33
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

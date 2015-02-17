@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] 騙卡馬 Pan Karma'
+title: '騙卡馬 Pan Karma'
 published: true
 date: 2010-05-09 15:31
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

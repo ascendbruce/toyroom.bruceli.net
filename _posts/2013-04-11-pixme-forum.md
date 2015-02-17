@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] Pixme Forum'
+title: 'Pixme Forum'
 published: true
 date: 2013-04-11 15:33
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

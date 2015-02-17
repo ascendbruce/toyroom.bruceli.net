@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] 雲科點名系統'
+title: '雲科點名系統'
 published: true
 date: 2010-04-01 15:26
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

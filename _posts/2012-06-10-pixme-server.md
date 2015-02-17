@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] Pixme Server'
+title: 'Pixme Server'
 published: true
 date: 2012-06-10 15:32
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---

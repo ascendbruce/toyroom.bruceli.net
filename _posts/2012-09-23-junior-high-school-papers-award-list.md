@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '[作品集] 中學生小論文列表'
+title: '中學生小論文列表'
 published: true
 date: 2012-09-23 15:33
 tags: []
-categories: []
+categories: works
 comments: true
 
 ---
