@@ -25,7 +25,8 @@ But you can change it. they are between line 22 and 28.
 
 ## Sorucecode
 
-``` ruby interval_training.rb
+``` ruby
+# interval_training.rb
     # by Bruce Li 2013-04-21
     class Fixnum
       alias_method :minute, :minutes

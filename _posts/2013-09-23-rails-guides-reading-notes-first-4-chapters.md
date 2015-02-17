@@ -53,7 +53,8 @@ raise ActiveRecord::IrreversibleMigration
 
 這兩個 methods 的回傳值剛好相反（如名稱所示）。
 
-``` ruby app/models/person.rb
+``` ruby
+# app/models/person.rb
 class Person < ActiveRecord::Base
     validates :name, :presence => true
 end
@@ -76,7 +77,8 @@ p.errors.messages # => {:name=>["can't be blank"]}
 
 如果想實作這樣的自定 validation （在此例是 `:email => true`）
 
-``` ruby app/models/person.rb
+``` ruby
+# app/models/person.rb
 class Person < ActiveRecord::Base
   validates :email, :presence => true, :email => true
 end
@@ -147,7 +149,7 @@ end
 ```
 c = Customer.first
 o = c.orders.first
-oc = o.customer     
+oc = o.customer
 c.__id__  # => 70297963786100
 oc.__id__ # => 70297971379700 # 不同
 ```
@@ -311,7 +313,7 @@ end
 ```ruby
 class Customer < ActiveRecord::Base
   has_many :orders, :before_add => :check_credit_limit
- 
+
   def check_credit_limit(order)
     ...
   end

@@ -18,7 +18,8 @@ After some searching and experiment. We came up with this solution.
 
 Because we don't have a CI server. We use Ben Dixon's [run_tests](https://github.com/TalkingQuickly/capistrano-3-rails-template/blob/master/lib/capistrano/tasks/run_tests.cap) technique covered in his book [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications), which is:
 
-``` ruby lib/capistrano/tasks/run_tests.cap
+``` ruby
+# lib/capistrano/tasks/run_tests.cap
 namespace :deploy do
   desc "Runs test before deploying, can't deploy unless they pass"
   task :run_tests do
@@ -39,7 +40,8 @@ namespace :deploy do
 end
 ```
 
-``` ruby config/deploy.rb
+``` ruby
+# config/deploy.rb
 set :tests, ["spec"]
 before :deploy, "deploy:run_tests"
 ```
@@ -50,7 +52,8 @@ It will run test before every deploy. And stop deploy process if there are any f
 
 Install [codeclimate-test-reporter](https://github.com/codeclimate/ruby-test-reporter) by adding it into `Gemfile`
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 gem "codeclimate-test-reporter", group: :test
 ```
 
@@ -58,7 +61,8 @@ and run `bundle install`
 
 Start the test reporter. Make sure that you put these lines at top of your `spec_helper.rb`.
 
-``` ruby spec_helper.rb
+``` ruby
+# spec_helper.rb
 require "codeclimate-test-reporter"
 CodeClimate::TestReporter.start
 ```
@@ -109,7 +113,8 @@ namespace :deploy do
 end
 ```
 
-``` ruby config/deploy.rb 
+``` ruby
+# config/deploy.rb
 set :codeclimate_token, your_token_here
 ```
 

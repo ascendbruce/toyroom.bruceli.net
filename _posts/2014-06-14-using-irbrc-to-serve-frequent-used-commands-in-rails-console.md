@@ -15,7 +15,8 @@ comments: true
 
 在家目錄底下建立 `.irbrc` (如果用 pry-rails，則是 `~/.pryrc`)
 
-``` ruby ~/.irbrc
+``` ruby
+# ~/.irbrc
 def find_me
   User.find_by_email("your_mail@example.com")
 end

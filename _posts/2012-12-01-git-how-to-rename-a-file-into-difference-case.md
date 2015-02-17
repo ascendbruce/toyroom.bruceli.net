@@ -37,7 +37,8 @@ BTW, the mistake I made is:
 
 I want `/users` routes to `/app/controller/api/users_controller` (like scope :module). The purpose is to remain API url but move code file to a sub directory.
 
-``` ruby config/routes.rb
+``` ruby
+# config/routes.rb
   get "users" => "api/users_controller#index"
 ```
 

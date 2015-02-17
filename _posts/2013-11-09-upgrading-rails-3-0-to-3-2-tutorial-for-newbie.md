@@ -26,7 +26,8 @@ comments: true
 
 ### 修改 Gemfile 宣告要用的 rails 版號
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 gem "rails", "3.2.15"
 ```
 
@@ -74,7 +75,8 @@ Rails 3.0 到 3.2 大概比較會遇到以下問題：
 * 要開放的欄位全部放到 `attr_accessible`
 * 或者直接關掉保護機制 (不推薦)
 
-``` ruby config/application.rb
+``` ruby
+# config/application.rb
 # ...
 config.active_record.whitelist_attributes = false
 # ...
@@ -87,7 +89,8 @@ config.active_record.whitelist_attributes = false
 * 改用 Asset Pipeline，請看 Rails Guides [The Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) 章節
 * 或者直接關掉 Asset Pipeline (不推薦，但要改的東西很多，所以比較可以暫時妥協)
 
-``` ruby config/application.rb
+``` ruby
+# config/application.rb
 # ...
 config.assets.enabled = false
 # ...

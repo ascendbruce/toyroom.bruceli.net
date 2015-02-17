@@ -21,7 +21,8 @@ comments: true
 
 加入 Gemfile
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end
@@ -41,7 +42,8 @@ rails generate rspec:install
 
 先寫一個很陽春的 spec，改到 rspec 可以順利跑完為止
 
-``` ruby spec/controllers/posts_controller_spec.rb
+``` ruby
+# spec/controllers/posts_controller_spec.rb
 require "rails_helper"
 
 describe PostsController, type: :controller do
@@ -72,7 +74,8 @@ end
 
 是用來偵測 Rails 寫法造成的安全性問題的工具。
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 group :development do
   gem 'brakeman', :require => false
 end
@@ -96,7 +99,8 @@ brakeman
 
 是依照社群維護的 [Rails Best Practices](http://rails-bestpractices.com/) 提供寫法建議，常見的建議有：[在 partial 內不要用 @instance_variable](http://rails-bestpractices.com/posts/27-replace-instance-variable-with-local-variable)、[使用 render 的簡化寫法](http://rails-bestpractices.com/posts/61-simplify-render-in-views)、[應該從 view 移到 model](http://rails-bestpractices.com/posts/25-move-code-into-model) / [controller](http://rails-bestpractices.com/posts/24-move-code-into-controller) / [helper 的 code](http://rails-bestpractices.com/posts/26-move-code-into-helper)、[移除行尾空白](http://rails-bestpractices.com/posts/60-remove-trailing-whitespace) 等。
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 group :development do
   gem 'rails_best_practices', :require => false
 end
@@ -122,7 +126,8 @@ rails_best_practices
 
 在 project 根目錄加設定檔
 
-``` ruby .editorconfig
+``` ruby
+# .editorconfig
 # Please install EditorConfig plugin for your editor or IDE
 # Usage and plugin list can be found here: http://EditorConfig.org
 
@@ -148,7 +153,8 @@ indent_size = 4
 
 依照社群維護的 [bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)、[bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) 提供建議。常見的建議有各種縮排層級、空白、空行的位置/數量、統一使用單引號或雙引號(依照你的設定) 等非常詳細的 coding style 問題。
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 group :development do
   gem 'rubocop', :require => false
 end

@@ -11,7 +11,8 @@ comments: true
 ---
 一般 config/deploy/staging.rb 的 branch 內容可能會設定成如下：
 
-``` ruby config/deploy/staging.rb
+``` ruby
+# config/deploy/staging.rb
 # ...
 set :branch, "staging"
 set :rails_env, "staging"
@@ -24,7 +25,8 @@ set :rails_env, "staging"
 
 搜尋 & 嘗試了一下，最後我改成：
 
-``` ruby config/deploy/staging.rb
+``` ruby
+# config/deploy/staging.rb
 # ...
 set :branch, ENV["BRANCH"] || `git rev-parse --abbrev-ref HEAD`.chop
 set :rails_env, "staging"

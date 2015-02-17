@@ -34,7 +34,8 @@ comments: true
 > 如果已經有該 gem 請不要重複列，但請更新到最新版，因為有些功能是前幾個月才開始支援的。
 > 如果要保留中文註解，請確保 encoding 沒有問題，我自己沒有全部試過。
 
-``` ruby Gemfile
+``` ruby
+# Gemfile
 # 所有環境都綁，包含 production
 gem "pry-rails"
 gem "awesome_print", :require => false
@@ -53,7 +54,8 @@ end
 2\. 跑 `bundle install`
 3\. 在 project 根目錄新增 `.pryrc`，內容如下：
 
-``` ruby .pryrc
+``` ruby
+# .pryrc
 require "awesome_print"
 AwesomePrint.pry!
 
@@ -67,7 +69,8 @@ end
 
 4\. 新增 `config/initializers/pry.rb`，內容如下：
 
-``` ruby config/initializers/pry.rb
+``` ruby
+# config/initializers/pry.rb
 # encoding: utf-8
 # 預設的 prompt_name 是 pry，下面這行會把 prompt_name 變成該 project 的名稱 (自動抓)
 Pry.config.prompt_name = Rails.application.class.parent_name.underscore.dasherize
