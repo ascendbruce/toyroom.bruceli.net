@@ -4,7 +4,7 @@ title: Rails sending emails via gmail not working in heroku server but ok in loc
 published: true
 date: 2010-02-20 11:09
 tags: []
-categories: []
+categories: [tw]
 comments: true
 
 ---

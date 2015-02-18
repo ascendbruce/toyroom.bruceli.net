@@ -4,7 +4,7 @@ title: Make acts_as_versioned know target model belongs_to association
 published: true
 date: 2010-02-22 20:56
 tags: []
-categories: []
+categories: [tw]
 comments: true
 
 ---
