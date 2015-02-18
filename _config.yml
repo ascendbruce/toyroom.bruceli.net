@@ -13,3 +13,10 @@ highlighter: rouge
 paginate: 5
 paginate_path: "/page-:num/"
 timezone: Asia/Taipei
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Bruce Li"
