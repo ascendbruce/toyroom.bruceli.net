@@ -14,7 +14,7 @@ I will post some articles about learning ruby, rails, other techniques such as j
 I am not a native English speaker. So feel free to correct me on spelling, grammar etc. Other questions are also welcome.
 
 My email address is:
-![my email](https://lh4.googleusercontent.com/-SkZU7QygEv4/ULzxOBNPiyI/AAAAAAAAA-8/8FCJ6G4iuNE/s800/image.png)
+![my email](/images/email.png)
 
 # 關於這個部落格
 
@@ -111,5 +111,5 @@ My email address is:
 
 ## 聯絡我
 
-![my email](https://lh4.googleusercontent.com/-SkZU7QygEv4/ULzxOBNPiyI/AAAAAAAAA-8/8FCJ6G4iuNE/s800/image.png)
+![my email](/images/email.png)
 ([若e-mail圖片失效請按此](http://dl.dropbox.com/u/757630/shared/myemail.png))
