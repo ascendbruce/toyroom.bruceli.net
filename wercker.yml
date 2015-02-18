@@ -24,8 +24,8 @@ build:
             name: generate site
             code: bundle exec jekyll build --trace
 
-    deploy:
-      steps:
+deploy:
+    steps:
         - s3sync:
             key_id: $KEY
             key_secret: $SECRET
