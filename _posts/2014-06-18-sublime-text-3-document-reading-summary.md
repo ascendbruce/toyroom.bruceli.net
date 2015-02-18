@@ -11,7 +11,7 @@ comments: true
 ---
 摸熟你的開發工具是很重要的，每天都用沒效率的方法做事，長期下來很浪費時間。最近我在看《[程式設計師提升生產力秘笈](http://www.books.com.tw/exep/assp.php/bruceli/products/0010429241)》一書，裡面當然也提到這個老生常談，剛好就卯起來把 [Sublime Text 3 官方文件](http://www.sublimetext.com/docs/3/) 看完了 (除了開發 API 章節)，這邊整理出一些我以前還不知道的好用技巧。
 
-不過這份文件其實很短，每一節大概都只有一個螢幕長度而已，應該比較適合新手一開始就看。也就是說，設定部分還是要親自讀一遍 `Settings - Default`，快速鍵則建議讀[非官方文件](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)，好用外掛或特殊設定則要搜尋看看，例如 [讓 Sublime Text 也擁有 "Navigate to Definition" 功能](http://ascendbruce.logdown.com/posts/179064-sublime-text-integration-with-ctags) 跟 [安裝 Sublime Text 3 互動式 Ruby Debug 外掛](http://ascendbruce.logdown.com/posts/183048-sublime-text-3-with-rails-debugger-tutorial) 其實從網路上找到提示才試出來的。
+不過這份文件其實很短，每一節大概都只有一個螢幕長度而已，應該比較適合新手一開始就看。也就是說，設定部分還是要親自讀一遍 `Settings - Default`，快速鍵則建議讀[非官方文件](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)，好用外掛或特殊設定則要搜尋看看，例如 [讓 Sublime Text 也擁有 "Navigate to Definition" 功能]({% post_url 2014-02-23-sublime-text-integration-with-ctags %}) 跟 [安裝 Sublime Text 3 互動式 Ruby Debug 外掛]({% post_url 2014-03-04-sublime-text-3-with-rails-debugger-tutorial %}) 其實從網路上找到提示才試出來的。
 
 > 警語：《[程式設計師提升生產力秘笈](http://www.books.com.tw/exep/assp.php/bruceli/products/0010429241)》翻譯不太通順，如果弄得到英文版的話可考慮直接讀英文版。
 

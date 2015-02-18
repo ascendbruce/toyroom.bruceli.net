@@ -288,4 +288,4 @@ Guidebook 是一個已經被很多學校、活動反覆驗證過的 app (現在 
 
 -----------
 
-* 2014-05-02 補上 [觀光篇](http://ascendbruce.logdown.com/posts/195687-railsconf-2014-chicago-tourism-part)
+* 2014-05-02 補上 [觀光篇]({% post_url 2014-05-02-railsconf-2014-chicago-tourism-part %})

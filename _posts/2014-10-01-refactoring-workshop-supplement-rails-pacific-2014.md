@@ -29,7 +29,7 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 * http://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debugger-gem
 * http://knomedia.github.io/blog/2013/01/21/debugging-ruby-with-pry/
-* http://logdown.com/account/posts/208604-pry-staging-production-prompt
+* {% post_url 2014-08-13-awesome-rails-console-customization-using-pry %}
 * https://github.com/pry/pry/wiki
 
 ## 關於 Concerns

@@ -58,7 +58,7 @@ end
 
 之後再視需求追加測試、追加 gems (例如 capybara, faker, fabricator 等)。如果你的目標是確保執行路徑上不要有嚴重錯誤就好，可考慮寫 feature tests 為主。
 
-如果你使用 capistrano 做 deploy，但沒有架 CI server 的話，可以參考 [Use codeclimate-test-reporter without a CI server](http://ascendbruce.logdown.com/posts/230965-use-codeclimate-test-reporter-without-a-ci-server) 把 run_tests 的 capistrano task 設定好，如此一來若有忘記跟著功能程式碼一起修改的 test 敗壞的話，就會阻止你 deploy。(這部分是學自 [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) 一書)
+如果你使用 capistrano 做 deploy，但沒有架 CI server 的話，可以參考 [Use codeclimate-test-reporter without a CI server]({% post_url 2014-11-15-use-codeclimate-test-reporter-without-a-ci-server %}) 把 run_tests 的 capistrano task 設定好，如此一來若有忘記跟著功能程式碼一起修改的 test 敗壞的話，就會阻止你 deploy。(這部分是學自 [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) 一書)
 
 ## Coding style, code smell 與 best pratices 工具
 

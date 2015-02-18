@@ -79,7 +79,7 @@ Rails 工程師的話，可以先透過 [Code School](https://www.codeschool.com
 
 ### 把自己丟到好環境
 
-這點我在之前的演講 [Better and Better](http://ascendbruce.logdown.com/posts/156748-better-and-better-speak-and-supplemented) 也有提到。
+這點我在之前的演講 [Better and Better]({% post_url 2013-11-01-better-and-better-speak-and-supplemented %}) 也有提到。
 
 每個人在不同階段有自己的考量，但往好的環境靠，通常都能幫你一把。反之，如果身在不利於你的目標的環境，那就會事倍功半。
 

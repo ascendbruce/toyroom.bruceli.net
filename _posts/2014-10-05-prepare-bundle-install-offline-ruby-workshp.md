@@ -10,7 +10,7 @@ categories: []
 comments: true
 
 ---
-之前準備在 [Rails Pacific](http://railspacific.com/) 上帶的 [Refactoring workshop](http://ascendbruce.logdown.com/posts/235260-refactoring-workshop-supplement-rails-pacific-2014) 時，想到以前參加 conference 時 wifi 通常都很不穩，因此有先想一下斷網備案。
+之前準備在 [Rails Pacific](http://railspacific.com/) 上帶的 [Refactoring workshop]({% post_url 2014-10-01-refactoring-workshop-supplement-rails-pacific-2014 %}) 時，想到以前參加 conference 時 wifi 通常都很不穩，因此有先想一下斷網備案。
 
 > 但 Rails Pacific 2014 的現場網路很穩（感謝中午吃飯時間還在架設網路的小蟹），這招不但沒用到，而且還有幾位遇到 nokogiri 裝不起來的問題。
 

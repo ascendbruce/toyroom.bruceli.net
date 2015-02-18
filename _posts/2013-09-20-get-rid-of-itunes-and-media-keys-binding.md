@@ -8,7 +8,7 @@ categories: []
 comments: true
 
 ---
-English version: [Disable iTunes launching by 'Play' media key](http://ascendbruce.logdown.com/posts/91986-disable-itunes-starts-by-media-key)
+English version: [Disable iTunes launching by 'Play' media key]({% post_url 2013-08-22-disable-itunes-starts-by-media-key %})
 
 在 Mac 上，多媒體快速鍵的播放鍵總是會打開 iTunes、或優先控制 iTunes，即使你已經打開了其他播放軟體如 VLC, Songbird, KKBox, Spotify 等。
 

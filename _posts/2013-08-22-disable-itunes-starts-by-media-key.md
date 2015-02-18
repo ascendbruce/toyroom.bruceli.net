@@ -8,7 +8,7 @@ categories: []
 comments: true
 
 ---
-繁體中文版: [Mac多媒體快速鍵老是開啟iTunes，如何幹掉這個惱人的功能](http://ascendbruce.logdown.com/posts/141169-get-rid-of-itunes-and-media-keys-binding)
+繁體中文版: [Mac多媒體快速鍵老是開啟iTunes，如何幹掉這個惱人的功能]({% post_url 2013-09-20-get-rid-of-itunes-and-media-keys-binding %})
 
 By default, Mac always starts iTunes when you press Play media key on the keyboard even when VLC, Spotify, KKBox or Songbird player opened.
 

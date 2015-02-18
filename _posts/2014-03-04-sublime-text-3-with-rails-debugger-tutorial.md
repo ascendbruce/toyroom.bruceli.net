@@ -103,7 +103,7 @@ Immediate (即時執行) 也是很常用的功能
 
 有時候維護別人的 code、用別人的 gem，甚至是剛學程式的人，無法理解為什麼會跑出某種不符預期的結果時，就可以用 debugger 跑一遍，很直覺、好理解、也可以很詳細的查看變數狀態。
 
-實際上我高職初學程式時，就很常玩 VB 6.0 IDE 的這個功能，幫助我瞭解控制流程的基本觀念很多。在前一篇 [應徵 Rails 工作的心得](http://ascendbruce.logdown.com/posts/178895-my-experience-on-applying-rails-jobs) 也提到，即使高職讀資處科，也不見得每個人都會認真學程式，光是課堂上、模擬考出現的，都遠遠不及親自動手玩來得有幫助。
+實際上我高職初學程式時，就很常玩 VB 6.0 IDE 的這個功能，幫助我瞭解控制流程的基本觀念很多。在前一篇 [應徵 Rails 工作的心得]({% post_url 2014-02-26-my-experience-on-applying-rails-jobs %}) 也提到，即使高職讀資處科，也不見得每個人都會認真學程式，光是課堂上、模擬考出現的，都遠遠不及親自動手玩來得有幫助。
 
 ![you can trace into gems](https://lh3.googleusercontent.com/-OZyb7SJe7E8/UxMeuDlgVGI/AAAAAAAABrw/RuJeOUE7eQw/w1090-h714-no/debug_13_look_into_rails.png)
 

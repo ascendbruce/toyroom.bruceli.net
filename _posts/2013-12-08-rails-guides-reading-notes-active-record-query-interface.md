@@ -9,7 +9,7 @@ categories: []
 comments: true
 
 ---
-接續 [Rails 打基礎 - Rails Guides 3.2.13 閱讀筆記 Part 1](141175-rails-guides-reading-notes-first-4-chapters)
+接續 [Rails 打基礎 - Rails Guides 3.2.13 閱讀筆記 Part 1]({% post_url 2013-09-23-rails-guides-reading-notes-first-4-chapters %})
 
 ## [Active Record Query Interface](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
 ### find_each 與 find_in_batches
@@ -60,7 +60,7 @@ Client.where(:created_at => (params[:start_date].to_date)..(params[:end_date].to
 class Post < ActiveRecord::Base
   has_many :comments, :order => 'posted_at DESC'
 end
- 
+
 Post.first.comments.reorder('posted_at ASC')
 ```
 
@@ -218,4 +218,4 @@ Post.recent.any?
 Post.recent.many?
 ```
 
-但如果只是要檢查是否存在，沒有更多的動作的話，`.exists?` 會比 `.any?` 理想，請參考 [閱讀筆記 part 1](http://ascendbruce.logdown.com/posts/141175-rails-guides-reading-notes-first-4-chapters)
+但如果只是要檢查是否存在，沒有更多的動作的話，`.exists?` 會比 `.any?` 理想，請參考 [閱讀筆記 part 1]({% post_url 2013-09-23-rails-guides-reading-notes-first-4-chapters %})
