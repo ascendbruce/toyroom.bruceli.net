@@ -26,4 +26,4 @@ The Ruby 1.9 hash syntax causes syntax check errors in Sublime Text 2 with a red
 
 And restart Sublime Text 2
 
-[Configuring the SubLime Linter Plugin to use Ruby 1.9 Syntax](http://stackoverflow.com/questions/9153210/configuring-the-sublime-linter-plugin-to-use-ruby-1-9-syntax) 
+[Configuring the SubLime Linter Plugin to use Ruby 1.9 Syntax](http://stackoverflow.com/questions/9153210/configuring-the-sublime-linter-plugin-to-use-ruby-1-9-syntax)

@@ -14,24 +14,24 @@ comments: true
 
 網址: http://bruce.non.tw/wawa_rss
 
-# 主要組成
+## 主要組成
 
 * 前台
 * 爬蛙蛙書局網站的 Bot
 * RSS
 * (Email 電子報是透過 Google FeedBurner 產生)
 
-# 使用工具
+## 使用工具
 
 * Sinatra
 * [sinatra-template](https://github.com/ascendbruce/sinatra-template) (我的一個 open source project)
 * Bootstrap
 * Nokogiri
 
-# 開發成員
+## 開發成員
 
 * 我
 
-# CHANGELOG
+## CHANGELOG
 
 * 初版上線 (2013-07-24)

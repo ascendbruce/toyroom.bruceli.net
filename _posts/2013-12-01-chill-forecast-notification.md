@@ -14,22 +14,22 @@ comments: true
 
 網址: http://bruce.non.tw/chill/
 
-# 主要組成
+## 主要組成
 
 * 前台
 * 爬中央氣象局資料的 Bot
 * 輸出 RSS （寄送 Email、貼到 Facebook/Plurk 都是利用其他服務接收 RSS 達成）
 
-# 使用工具
+## 使用工具
 
 * Foundation 5
 * [sinatra-template](https://github.com/ascendbruce/sinatra-template) (我的一個 open source project)
 * Nokogiri
 
-# 開發成員
+## 開發成員
 
 * 我
 
-# CHANGELOG
+## CHANGELOG
 
 * 初版上線 (2013-12-01)

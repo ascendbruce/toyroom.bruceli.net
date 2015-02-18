@@ -12,22 +12,22 @@ comments: true
 
 報導：[請假online　雲科大管出勤出新招](http://www.uonline.nccu.edu.tw/index_content.asp?sn=0&an=6053)
 
-# 主要組成
+## 主要組成
 
 * 前台 (學生名單、點名)
 * 後台 (跑記缺礦課的學務流程)
 * 匯入 RFID 記錄
 * (RFID 機與刷卡記錄是外部系統)
 
-# 使用工具
+## 使用工具
 
 * ASP.NET C# (WebForm)
 
-# 開發成員
+## 開發成員
 
 * 我 (前後台)
 * 正式職員前輩 (匯入 RFID 記錄)
 
-# CHANGELOG
+## CHANGELOG
 
 * 初版上線 (約 2010-04-01)

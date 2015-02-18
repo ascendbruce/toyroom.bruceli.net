@@ -15,7 +15,7 @@ comments: true
 
 > ps. 依照 [Using pry in production](https://bugsnag.com/blog/production-pry) 的設定將會受到一個 readline 的 bug 影響，在 pry 解決該問題前，本篇有 workaround 教學。
 
-# 想達到的效果
+## 想達到的效果
 
 1\. 預設漂亮的格式、還可以輸出 table
 
@@ -27,7 +27,7 @@ comments: true
 
 ![different prompt in each environment](https://lh6.googleusercontent.com/DhwI7z_5lH9cQBMoKiqsuiC6VDQF38AMiogLAhIuEFc=w836-h510-no)
 
-# 設定
+## 設定
 
 1\. 修改 `Gemfile` 加入以下 gems
 
@@ -35,8 +35,8 @@ comments: true
 > 如果要保留中文註解，請確保 encoding 沒有問題，我自己沒有全部試過。
 
 ``` ruby
-# Gemfile
-# 所有環境都綁，包含 production
+## Gemfile
+## 所有環境都綁，包含 production
 gem "pry-rails"
 gem "awesome_print", :require => false
 
@@ -55,7 +55,7 @@ end
 3\. 在 project 根目錄新增 `.pryrc`，內容如下：
 
 ``` ruby
-# .pryrc
+## .pryrc
 require "awesome_print"
 AwesomePrint.pry!
 
@@ -70,9 +70,9 @@ end
 4\. 新增 `config/initializers/pry.rb`，內容如下：
 
 ``` ruby
-# config/initializers/pry.rb
-# encoding: utf-8
-# 預設的 prompt_name 是 pry，下面這行會把 prompt_name 變成該 project 的名稱 (自動抓)
+## config/initializers/pry.rb
+## encoding: utf-8
+## 預設的 prompt_name 是 pry，下面這行會把 prompt_name 變成該 project 的名稱 (自動抓)
 Pry.config.prompt_name = Rails.application.class.parent_name.underscore.dasherize
 
 unless Rails.env.development?
@@ -98,9 +98,9 @@ end
 
 4\. 此時打開 `rails console` 並下一些指令，應該就可以發覺到明顯不同之處了！
 
-# 補充說明
+## 補充說明
 
-## awesome_print 的用途
+### awesome_print 的用途
 
 若先安裝好 awesome_print 後，打開一個純 irb session，執行：
 
@@ -119,7 +119,7 @@ AwesomePrint.pry!
 
 它的 code 在 [這裡](https://github.com/michaeldv/awesome_print/blob/10efa1d60a463b05f14a4d2d1e73d2621cfa567c/lib/awesome_print/inspector.rb#L43)，看其內容會發現與 pry 官方 wiki 上的 [How can I use awesome_print with Pry?](https://github.com/pry/pry/wiki/FAQ#how-can-i-use-awesome_print-with-pry) 內容基本上是一樣的。
 
-### 以下是使用前使用後對照
+#### 以下是使用前使用後對照
 
 irb (預設)
 
@@ -137,7 +137,7 @@ irb (預設)
 
 ![](https://lh3.googleusercontent.com/-65GPNMfZkhA/U-psYAb66LI/AAAAAAAAB4E/Rywl95Tgzug/w806-h265-no/rails-console-4-pry_ap.png)
 
-## hirb 與 hirb-unicode 的用途
+### hirb 與 hirb-unicode 的用途
 
 引入 hirb 並執行 `extend Hirb::Console`
 
@@ -169,7 +169,7 @@ table User.select([:id, :email, :xxx_count]).where("xxx_count > 100"), :markdown
 
 > ps. hirb 其實還有更多功能，不過有些與 awesome_print 的用途重複，我比較喜歡後者。因此 hirb 我只使用到 `table` 語法的部分。若您有興趣，可以在 [hirb 的 github page](https://github.com/cldwalker/hirb) 看到更多設定。
 
-## pry-plus 的用途
+### pry-plus 的用途
 
 [pry-plus](https://github.com/rking/pry-plus) 其實是一整包 pry 相關方便工作的外掛，包括
 
@@ -188,7 +188,7 @@ table User.select([:id, :email, :xxx_count]).where("xxx_count > 100"), :markdown
 
 > 但是我與很多朋友都不喜歡 pry-remote，雖然可以解決使用 pow 時不能直接 `binding.pry` 的問題，但 pry-remote 時常有 lag、輸入點錯位、斷線等問題，因此我要開 `binding.pry` 的時候會另外打開 `rails server` 來用。
 
-# 可改進的地方
+## 可改進的地方
 
 目前的設定是最近期試出來的，有些可能還未經過長期的驗證，以下有幾個點我覺得可能可以改進的
 

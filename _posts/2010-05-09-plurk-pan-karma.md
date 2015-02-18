@@ -16,26 +16,26 @@ comments: true
 
 網址: http://www.plurk.com/pan_karma
 
-# 主要組成
+## 主要組成
 
 * Plurk bot
 * 後台 (管理文章連結)
 
-# 使用工具
+## 使用工具
 
 * plurk gem (plurk api v1)
 * ActiveRecord
 * YAML (留言詞庫、設定檔)
 
-# 開發成員
+## 開發成員
 
 * 我
 
-# 其他資訊
+## 其他資訊
 
 * 超過 30,000 個使用者
 
-# CHANGELOG
+## CHANGELOG
 
 * 停止服務 (2012-11-29)
 * 改成每天貼一文 (2012-3-28)

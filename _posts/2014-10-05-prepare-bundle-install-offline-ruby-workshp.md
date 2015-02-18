@@ -14,7 +14,7 @@ comments: true
 
 > 但 Rails Pacific 2014 的現場網路很穩（感謝中午吃飯時間還在架設網路的小蟹），這招不但沒用到，而且還有幾位遇到 nokogiri 裝不起來的問題。
 
-# 如何離線 bundle install
+## 如何離線 bundle install
 
 簡單來說就是用
 

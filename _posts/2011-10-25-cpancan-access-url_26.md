@@ -37,7 +37,7 @@ comments: true
 		# 之後再執行
 		perl -MCPAN -e 'install LWP::Protocol::https' # 這行需要root權限
 
-# 來源：http://www.nntp.perl.org/group/perl.macosx/2007/10/msg10405.html
+## 來源：http://www.nntp.perl.org/group/perl.macosx/2007/10/msg10405.html
 
 
 我的環境是Mac OS X 10.7，但Unix-like的應該都適用。

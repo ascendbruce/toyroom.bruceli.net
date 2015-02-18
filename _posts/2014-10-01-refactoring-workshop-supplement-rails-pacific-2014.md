@@ -11,7 +11,7 @@ comments: true
 ---
 2014-09-26 我在 Rails Pacific 主持一場 Refactoring 的 Workshop，這篇是補充一些可參考的資源。
 
-# 原始投影片
+## 原始投影片
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/39561461" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
@@ -25,14 +25,14 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 進入正題
 
-# pry 的進階
+## pry 的進階
 
 * http://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debugger-gem
 * http://knomedia.github.io/blog/2013/01/21/debugging-ruby-with-pry/
 * http://logdown.com/account/posts/208604-pry-staging-production-prompt
 * https://github.com/pry/pry/wiki
 
-# 關於 Concerns
+## 關於 Concerns
 
 為什麼這個 workshop 完全沒有提到放進 concerns，即使有些題目其實是可以用的？
 
@@ -42,7 +42,7 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 需了解這其實沒有標準答案，需依照條件，例如說如果是拋棄式活動網站（只維護短期），「花時間把架構搞得很好」是錯誤的。團隊現有慣例與未來接手維護的安排也都是要考量的點。
 
-# 只有一個地方用到，還要抽成 method 嗎？
+## 只有一個地方用到，還要抽成 method 嗎？
 
 這基本上有兩派說法，容我引用 [Ga Dii 的心得](http://tech.gadii.net/blog/2014/09/28/rails-pacific-2014/)
 
@@ -50,11 +50,11 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 不過我沒有當場聽到 Panel discussion，因為那個時候我人在醫院。
 
-# Service Object 的補充
+## Service Object 的補充
 
 RailsCasts 上有一篇講得不錯(付費) http://railscasts.com/episodes/398-service-objects
 
-# Form Object 的補充
+## Form Object 的補充
 
 也是 RailsCasts，也是付費 http://railscasts.com/episodes/416-form-objects
 

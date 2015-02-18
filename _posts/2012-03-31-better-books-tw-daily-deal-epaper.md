@@ -16,14 +16,14 @@ comments: true
 
 網址: http://bruce.non.tw/books66
 
-# 主要組成
+## 主要組成
 
 * 前台、每日特價書 RSS feed
 * 後台（訂閱者列表、Remider 預約狀況、每日特價書銷售狀況記錄）
 * 爬博客來66折資訊的 Bot
 * Email 寄送（訂閱確認信、週報、Remider）
 
-# 使用工具
+## 使用工具
 
 * Sinatra
 * ActiveRecord
@@ -31,10 +31,10 @@ comments: true
 * Gmail gem
 * ERB (用在 e-mail body)
 
-# 開發成員
+## 開發成員
 
 * 我
 
-# CHANGELOG
+## CHANGELOG
 
 * 初版上線 (約 2012-03-31)

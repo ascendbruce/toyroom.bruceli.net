@@ -10,7 +10,7 @@ comments: true
 ---
 上一篇 [RailsConf 2014 行 - 學習的部份](http://ascendbruce.logdown.com/posts/195380-railsconf-2014-chicago-what-i-learned) 提到講題學到的技術、經驗，以及一些嚴肅話題的觀察，這篇會寫去玩跟其他小觀察。
 
-## 坐飛機靠窗看風景
+### 坐飛機靠窗看風景
 
 ![on jet](https://lh5.googleusercontent.com/-ZUqYA3TpSFw/U2LpjnOfvyI/AAAAAAAABzc/le19RT2b4fk/w568-h760-no/on_jet.jpg)
 
@@ -18,7 +18,7 @@ comments: true
 
 不過因為去程是晚上 10 點，所以基本上也認不出來，倒是夜景很壯觀，燈海很大一片，可惜降落前不能使用電子設備。
 
-## 參觀 Skydeck
+### 參觀 Skydeck
 
 Skydeck 比台北 101 矮一點而已 (現在仍是西半球最高建築)，但是他們做了幾個 [凸出牆壁的透明觀景窗](http://www.gizmotrix.com/article/244/The-Vertigo-Inducing-Skydeck-Ledge/)，踏上去非常嗨啊。
 
@@ -36,7 +36,7 @@ Skydeck 比台北 101 矮一點而已 (現在仍是西半球最高建築)，但�
 
 我把我隨手拍的照片貼在 [我的 FB 牆上](https://www.facebook.com/ascendbruce/posts/803785672966751)，可以進去看看。
 
-## 騎 Segway
+### 騎 Segway
 
 參加 [City Segway Tours](http://citysegwaytours.com/) 的行程
 
@@ -51,7 +51,7 @@ Segway 騎起來還蠻爽的 XD
 * 上下車的時候一定要眼睛直視前方，以免不穩跌倒
 * 腳尖或腳跟施力即可，甚至可以把一支腳踩前面一點
 
-## 去 Basecamp (37signals) 打卡！
+### 去 Basecamp (37signals) 打卡！
 
 ![basecamp](https://lh5.googleusercontent.com/-ErIph26gNYY/U2IIf4e1WZI/AAAAAAAABx4/SuaTAi24X-c/w603-h804-no/basecamp.jpg)
 
@@ -61,7 +61,7 @@ Basecamp 的辦公室很大，大到在台灣肯定會被罵浪費空間....
 
 然後有演講廳、小廚房、很多會議間、跟單人戰鬥間。
 
-## 到 Michael Jordan's Steak House 吃牛排
+### 到 Michael Jordan's Steak House 吃牛排
 
 ![MJ's steak](https://lh4.googleusercontent.com/-p-sFrLtfc1E/U2IIfC10baI/AAAAAAAABx8/NJTQpSD3lLg/w1076-h804-no/mj_steak.jpg)
 
@@ -76,9 +76,9 @@ Basecamp 的辦公室很大，大到在台灣肯定會被罵浪費空間....
 
 然後某家餐廳的 yelp 星數還蠻高的，吃起來卻不怎麼樣，餐廳裡的氣氛講話很熱絡，我認為這是證實「歡笑聲越多的餐廳食物越不怎麼樣，因為沒有人認真的品嚐食物」（來源印象中是《親愛的臥底經濟學家》）
 
-# 其他一些觀察
+## 其他一些觀察
 
-## 對禮貌的觀察
+### 對禮貌的觀察
 
 之前在 Facebook 發了 [這則 status](https://www.facebook.com/ascendbruce/posts/802758779736107?stream_)
 
@@ -90,7 +90,7 @@ Basecamp 的辦公室很大，大到在台灣肯定會被罵浪費空間....
 
 由於我住在大會的飯店，活動範圍基本上就是樓上房間到 ballroom，據住在別的旅館的朋友說，早上在路上陌生人都會打招呼。但也有聽說芝加哥居民是相對比較 nice 的，可能不是每個地方都這樣。
 
-## 強大的 google
+### 強大的 google
 
 這也是之前發成 [status](https://www.facebook.com/ascendbruce/posts/802127363132582?stream_) 的
 

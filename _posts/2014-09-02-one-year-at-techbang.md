@@ -14,7 +14,7 @@ comments: true
 
 這一年發生的事太多了，值得寫一篇紀念文
 
-# 成長
+## 成長
 
 去年我整個就是亂寫，知道的也不多，Ruby debugger, Capistrano, Unicorn 之類的東西也都只聽過沒用過。
 
@@ -26,7 +26,7 @@ comments: true
 
 > Aeron 椅的部分有寫了一篇文章：[改坐 Aeron 椅提升工作生產力](http://ascendbruce.logdown.com/posts/203073-how-herman-miller-aeron-chair-affects-productivity)。
 
-# 回顧這段時間發的技術相關文章
+## 回顧這段時間發的技術相關文章
 
 有一些讀基礎文件的心得
 
@@ -49,7 +49,7 @@ comments: true
 
 希望今年也可以繼續學學新東西、寫寫部落格 XD
 
-# 這一年在工作上最高興的成就
+## 這一年在工作上最高興的成就
 
 維護中的 rails projects (7個) RSpec 全都修成綠燈了
 
@@ -65,6 +65,6 @@ comments: true
 
 而且為了避免老是忘記跑 test 而逐漸敗壞，雖然沒有架 CI，但是有土砲一個「測試失敗就會中斷 deploy 流程」的機制。
 
-# 新計畫
+## 新計畫
 
 最近在準備一些新計畫，有些是會公開的，敬請期待。

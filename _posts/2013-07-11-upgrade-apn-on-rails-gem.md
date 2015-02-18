@@ -11,22 +11,22 @@ comments: true
 ---
 中文版: [natescherer:apn_on_rails 換到新版 PRX:apn_on_rails 筆記 - 小B雜Blog](/posts/139005-upgrade-apn-on-rails-gem-zh_tw)
 
-## Major changes
+### Major changes
 * send_notifications method in PRX's did not accept an array of notifications as paramter. It sends all unsent notifications.
 * Add `APN::App`. Put cert in database and allow you to send to multiple iOS apps with 1 rails app
 * Add `APN::Group`. Allow you to send group notifications. (But it still send one by one to Apple APN server)
 
- 
-## Steps
-### Edit `Gemfile`
+
+### Steps
+#### Edit `Gemfile`
 
     gem 'apn_on_rails'
 
 And
-  
+
     bundle install
 
-### Migrateions
+#### Migrateions
 
     rails generate apn_on_rails:install
 
@@ -37,11 +37,11 @@ And
 
     rake db:migrate
 
-### Create first APN::App and move cert into database
+#### Create first APN::App and move cert into database
 Copy the content of `/config/apple_push_notification_development.pem` and `apple_push_notification_production` and save into APN::app#apn_dev_cert and APN::app#apn_prod_cert. [See this post](http://stackoverflow.com/questions/11533529/uninitialized-constant-apnapprails-env). (but you need to reslove the massive-assignment problem before running it on rails 3.2)
 
 
-### Modifiy APN::Notification.send_notifications and let it accept an array of notificaitons
+#### Modifiy APN::Notification.send_notifications and let it accept an array of notificaitons
 Because that the natescherer:apn_on_rails folk accepts an array of notificaitons to send. But the PRX one are not. So I added it by hand.
 
 Create `config/initializers/apn_notification_reopen.rb`
@@ -75,20 +75,20 @@ Create `config/initializers/apn_notification_reopen.rb`
     end
 
 
-## Troubleshooting
-### NameError: uninitialized constant APN::App::RAILS_ENV
+### Troubleshooting
+#### NameError: uninitialized constant APN::App::RAILS_ENV
 
 Add following line in `config/environment.rb`:
 
     APN::App::RAILS_ENV = Rails.env
 
 
-### Errno::ENOENT: No such file or directory - /config/apple_push_notification_development.pem
+#### Errno::ENOENT: No such file or directory - /config/apple_push_notification_development.pem
 
 run:
 
     script/rails generate configatron:install
- 
+
 It will generate configatron files. Edit `config/configatron/defaults.rb` add:
 
     configatron.apn.cert = ''

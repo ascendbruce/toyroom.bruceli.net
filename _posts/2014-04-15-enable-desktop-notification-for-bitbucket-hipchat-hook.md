@@ -10,7 +10,7 @@ comments: true
 ---
 Althought there is no checkbox for room notify. We can enable desktop notification by editing the API URL.
 
-### To enable desktop notification:
+## To enable desktop notification:
 
 1. Go to `Admin (the Gear icon) > Hooks > HipChat > Edit`
 2. Update `API URL` to `https://api.hipchat.com/v1/rooms/message?notify=1`
@@ -18,7 +18,7 @@ Althought there is no checkbox for room notify. We can enable desktop notificati
 
 > If you did not have a HipChat hook yet. Select `HipChat` from dropdown, hit `Add hook` and fill in RoomID and Token to add it.
 
-### The difference
+## The difference
 
 `https://api.hipchat.com/v1/rooms/message` (Default)
 `https://api.hipchat.com/v1/rooms/message?notify=1` (Enable desktop notification)

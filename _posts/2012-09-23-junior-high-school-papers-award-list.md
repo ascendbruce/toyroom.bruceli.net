@@ -16,23 +16,23 @@ comments: true
 
 網址: http://bruce.non.tw/junior_papers
 
-# 主要組成
+## 主要組成
 
 * 列表、搜尋
 * 用來爬中學生網站(官方)的 Bot
 
-# 使用工具
+## 使用工具
 
 * Bootstrap
 * Sinatra
 * ActiveRecord
 * Hpricot
 
-# 開發成員
+## 開發成員
 
 * 我
 
-# CHANGELOG
+## CHANGELOG
 
 * 凍結更新，最後匯入期數為 1011115 (約 2013-01-07)
 * 初版上線 (約 2012-09-23)

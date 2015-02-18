@@ -15,7 +15,7 @@ comments: true
 
 Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https://github.com/ascendbruce/personal-settings)，持續更新中。
 
-# 要裝的東西與順序
+## 要裝的東西與順序
 
 有些的順序非常重要，所以沒事就照順序裝吧！
 
@@ -26,9 +26,9 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 5. Rails
 6. Pow
 
-# 1. 工具、套件管理
+## 1. 工具、套件管理
 
-## XCode Command Line tool
+### XCode Command Line tool
 
 也可以安裝完整版的 XCode，但我用不到那麼多東西。
 
@@ -38,7 +38,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
 他會問你要不要安裝，按 Install 就會安裝了 [參考](http://railsapps.github.io/installrubyonrails-mac.html)
 
-## Homebrew
+### Homebrew
 
 到 [Homebrew 官網](http://brew.sh/) 找最新的安裝指令，目前的指令如下。（使用 Mavericks 內建的 Ruby 2.0）
 
@@ -53,7 +53,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
     brew doctor
 
-## 有的沒的套件
+### 有的沒的套件
 
 一些可能會用到的套件
 
@@ -70,7 +70,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
 另外，其實我一開始是參考 [這篇](http://www.computersnyou.com/2673/2013/10/install-ruby-rails-macos-x-mavericks-10-9-mysql-step-step/)，所以我還有裝 `gcc49`，但應該是沒用到。
 
-# 2. ImageMagick
+## 2. ImageMagick
 
 先安裝 [XQuartz](http://xquartz.macosforge.org/landing) (X Window 支援)
 
@@ -78,7 +78,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
     brew install imagemagick
 
-# 3. MySQL
+## 3. MySQL
 
     brew install mysql
 
@@ -89,7 +89,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
 以及設定所需帳號密碼，這部份可利用 [Sequel Pro.app](http://www.sequelpro.com/download) 設定
 
-# 4. RVM and Rubies
+## 4. RVM and Rubies
 
 > 後來才發現 Anvil 能幫忙裝 Pow，說不定 JewelryBox 也可以幫裝 RVM，有勇者的空機幫忙試試看嗎 XD
 
@@ -98,13 +98,13 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
     \curl -sSL https://get.rvm.io | bash -s stable
 
 驗證
-    
+
     source ~/.profile
     rvm -v
 
 之後利用 [JewelryBox](https://jewelrybox.unfiniti.com/) 安裝 Rubies。
 
-# 5. Rails
+## 5. Rails
 
 找一個現成的 Rails 小 Project
 
@@ -118,7 +118,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
 (沒有現成 Project 的話就先安裝個 rails 版本，然後用 scaffold 快速刻一個來確認執行狀況囉)
 
-# 6. Pow
+## 6. Pow
 
 安裝 [Anvil](http://anvilformac.com/)，第一次使用時就會自動幫你裝（但是要輸入密碼），並設定剛才試跑過的網站。
 
@@ -128,7 +128,7 @@ Rails 環境以外的設定還可以參考我的 [個人環境設定 Memo](https
 
 結論：我的環境貌似 OK 了，可喜可賀！
 
-# 參考
+## 參考
 
 * http://railsapps.github.io/installrubyonrails-mac.html
 * http://dean.io/setting-up-a-ruby-on-rails-development-environment-on-mavericks/

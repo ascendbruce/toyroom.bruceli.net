@@ -27,7 +27,7 @@ comments: true
 結束後，其實想補充一些東西，有些是(投影片)空間、時間有限所以沒有講的，有些是討論後想補充的想法。
 
 
-# 關於 快速開發小玩具當練習 - 小黑客松 的補充 p.8
+## 關於 快速開發小玩具當練習 - 小黑客松 的補充 p.8
 
 我最近在嘗試用一個月為單位的檔期，設定檔期的原因是：要給自己壓個 due day 才會比較勤勞。
 
@@ -41,14 +41,14 @@ comments: true
 * [Good and Bad Technical Debt](http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt)
 * [Linchpin (夠關鍵，公司就不能沒有你)](http://www.books.com.tw/exep/assp.php/bruceli/products/0010520893)
 
-# 更多輔助工具 p.33
+## 更多輔助工具 p.33
 
 * [SelfControl](http://selfcontrolapp.com/) (Mac App)
 * [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en-US) (Chrome Extension)
 
 這兩個都是可以封鎖指定網站的工具 (eg. 檔掉消耗太多時間的 facebook)，但需注意封鎖 facebook 後，開發 facebook api 相關功能會異常。這兩者封鎖的範圍跟暫時繞過的難易度都不一樣，想使用的人就自己嘗試一下。
 
-# 更多優質部落格 p.74
+## 更多優質部落格 p.74
 
 * [快樂小藥師](http://mulicia.pixnet.net/blog) (醫療、科普)
 * [親愛的臥底經濟學家](http://www.ftchinese.com/column/007000022) (經濟學)
@@ -65,7 +65,7 @@ comments: true
 *	[Wenson的隨筆網站](http://wensonyeh.blogspot.tw/) (哲學)
 *	[PanSci 泛科學](http://pansci.tw/) (科普)
 
-# 更多優質網路閱讀來源 p.75
+## 更多優質網路閱讀來源 p.75
 
 * [TEDxTaipei](http://tedxtaipei.com/) (TED...應該不用多解釋)
 * [你知道嗎? 粉絲團](https://www.facebook.com/zztao) (雜學)
@@ -78,7 +78,7 @@ comments: true
 
 <a name="learn-rails">
 
-# 怎麼學 Rails
+## 怎麼學 Rails
 
 這還蠻多人問的，其實我也想知道 orz
 
@@ -92,7 +92,7 @@ comments: true
 
 這幾點沒有一定的順序，不過 Code School 很容易破關、門檻低、成就感高，是不錯的入門。而官方 Rails Guides 雖然門檻比較高，但完整度高很多，就算一開始沒能力一次讀完，也可以在遇到問題時第一個往裡面找。
 
-# 拖時間用的話題 p.124
+## 拖時間用的話題 p.124
 
 * 關於 應徵、面試，我之前有寫一篇文章: [新鮮人找工作的注意事項 & 自己的面試經驗](http://littlebmix.blogspot.tw/2011/09/blog-post.html)
 * 關於 密碼一定要加密，有一篇奇文共賞: [剛剛看了"我的密碼沒加密", 主要資安探討是正確的, 不過驗證網站到底有沒有加密這個步驟弄錯了...](http://www.flickr.com/photos/huanglifu/8393039552/sizes/o/in/photostream/)

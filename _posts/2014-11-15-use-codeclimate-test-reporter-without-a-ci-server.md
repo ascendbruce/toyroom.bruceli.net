@@ -14,7 +14,7 @@ For some reason, we didn't setup a CI server. But we still want Code Climate to 
 
 After some searching and experiment. We came up with this solution.
 
-# 1. Add Capistrano run_tests task
+## 1. Add Capistrano run_tests task
 
 Because we don't have a CI server. We use Ben Dixon's [run_tests](https://github.com/TalkingQuickly/capistrano-3-rails-template/blob/master/lib/capistrano/tasks/run_tests.cap) technique covered in his book [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications), which is:
 
@@ -48,7 +48,7 @@ before :deploy, "deploy:run_tests"
 
 It will run test before every deploy. And stop deploy process if there are any failed test.
 
-# 2. Install and setup codeclimate-test-reporter
+## 2. Install and setup codeclimate-test-reporter
 
 Install [codeclimate-test-reporter](https://github.com/codeclimate/ruby-test-reporter) by adding it into `Gemfile`
 
@@ -80,7 +80,7 @@ It should show following message:
 
 Now you should be able to see the report showing in Code Climate. Sometimes it can take a few minutes.
 
-# 3. Modify run_tests and make it report after each deployment
+## 3. Modify run_tests and make it report after each deployment
 
 When you run `rspec` without `CODECLIMATE_REPO_TOKEN`, even you have test reporter started, it won't send test report to Code Climate. In other words, you can control when to send report by giving token or not.
 

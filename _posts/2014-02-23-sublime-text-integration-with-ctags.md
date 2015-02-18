@@ -9,15 +9,15 @@ categories: []
 comments: true
 
 ---
-# 欲達到的功能
+## 欲達到的功能
 
 ![ctags_jump.gif](http://user-image.logdown.io/user/82/blog/82/post/179064/WK22LRuEQWau88zDMUD7_ctags_jump.gif)
 
 註：本篇適用於 Mac，若用 Linux 請依照 Distribution 尋找適用的安裝指令 (apt, yum, ...)，Windows 很久沒用了不瞭解安裝方式。
 
-# 安裝
+## 安裝
 
-## 用 Homebrew 安裝 ctags
+### 用 Homebrew 安裝 ctags
 
 Mac 內建的 ctags 不支援 recursive 資料夾搜尋 (-R 選項)，因此根本不符合需求。
 
@@ -38,7 +38,7 @@ which ctags # 應該出現 /usr/local/bin/ctags
 
 如果裝好後 ctags 還是吃到內建的 `/usr/bin/ctags` ，需注意你的 `$PATH` 的順序是否正確。
 
-## Sublime Text 安裝 CTags 外掛
+### Sublime Text 安裝 CTags 外掛
 
 如果你的 Sublime Text 還沒有安裝 [Package Control](https://sublime.wbond.net/installation)，請先安裝。
 
@@ -46,7 +46,7 @@ which ctags # 應該出現 /usr/local/bin/ctags
 2. 搜尋 "Package Control: Install Package" 並按 `Enter` 執行
 3. 搜尋 "CTags" 並按 `Enter` 安裝
 
-## 設定
+### 設定
 
 如果 Sublime 還是吃不到 homebrew 的 ctags，可以強制指定
 
@@ -57,7 +57,7 @@ which ctags # 應該出現 /usr/local/bin/ctags
 }
 ```
 
-## 建立/更新 索引檔
+### 建立/更新 索引檔
 
 如圖所示
 
@@ -67,11 +67,11 @@ which ctags # 應該出現 /usr/local/bin/ctags
 
 到這裡已經可以使用 "Navigate to Definition" 的功能了，但再加上一些設定會更好。
 
-# 進階設定
+## 進階設定
 
-## 設定 git ignore
+### 設定 git ignore
 
-首先要說一件事，如果你從 command line 自己下 `ctags` 指令時，預設檔名是 `tags`。但由於 `tags` 也是很常見的名稱，常常造成衝突，因此現在大多習慣用 `.tags` 取代之，sublime CTags 外掛也遵循這個慣例。 
+首先要說一件事，如果你從 command line 自己下 `ctags` 指令時，預設檔名是 `tags`。但由於 `tags` 也是很常見的名稱，常常造成衝突，因此現在大多習慣用 `.tags` 取代之，sublime CTags 外掛也遵循這個慣例。
 
 各 project 一一放到 `.gitignore` 也可以，但通常大家手上都很多 projects，而且基本上很少有與 `.tags` 名稱衝突的檔案，因此我直接設到 gitignore_global。
 
@@ -87,7 +87,7 @@ which ctags # 應該出現 /usr/local/bin/ctags
     /.gemtags
     /.tags_sorted_by_file
 
-## 讓 sublime 搜尋關鍵字時不要找 .tags 的內容
+### 讓 sublime 搜尋關鍵字時不要找 .tags 的內容
 
 由於 .tags 也是純文字檔，全 project 搜尋時也會找到其內容，而且因為是 `.` 開頭，通常都蠻前面的，有點惱人。因此用 User Preference 將這幾個檔案排除，除了搜尋不到，也會從左側檔案列表內消失。
 
@@ -99,7 +99,7 @@ which ctags # 應該出現 /usr/local/bin/ctags
 }
 ```
 
-## 讓 ActiveRecord 的 scope 也可以被定位
+### 讓 ActiveRecord 的 scope 也可以被定位
 
 > 註：這是針對 Rails 的功能。
 > 參考自 [Add ActiveRecord scopes to Ctags](https://coderwall.com/p/ycql_q)
@@ -112,7 +112,7 @@ echo '--regex-ruby=/^[ \t]*scope[ \t]*:([a-zA-Z0-9_]+)/\1/' >> ~/.ctags
 
 之後 rebuid 各專案的 ctags 就抓得到了
 
-## 追到 gems 的 source code 裡去
+### 追到 gems 的 source code 裡去
 
 註：這是針對 Ruby/Rails 的功能。
 
@@ -153,20 +153,20 @@ fi
 
 (這個段落有重寫過)
 
-# 其他
+## 其他
 
-## 鍵盤快速鍵
+### 鍵盤快速鍵
 
 請參考 [官方文件 Commands Listing](https://github.com/SublimeText/CTags#commands-listing) 段落
 
 或照老方法設定 key binding
 
-## 你用的 Theme 是什麼？
+### 你用的 Theme 是什麼？
 
 * Theme 是 `Theme - Nexus`，可以透過 Package Control 找到。
 * Color Scheme 是 `Theme - Nil / Tubnil`，不過我最近的新歡是 `Tomorrow Color Scheme / Night Bright`，都可以透過 Package Control 找到。
 
-## 你的側欄的右鍵選單好像多出很多功能？
+### 你的側欄的右鍵選單好像多出很多功能？
 
 安裝 `SideBarEnhancements`
 

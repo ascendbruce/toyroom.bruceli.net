@@ -14,7 +14,7 @@ comments: true
 
 **類似 Visual Studio 的強大互動式 Debug 介面**
 
-# 背景
+## 背景
 
 不知道有多少人玩過類似這樣的東西：
 
@@ -28,22 +28,22 @@ comments: true
 
 （寫這篇的時候，sublime_debugger 才三個月大，但目前已經有堪用的版本，而且作者也持續開發中。我自己測過 Ruby 1.9.3 + Rails 3.2 與 Ruby 2.0.0 + Rails 4.0 都沒問題）
 
-# 安裝
+## 安裝
 
-## 安裝指定的 debugger gem
+### 安裝指定的 debugger gem
 
 * Ruby 1.9.3 => `gem install debugger`
 * Ruby 2.0.0 => `gem install byebug --version '>=2.5.0'`
 
 也可以加到 `Gemfile` 並跑 `bundle install`
 
-## 透過 Package Control 安裝 `Ruby Debugger` 外掛
+### 透過 Package Control 安裝 `Ruby Debugger` 外掛
 
 * 目前 `Ruby Debugger` 外掛只支援 Sublime Text 3（在 Mac 上可跟 Sublime Text 2 並存）
 * 如果你的 Sublime Text 3 還沒有安裝 [Package Control](https://sublime.wbond.net/installation)，請先安裝
 * 透過 Package Control 安裝 `Ruby Debugger` 外掛
 
-# 使用
+## 使用
 
 開始 debugging rails（Start debugging 則是對純 ruby 檔案 debug）
 
@@ -99,7 +99,7 @@ Immediate (即時執行) 也是很常用的功能
 
 還有一點值得一提，debugger 不僅可以拿來 debug，還有一個很棒的價值：
 
-# 追別人的 code
+## 追別人的 code
 
 有時候維護別人的 code、用別人的 gem，甚至是剛學程式的人，無法理解為什麼會跑出某種不符預期的結果時，就可以用 debugger 跑一遍，很直覺、好理解、也可以很詳細的查看變數狀態。
 

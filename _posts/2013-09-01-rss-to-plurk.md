@@ -14,23 +14,23 @@ comments: true
 
 網址: http://bruce.non.tw/rss2plurk
 
-# 主要組成
+## 主要組成
 
 * 前台
 * 爬 RSS 的 Bot
 * 串 Plurk Login, 發噗
 
-# 使用工具
+## 使用工具
 
 * Bootstrap 3
 * Rails
 * Feedzirra
 * PlurkOAuth
 
-# 開發成員
+## 開發成員
 
 * 我
 
-# CHANGELOG
+## CHANGELOG
 
 * 初版上線 (2013-09-01)
