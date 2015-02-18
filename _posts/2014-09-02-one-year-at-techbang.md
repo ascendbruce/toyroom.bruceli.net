@@ -35,17 +35,17 @@ comments: true
 
 也有因為不順手而進階研究了一些工具
 
-* [避免 pow 動不動就很長等待時間、以及 pow 如何跟 spring/zeus 合作]({% post_url 2014-06-24-extend-pow-kill-idle-timeout-and-pow-working-with-spring-or-zeus })
-* [讓 Sublime Text 也擁有 "Navigate to Definition" 功能 (設定 CTags)]({% post_url 2014-02-23-sublime-text-integration-with-ctags })
-* [安裝 Sublime Text 3 互動式 Ruby Debug 外掛]({% post_url 2014-03-04-sublime-text-3-with-rails-debugger-tutorial })
-* [超棒的 rails console 設定]({% post_url 2014-08-13-awesome-rails-console-customization-using-pry })
-* [Capistrano 自動選擇當前 branch deploy 到 staging]({% post_url 2014-05-27-capistrano-automatically-select-current-branch-to-deploy-to-staging })
-* [如何簡化「常常在 rails console 裡反覆輸入某些指令」的狀況]({% post_url 2014-06-14-using-irbrc-to-serve-frequent-used-commands-in-rails-console })
+* [避免 pow 動不動就很長等待時間、以及 pow 如何跟 spring/zeus 合作]({% post_url 2014-06-24-extend-pow-kill-idle-timeout-and-pow-working-with-spring-or-zeus %})
+* [讓 Sublime Text 也擁有 "Navigate to Definition" 功能 (設定 CTags)]({% post_url 2014-02-23-sublime-text-integration-with-ctags %})
+* [安裝 Sublime Text 3 互動式 Ruby Debug 外掛]({% post_url 2014-03-04-sublime-text-3-with-rails-debugger-tutorial %})
+* [超棒的 rails console 設定]({% post_url 2014-08-13-awesome-rails-console-customization-using-pry %})
+* [Capistrano 自動選擇當前 branch deploy 到 staging]({% post_url 2014-05-27-capistrano-automatically-select-current-branch-to-deploy-to-staging %})
+* [如何簡化「常常在 rails console 裡反覆輸入某些指令」的狀況]({% post_url 2014-06-14-using-irbrc-to-serve-frequent-used-commands-in-rails-console %})
 
 也跑去參加一些上課、活動
 
-* [「Deliver Project on Time 敏捷專案管理實務」上課心得]({% post_url 2014-06-22-deliver-project-on-time-lesson-afterthought })
-* [RailsConf 2014 行 - 學習的部份]({% post_url 2014-05-01-railsconf-2014-chicago-what-i-learned })
+* [「Deliver Project on Time 敏捷專案管理實務」上課心得]({% post_url 2014-06-22-deliver-project-on-time-lesson-afterthought %})
+* [RailsConf 2014 行 - 學習的部份]({% post_url 2014-05-01-railsconf-2014-chicago-what-i-learned %})
 
 希望今年也可以繼續學學新東西、寫寫部落格 XD
 
