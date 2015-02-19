@@ -15,6 +15,7 @@ timezone: Asia/Taipei
 exclude:
   - Gemfile
   - Gemfile.lock
+  - wercker.yml
   - .ruby-version
   - .gitignore
   - .git
