@@ -4,6 +4,8 @@ title: About
 permalink: /en/about/
 ---
 
+[切換到中文版](/tw/about)
+
 ## About this blog
 
 Hi!

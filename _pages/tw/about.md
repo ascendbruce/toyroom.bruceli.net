@@ -4,6 +4,8 @@ title: About
 permalink: /tw/about/
 ---
 
+[Switch to English version](/en/about)
+
 ## 關於這個部落格
 
 嗨！
