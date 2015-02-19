@@ -12,6 +12,9 @@ markdown: redcarpet
 highlighter: rouge
 timezone: Asia/Taipei
 
+gems:
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
