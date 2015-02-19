@@ -16,10 +16,17 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    vertical-align: bottom;
 
     &,
     &:visited {
         color: $grey-color-dark;
+    }
+
+    .site-subtitle {
+        font-size: 11px;
+        letter-spacing: 0;
+        margin-left: 12px;
     }
 }
 
