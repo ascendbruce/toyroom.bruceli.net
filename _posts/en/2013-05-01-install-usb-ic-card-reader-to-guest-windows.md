@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Install USB IC Card Reader to Guest Windows 7 (Host is Mac)
 published: true
 date: 2013-05-01 21:10

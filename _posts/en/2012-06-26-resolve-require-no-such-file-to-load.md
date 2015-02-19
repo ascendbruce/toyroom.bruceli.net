@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Resolve `require'': no such file to load -- readline (LoadError) exception
   (especially ruby build from source code)'
 published: true

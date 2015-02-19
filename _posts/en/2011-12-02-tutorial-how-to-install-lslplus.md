@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tutorial - How to install lslplus or lslforge for eclipse IDE
 published: true
 date: 2011-12-02 18:05

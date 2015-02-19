@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Upgrade natescherer:apn_on_rails to new version of PRX:apn_on_rails gem
 published: true
 date: 2013-07-11 21:33

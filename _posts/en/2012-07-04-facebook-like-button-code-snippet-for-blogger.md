@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Facebook like button code snippet for Google Blogger (iframe, 3 different style)
 published: true
 date: 2012-07-04 10:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rails 3 HOW TO  remove attribute prefix from validation error messages
 published: true
 date: 2011-09-18 08:52

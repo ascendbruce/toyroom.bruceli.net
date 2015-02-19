@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Deploy an existing rails 3.2 app to heroku
 published: true
 date: 2013-04-12 23:33

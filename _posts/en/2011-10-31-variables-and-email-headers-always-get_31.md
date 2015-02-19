@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Variables and email headers always get nothing in Rails3 ActionMailer
 published: true
 date: 2011-10-31 05:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Todoist 'add task' not working in chrome, mac (solved)
 published: true
 date: 2012-11-20 02:23

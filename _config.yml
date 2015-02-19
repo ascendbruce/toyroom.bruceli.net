@@ -25,5 +25,18 @@ defaults:
   -
     scope:
       path: ""
+      type: "posts"
     values:
       author: "Bruce Li"
+  -
+    scope:
+      path: "tw"
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "en"
+      type: "posts"
+    values:
+      layout: "post-en"

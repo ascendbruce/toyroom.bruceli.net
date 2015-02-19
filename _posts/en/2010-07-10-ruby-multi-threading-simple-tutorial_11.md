@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ruby Multi-threading simple tutorial
 published: true
 date: 2010-07-10 19:01

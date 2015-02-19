@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rails sending emails via gmail not working in heroku server but ok in localhost
 published: true
 date: 2010-02-20 11:09

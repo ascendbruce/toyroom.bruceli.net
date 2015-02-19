@@ -1,5 +1,4 @@
 ---
-layout: post
 title: (Ruby) Write service with daemons gem
 published: true
 date: 2010-06-12 15:56

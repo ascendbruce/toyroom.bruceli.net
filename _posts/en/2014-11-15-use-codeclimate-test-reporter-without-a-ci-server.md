@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Use codeclimate-test-reporter without a CI server
 published: true
 date: 2014-11-15 13:29
