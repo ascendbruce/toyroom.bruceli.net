@@ -1,0 +1,16 @@
+---
+layout: default-en
+title: My Works
+permalink: /en/works/
+---
+
+<h1>My Works</h1>
+
+<p>Sorry but this page has not yet translated.</p>
+
+{% for post in site.categories["works"] %}
+  {% if post.categories contains "tw" %}
+    <span class="date">{{ post.date }}</span>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% endif %}
+{% endfor %}
