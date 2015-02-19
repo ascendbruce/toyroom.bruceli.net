@@ -3,7 +3,7 @@ title: Bruce Toy Room
 # email: ascendbruce@gmail.com
 description: "My works and notes on ruby, rails, git, ubuntu linux, mac os x, etc..."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://toyroom.bruce.net" # the base hostname & protocol for your site
+url: "http://toyroom.bruceli.net" # the base hostname & protocol for your site
 twitter_username: BruceToyRoom
 github_username:  ascendbruce
 
