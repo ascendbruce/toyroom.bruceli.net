@@ -4,12 +4,14 @@ title: Bruce 的玩具間
 ---
 
 {% for post in site.categories["tw"] limit:7 %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p class="author"></p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-  <span class="date">{{ post.date }}</span>
+  <article class="post-index">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="author"></p>
+    <div class="content">
+      {{ post.content }}
+    </div>
+    <span class="date">{{ post.date }}</span>
+  </article>
 {% endfor %}
 
 <div>
