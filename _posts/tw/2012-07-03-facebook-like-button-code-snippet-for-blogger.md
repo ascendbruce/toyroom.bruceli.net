@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-English Version: [Facebook like button code snippet for Google Blogger (iframe, 3 different style)]({% post_url en/2012-07-04-facebook-like-button-code-snippet-for-blogger %})
+![](/images/world.png) English version: [Facebook like button code snippet for Google Blogger (iframe, 3 different style)]({% post_url en/2012-07-04-facebook-like-button-code-snippet-for-blogger %})
 
 注意：以下的程式碼片段是Google Blogger專用的，如果你想幫一般網頁加上讚按鈕，請使用[官方的程式碼產生器][1]。  
   

@@ -4,7 +4,7 @@ title: About
 permalink: /en/about/
 ---
 
-[切換到中文版](/tw/about)
+![](/images/world.png) 正體中文版: [關於](/tw/about)
 
 ## About this blog
 

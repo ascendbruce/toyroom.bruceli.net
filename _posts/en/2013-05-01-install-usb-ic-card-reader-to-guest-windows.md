@@ -7,7 +7,7 @@ categories: [en]
 comments: true
 
 ---
-正體中文版: [安裝InfoThink IT-925U讀卡機到VirtualBox內的Windows 7 (Host是Mac)]({% post_url tw/2013-04-30-install-usb-ic-card-reader-to-guest-windows %})
+![](/images/world.png) 正體中文版: [安裝InfoThink IT-925U讀卡機到VirtualBox內的Windows 7 (Host是Mac)]({% post_url tw/2013-04-30-install-usb-ic-card-reader-to-guest-windows %})
 
 I'm not sure if it requires VirtualBox Guest Additions. But I did install it.
 

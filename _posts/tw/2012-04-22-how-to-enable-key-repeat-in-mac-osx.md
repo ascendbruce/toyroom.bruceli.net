@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-English version: [How to enable key repeat in Mac OSX 10.7 Lion]({% post_url en/2012-04-22-how-to-enable-key-repeat-in-mac-osx %})
+![](/images/world.png) English version: [How to enable key repeat in Mac OSX 10.7 Lion]({% post_url en/2012-04-22-how-to-enable-key-repeat-in-mac-osx %})
 
 
 升級到Lion以後，長按鍵盤的行為變成字母選擇（例如長按a會出現 [àáâ...]）、而不是重複輸入，按方向鍵不能連續跳字讓我很困擾。
