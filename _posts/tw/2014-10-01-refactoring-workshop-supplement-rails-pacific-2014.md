@@ -27,10 +27,10 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 ## pry 的進階
 
-* http://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debugger-gem
-* http://knomedia.github.io/blog/2013/01/21/debugging-ruby-with-pry/
-* {% post_url tw/2014-08-13-awesome-rails-console-customization-using-pry %}
-* https://github.com/pry/pry/wiki
+* [超棒的 rails console 設定]({% post_url tw/2014-08-13-awesome-rails-console-customization-using-pry %})
+* <http://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debugger-gem>
+* <http://knomedia.github.io/blog/2013/01/21/debugging-ruby-with-pry/>
+* <https://github.com/pry/pry/wiki>
 
 ## 關於 Concerns
 
@@ -52,10 +52,10 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 ## Service Object 的補充
 
-RailsCasts 上有一篇講得不錯(付費) http://railscasts.com/episodes/398-service-objects
+RailsCasts 上有一篇講得不錯(付費) <http://railscasts.com/episodes/398-service-objects>
 
 ## Form Object 的補充
 
-也是 RailsCasts，也是付費 http://railscasts.com/episodes/416-form-objects
+也是 RailsCasts，也是付費 <http://railscasts.com/episodes/416-form-objects>
 
 需注意 workshop 主要目的是帶觀念，production 網站要使用的話，應該用類似 [Reform](https://github.com/apotonick/reform) 的工具來做比較理想。(Reform 的作者也就是這次的講者之一 Nick Sutterer)

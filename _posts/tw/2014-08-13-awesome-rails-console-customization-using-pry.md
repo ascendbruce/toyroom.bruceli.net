@@ -199,4 +199,4 @@ table User.select([:id, :email, :xxx_count]).where("xxx_count > 100"), :markdown
 
 補充
 
-* https://github.com/nixme/jazz_hands 用了很多跟這篇一樣的套件，而且從介紹看起來還多做了一些東西，我可能改天會試試看。
+* <https://github.com/nixme/jazz_hands> 用了很多跟這篇一樣的套件，而且從介紹看起來還多做了一些東西，我可能改天會試試看。
