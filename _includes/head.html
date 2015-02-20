@@ -1,5 +1,15 @@
 {% capture canonical %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
 
+{% if page.og_image %}
+  {% if page.og_image contains 'https://' or page.og_image contains 'http://' %}
+    {% capture og_image %}{{ page.og_image }}{% endcapture %}
+  {% else %}
+    {% capture og_image %}{{ page.og_image | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
+  {% endif %}
+{% else %}
+  {% capture og_image %}{{ site.og_image | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
+{% endif %}
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +37,7 @@
   <meta property="og:url" content="{{ canonical }}">
   <link rel="canonical" href="{{ canonical }}">
 
-  <!-- <meta content="" property="og:image"> -->
+  <meta property="og:image" content="{{ og_image }}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="alternate" type="application/rss+xml" title="Bruce 的玩具間 [中文文章]" href="{{ "/tw/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />

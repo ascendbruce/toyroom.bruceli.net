@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://toyroom.bruceli.net" # the base hostname & protocol for your site
 twitter_username: BruceToyRoom
 github_username:  ascendbruce
+og_image: "/image/default_og_image.jpg"
 
 # Build settings
 markdown: redcarpet
