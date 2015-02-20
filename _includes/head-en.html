@@ -10,6 +10,18 @@
   {% capture og_image %}{{ site.og_image | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
 {% endif %}
 
+{% if page.title %}
+  {% capture meta_title %}{{ page.title }}{% endcapture %}
+{% else %}
+  {% capture meta_title %}{{ site.title }}{% endcapture %}
+{% endif %}
+
+{% if page.excerpt %}
+  {% capture meta_description %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
+{% else %}
+  {% capture meta_description %}{{ site.description }}{% endcapture %}
+{% endif %}
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,21 +30,11 @@
   <meta content="website" property="og:type">
   <meta content="{{ site.title }}" property="og:site_name">
 
-  {% if page.title %}
-    <title>{{ page.title }}</title>
-    <meta content="{{ page.title }}" property="og:title">
-  {% else %}
-    <title>{{ site.title }}</title>
-    <meta content="{{ site.title }}" property="og:title">
-  {% endif %}
+  <title>{{ meta_title }}</title>
+  <meta content="{{ meta_title }}" property="og:title">
 
-  {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-    <meta content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" property="og:description">
-  {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta content="{{ site.description }}" property="og:description">
-  {% endif %}
+  <meta name="description" content="{{ meta_description }}">
+  <meta content="{{ meta_description }}" property="og:description">
 
   <meta property="og:url" content="{{ canonical }}">
   <link rel="canonical" href="{{ canonical }}">
