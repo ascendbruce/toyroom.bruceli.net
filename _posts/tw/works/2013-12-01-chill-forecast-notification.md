@@ -6,8 +6,9 @@ date: 2013-12-01 15:34
 tags: []
 categories: [tw, works]
 comments: true
-
+og_image: https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA/ugdVlKEbumU/s640/chill.png
 ---
+
 雖然氣象預報常常失準（例如說晴天結果下雨、說下雨結果只是陰天等），但氣溫趨勢還蠻準的，但又不可能每天都記得去查看中央氣象局網站，如果能在天氣要變冷前提早提醒，就不怕預估錯誤而穿不夠暖了。
 
 ![](https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA/ugdVlKEbumU/s640/chill.png)

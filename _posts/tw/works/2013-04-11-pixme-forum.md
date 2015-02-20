@@ -6,8 +6,9 @@ date: 2013-04-11 15:33
 tags: []
 categories: [tw, works]
 comments: true
-
+og_image: https://lh3.googleusercontent.com/-MN71JQxmXys/UcW_rtpHfqI/AAAAAAAABXM/PCPfIUkPE_U/s640/pixme_forum.png
 ---
+
 Pixme 的使用者支援論壇，以及張貼由官方提供的教學、小技巧等（主要由我執筆）、公告等。
 
 由於主要是把 Forem 與 Devise 拼起來、以及部分客製化，寫的 Code 並不多，主要是需了解這兩個套件如何設定與客製化。

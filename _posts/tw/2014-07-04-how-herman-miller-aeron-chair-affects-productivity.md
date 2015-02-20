@@ -6,8 +6,9 @@ date: 2014-07-04 02:37
 tags: []
 categories: [tw]
 comments: true
-
+og_image: https://lh6.googleusercontent.com/--SWxzfy_UHM/U7YSEMDo2-I/AAAAAAAAB1w/xnoUt9IXUyY/w800-h598-no/aeron-in-office.jpg
 ---
+
 幾個禮拜前下重本買了一把 Herman Miller Aeron 椅放公司
 
 ![](https://lh6.googleusercontent.com/--SWxzfy_UHM/U7YSEMDo2-I/AAAAAAAAB1w/xnoUt9IXUyY/w800-h598-no/aeron-in-office.jpg)

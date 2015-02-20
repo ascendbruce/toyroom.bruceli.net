@@ -7,8 +7,9 @@ tags:
 - Sublime
 categories: [tw]
 comments: true
-
+og_image: http://user-image.logdown.io/user/82/blog/82/post/179064/WK22LRuEQWau88zDMUD7_ctags_jump.gif
 ---
+
 ## 欲達到的功能
 
 ![ctags_jump.gif](http://user-image.logdown.io/user/82/blog/82/post/179064/WK22LRuEQWau88zDMUD7_ctags_jump.gif)

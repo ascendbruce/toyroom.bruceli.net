@@ -6,7 +6,7 @@ date: 2011-11-16 16:18
 tags: []
 categories: [tw]
 comments: true
-
+og_image: http://4.bp.blogspot.com/-5_Cf8sR88E4/TsURmeRFXHI/AAAAAAAAAjw/XWRsMakzTr0/s1600/terminal_curse.png
 ---
 
 
