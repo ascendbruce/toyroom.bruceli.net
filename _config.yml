@@ -13,6 +13,15 @@ markdown: redcarpet
 highlighter: rouge
 timezone: Asia/Taipei
 
+redcarpet:
+  extensions:
+  - strikethrough
+  - autolink
+  - no_intra_emphasis
+  - tables
+  - with_toc_data
+  - safe_links_only
+
 gems:
   - jekyll-sitemap
 
