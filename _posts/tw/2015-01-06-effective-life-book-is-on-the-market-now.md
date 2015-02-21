@@ -12,7 +12,7 @@ og_image: /images/posts/001-effective-life-excerpt.jpg
 
 我大約從去年 10 月開始寫的電子書 [《超效率！生活習慣》](https://leanpub.com/effective-life) 開始販售囉！
 
-[<img class="center" src="{% render_full_url /images/posts/002-effective-life.jpg %}" alt="超效率！生活習慣">](https://leanpub.com/effective-life)
+{% render_post_image 002-effective-life.jpg %}
 
 本書的主要內容是各種效率技巧，包括生活撇步、推薦購買的生產力工具、懶人理財、Mac 設定、行事曆使用、個人 Issue tracking、工作 Issue tracking、檔案目錄配置原則、備份原則、程式設計師效率等；總之就是包山包海的效率建議的精華集。點進去的產品頁就有更詳細的介紹了，所以這篇我想講一些背後的故事。
 
