@@ -6,7 +6,7 @@ build:
     # http://devcenter.wercker.com/articles/languages/ruby.html
     steps:
         - rvm-use:
-              version: 2.0.0
+              version: ruby-2.1.5
 
         # A step that executes `bundle install` command
         - bundle-install
