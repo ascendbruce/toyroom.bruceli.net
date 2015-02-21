@@ -27,7 +27,7 @@ build:
 deploy:
     steps:
         - rvm-use:
-              version: ruby-2.1.5
+            version: ruby-2.1.5
         - bundle-install
         - ascendbruce/s3sync:
             key_id: $KEY
