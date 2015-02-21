@@ -29,5 +29,7 @@ deploy:
         - ascendbruce/s3sync:
             key_id: $KEY
             key_secret: $SECRET
-            bucket_url: $URL
+            bucket_name: $BUCKET
+            cf_distribution_id: $CF_DISTRIBUTION_ID
+            region: ap-northeast-1
             source_dir: _site/
