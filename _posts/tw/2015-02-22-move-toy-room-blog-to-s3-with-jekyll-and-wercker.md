@@ -265,4 +265,11 @@ deploy:
 
 > No additional charge for the first 1,000 files that you request for invalidation each month. $0.005 per file listed in your invalidation requests thereafter.
 
+最後，展示一下自動發佈的總成果，這篇文章是這樣發佈的：
+
+1. 在 BitBucket 上 Merge PR (到 master branch)
+2. 自動 jekyll build > sync to S3 > invalidate CloudFront cache > 完成
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/AMn5JB4Lpto?rel=0" frameborder="0" allowfullscreen></iframe>
+
 以上就是這次搬家的筆記，喜歡的話請按個讚唄～
