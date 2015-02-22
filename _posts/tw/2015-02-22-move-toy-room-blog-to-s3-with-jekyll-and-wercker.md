@@ -273,3 +273,7 @@ deploy:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/AMn5JB4Lpto?rel=0" frameborder="0" allowfullscreen></iframe>
 
 以上就是這次搬家的筆記，喜歡的話請按個讚唄～
+
+## 補言
+
+* 有朋友問為何不用 GitHub page，我的主要原因是不希望 drafts 跟修改記錄被大家看到，而 GitHub 的 private 方案還蠻貴的，所以不太考慮。這點也是 [Jekyll blog Automatically generate and publish on AWS S3 and CloudFront](http://manuelgruber.com/2014/jekyll-auto-publish-aws-s3-cloudfront/) 這篇文章的理由之一。另外，這篇文章沒有主動打 CloudFront invalidation，而是在官方的 s3sync step 加上 `Cache-Control` header，效果跟省錢效果不知如何，過幾個月有空的話也許可以試試看。
