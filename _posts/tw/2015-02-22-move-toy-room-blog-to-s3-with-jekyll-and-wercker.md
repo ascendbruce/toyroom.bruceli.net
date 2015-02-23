@@ -4,7 +4,7 @@ title: "部落格搬家筆記: 改用 Jekyll 並透過 wercker 自動發佈到 S
 date: 2015-02-22 10:00
 categories: [tw]
 tags: []
-og_image: /images/posts/003-jekyll-toyroom.png
+og_image: /images/posts/003-jekyll-toyroom.png?v=2
 ---
 
 過年在老家無聊的時候開始處理一些堆積已久的數位雜事，部落格搬家是其中一個特別大條的，從著手進行到可公開程度就花了 3 天多，搬家後第一篇當然就是搬家記錄囉！
