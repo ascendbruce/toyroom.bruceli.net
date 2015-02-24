@@ -26,13 +26,8 @@ build:
 
 deploy:
     steps:
-        - rvm-use:
-            version: ruby-2.1.5
-        - bundle-install
-        - ascendbruce/s3sync:
+        - s3sync:
             key_id: $KEY
             key_secret: $SECRET
-            bucket_name: $BUCKET
-            cf_distribution_id: $CF_DISTRIBUTION_ID
-            region: ap-northeast-1
+            bucket_url: $URL
             source_dir: _site/
