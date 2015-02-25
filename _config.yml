@@ -31,6 +31,7 @@ exclude:
   - wercker.yml
   - .ruby-version
   - .gitignore
+  - .gitkeep
   - .git
 
 defaults:
