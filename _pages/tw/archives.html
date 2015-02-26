@@ -11,6 +11,6 @@ permalink: /tw/archives/index.html
 </p>
 
 {% for post in site.categories["tw"] %}
-  <span class="date">{{ post.date }}</span>
+  <span class="date">{{ post.date | date: "%Y-%m-%d %H:%M" }}</span>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% endfor %}
