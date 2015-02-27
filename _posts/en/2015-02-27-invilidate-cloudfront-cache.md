@@ -1,6 +1,6 @@
 ---
 title: "Publish Jekyll to S3 and invalidate CloudFront cache automatically with Wercker"
-date: 2015-02-28 11:00
+date: 2015-02-27 14:00
 categories: [en]
 tags: []
 og_image: /images/posts/005-wercker-deploy-done.png
