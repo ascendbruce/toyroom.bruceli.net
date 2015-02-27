@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /tw/about/index.html
+permalink: /tw/about/
 ---
 
-![](/images/world.png) English version: [About](/en/about/index.html)
+![](/images/world.png) English version: [About](/en/about/)
 
 ## 關於這個部落格
 

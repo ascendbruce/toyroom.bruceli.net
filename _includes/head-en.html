@@ -1,4 +1,4 @@
-{% capture canonical %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
+{% capture canonical %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
 
 {% if page.og_image %}
   {% if page.og_image contains 'https://' or page.og_image contains 'http://' %}
