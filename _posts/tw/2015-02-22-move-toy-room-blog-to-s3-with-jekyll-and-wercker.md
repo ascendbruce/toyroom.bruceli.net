@@ -20,7 +20,7 @@ og_image: /images/posts/003-jekyll-toyroom.png?v=2
   * [jekyll-pages-directory](https://github.com/bbakersmith/jekyll-pages-directory) 外掛
   * 過程中還有嘗試過 [jekyll-paginate](https://github.com/jekyll/jekyll-paginate) 跟 [jekyll-category-archive-plugin](https://github.com/shigeya/jekyll-category-archive-plugin) 外掛，但最後不採用
 * Amazon S3 (作為 Static Website Hosting)
-* Amazon CloudFront (節省 S3 費用與加速)
+* Amazon CloudFront (加速)
 * BitBucket (放 Jekyll project source code)
 * Wercker (BitBucket 有更新就會自動 deploy 到 S3)
 * 其他用到的基本服務
@@ -204,7 +204,7 @@ deploy:
 
 ## 設定 CloudFront
 
-由於是作為公開網站，為了節省 S3 流量費用 (依照網站流量有可能用了 CloudFront 費用反而高) 與網頁加速，一般都會建議過 CDN。
+由於是作為公開網站，為了加速一般都會建議過 CDN。
 
 ### 基本設定
 
@@ -286,3 +286,4 @@ subdirectory 的 index.html 預設並不會自動幫你送成 `/subdir/index.htm
 ## 補言
 
 * 有朋友問為何不用 GitHub page，我的主要原因是不希望 drafts 跟修改記錄被大家看到，而 GitHub 的 private 方案還蠻貴的，所以不太考慮。這點也是 [Jekyll blog Automatically generate and publish on AWS S3 and CloudFront](http://manuelgruber.com/2014/jekyll-auto-publish-aws-s3-cloudfront/) 這篇文章的理由之一。另外，這篇文章沒有主動打 CloudFront invalidation，而是在官方的 s3sync step 加上 `Cache-Control` header，效果跟省錢效果不知如何，過幾個月有空的話也許可以試試看。
+* 之前一直覺得上 CDN 可以節省 S3 費用，但看了一下目前的帳單，發現這個不知道從哪聽來的經驗似乎不適用於貴森森的 Amazon CloudFront，所以只好當「享受加速的好處」了。
