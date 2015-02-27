@@ -204,7 +204,7 @@ deploy:
 
 ## 設定 CloudFront
 
-由於是作為公開網站，為了節省 S3 流量費用與網頁加速，一般都會建議過 CDN。
+由於是作為公開網站，為了節省 S3 流量費用 (依照網站流量有可能用了 CloudFront 費用反而高) 與網頁加速，一般都會建議過 CDN。
 
 ### 基本設定
 
@@ -218,7 +218,7 @@ deploy:
 
 參考 [Why won’t index files deployed on Cloudfront work like it does in S3?](http://brajeshwar.com/2013/why-wont-index-files-deployed-on-cloudfront-work-like-it-does-in-s3/) 一文把預設的 Origin 改掉即可。
 
-但接下來會遇到 Cache Invalidation 的問題，因此還是建議避免依靠 default index file (root 除外)。
+~~但接下來會遇到 Cache Invalidation 的問題，因此還是建議避免依靠 default index file (root 除外)。~~ 下一節會補充解決方法
 
 ### Cache Invalidations 問題
 
@@ -233,6 +233,8 @@ deploy:
 但長期來說這樣是很麻煩的，我之所以想用 Wercker 就是希望必要時可以 **直接在 BitBucket 線上編輯器改好後，剩下的 build, release, invalidate cache 就自動完成**。
 
 研究一下後發現官方的 s3sync step 有個相關 issue: [Use newer s3cmd version](https://github.com/wercker/step-s3sync/issues/4)，大意是說 Wercker 使用的 `s3cmd` 版本太舊不支援 `--cf-invalidate` option，因此有人寫了自己的 step，把底層換成 s3_website gem。
+
+> 補言：官方 s3sync 已經大更新，現在可以支援 `--cf-invalidate` option，我轉回去的過程很順利，只是 invalidate default index or path 的行為跟 s3_website 不一樣，需要自己加上參數，底下會介紹到。
 
 確認了一下他的成果，發現似乎不適用於我採用的  Wercker box，所以我 又 fork 了自己的版本 [ascendbruce/step-s3sync](https://github.com/ascendbruce/step-s3sync) ，使用上有一些前提：
 
@@ -259,7 +261,14 @@ deploy:
 
 官方文件有教怎麼寫自己的 step: [Creating your own steps](http://devcenter.wercker.com/articles/steps/create.html)，開發過程我有遇到一些小細節問題補了好幾次，如果想寫自己的版本的話，可以加減參考我的 commit log。
 
-換成改過的 step 後，每次 sync 到 S3 後就會自動打 CloudFront API，就觀察似乎不是無差別全打，但不清楚是怎麼判斷的。不過，subdirectory 的 index.html 並不會自動幫你送成 `/subdir/index.html` 跟 `/subdir/` 兩個，這就是為什麼前一節提到應避免依靠 default index file。
+換成改過的 step 後，每次 sync 到 S3 後就會自動打 CloudFront API，就觀察似乎不是無差別全打，但不清楚是怎麼判斷的。
+
+> 補言：應該是依照跟 S3 sync 時有更動的檔案。
+
+subdirectory 的 index.html 預設並不會自動幫你送成 `/subdir/index.html` 跟 `/subdir/` 兩個，參考 [s3cmd Usage 文件](http://s3tools.org/usage) 加上你需要的 option：
+
+* `--cf-invalidate-default-index`: invalidate /subdir/index.html
+* `--cf-no-invalidate-default-index-root` 不 invalidate /subdir/ (因為預設會)
 
 另外免費 invalidation 是有額度限制的，目前 [收費標準](http://aws.amazon.com/cloudfront/pricing/) 如下
 
