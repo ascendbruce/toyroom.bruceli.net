@@ -1,0 +1,4 @@
+url: "http://127.0.0.1:4000"
+
+# start development server by running:
+# jekyll s --drafts --config _config.yml,_config-dev.yml

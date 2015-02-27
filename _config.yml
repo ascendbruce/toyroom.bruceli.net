@@ -29,6 +29,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - wercker.yml
+  - _config.yml
   - .ruby-version
   - .gitignore
   - .gitkeep
