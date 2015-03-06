@@ -31,4 +31,4 @@ deploy:
             key_secret: $SECRET
             bucket_url: $URL
             source_dir: _site/
-            opts: --verbose --acl-public
+            opts: --acl-public --cf-invalidate --cf-invalidate-default-index
