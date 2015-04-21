@@ -10,7 +10,7 @@ permalink: /en/about/
 
 Hi!
 
-I am Bruce Li, a.k.a. Li PoChun (黎柏均), a web developer in Taipei, Taiwan. I currently work at [SpoonRocket](http://spoonrocket.com/).
+I am Bruce Li, a.k.a. Li PoChun (黎柏均), a web developer in Taipei, Taiwan.
 
 I will post some articles about learning ruby, rails, other techniques such as javascipts, git and linux/mac configuration. Some of them will be in English.
 

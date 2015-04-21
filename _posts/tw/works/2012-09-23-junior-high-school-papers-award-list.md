@@ -35,5 +35,6 @@ og_image: https://lh4.googleusercontent.com/-S14b1A_X4oc/UcW_rNg2iXI/AAAAAAAABW8
 
 ## CHANGELOG
 
+* 2015-04-11 正式關站，因原始構想遲遲沒有進展，與 Kris 討論後決定正式終止此計畫
 * 凍結更新，最後匯入期數為 1011115 (約 2013-01-07)
 * 初版上線 (約 2012-09-23)

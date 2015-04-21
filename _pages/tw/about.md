@@ -10,7 +10,7 @@ permalink: /tw/about/
 
 嗨！
 
-我是黎柏均，網頁工程師，目前在 [SpoonRocket](http://spoonrocket.com/) 服務。
+我是黎柏均，網頁工程師。
 
 這邊會發佈一些關於 ruby、rails 的學習筆記，或其他的技術如 javascript, git, linux 等，有些會有英文版。
 
@@ -44,6 +44,7 @@ permalink: /tw/about/
 * 更多作品介紹請參考 [作品集](/tw/works/)
 
 ### 我的興趣
+
 我有興趣的事情不少，歡迎有同樣興趣的朋友來聊聊XD
 
 * 成功學
