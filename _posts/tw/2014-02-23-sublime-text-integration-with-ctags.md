@@ -51,10 +51,12 @@ which ctags # 應該出現 /usr/local/bin/ctags
 
 如果 Sublime 還是吃不到 homebrew 的 ctags，可以強制指定
 
-``` json 選單 Sublime Text > Preferences > Package Settings > Ctags > Settings - User
+選單 Sublime Text > Preferences > Package Settings > Ctags > Settings - User
+
+``` ruby
 {
   "command": "/usr/local/bin/ctags", # 可以在這行指定 ctags 路徑
-  "autocomplete": true # 順便利用 ctags 來做 autocomplete
+  "autocomplete": true               # 順便利用 ctags 來做 autocomplete
 }
 ```
 
@@ -72,7 +74,7 @@ which ctags # 應該出現 /usr/local/bin/ctags
 
 ### 設定 git ignore
 
-首先要說一件事，如果你從 command line 自己下 `ctags` 指令時，預設檔名是 `tags`。但由於 `tags` 也是很常見的名稱，常常造成衝突，因此現在大多習慣用 `.tags` 取代之，sublime CTags 外掛也遵循這個慣例。
+首先要說一件事，如果你從 command line 自己下 `ctags` 指令時，預設檔名是 `tags`。但由於 `tags` 也是很常見的名稱，常常造成衝突，因此現在大多習慣用 `.tags` 取代之，Sublime CTags 外掛也遵循這個慣例。
 
 各 project 一一放到 `.gitignore` 也可以，但通常大家手上都很多 projects，而且基本上很少有與 `.tags` 名稱衝突的檔案，因此我直接設到 gitignore_global。
 
@@ -92,11 +94,13 @@ which ctags # 應該出現 /usr/local/bin/ctags
 
 由於 .tags 也是純文字檔，全 project 搜尋時也會找到其內容，而且因為是 `.` 開頭，通常都蠻前面的，有點惱人。因此用 User Preference 將這幾個檔案排除，除了搜尋不到，也會從左側檔案列表內消失。
 
-``` json 選單 Sublime Text > Prefences > Settings - User
+選單 Sublime Text > Prefences > Settings - User
+
+``` ruby
 {
-  ...,
+  # ...,
   "file_exclude_patterns": [".tags", ".tags_sorted_by_file", ".gemtags"],
-  ...
+  # ...
 }
 ```
 
@@ -137,7 +141,9 @@ ctags -R -f .gemtags $(bundle list --paths)
 * Sublime Text 用 `/usr/local/bin/ctags`
 * 若想更新來自 gems 的內容，在 Project 目錄下執行 `ctags_ruby_enhance`
 
-``` bash ctags_ruby_enhance # (放在 PATH 可吃到的目錄下)
+檔案: ctags_ruby_enhance (放在 PATH 可吃到的目錄下)
+
+``` bash
 #!/bin/bash
 
 /usr/local/bin/ctags -R -f .tags .
