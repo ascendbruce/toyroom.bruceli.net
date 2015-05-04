@@ -117,7 +117,14 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+
 }
+
+blockquote.hightlight {
+    color:$text-color;
+    border-left: 4px solid #FF9900;
+}
+
 
 
 
