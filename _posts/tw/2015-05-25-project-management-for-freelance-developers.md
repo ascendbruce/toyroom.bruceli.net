@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Management for Freelance Developers 課程心得"
+title: "Project Management for Freelance Developers 課程筆記"
 date: 2015-05-25 10:30
 categories: [tw]
 tags: []
