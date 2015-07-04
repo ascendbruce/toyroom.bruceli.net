@@ -35,7 +35,7 @@ og_image: /images/posts/003-jekyll-toyroom.png?v=2
 
 其實用別人的部落格平台還是比較方便的，不用自己管網站、機器、特殊字元、發佈機制等，但為什麼我還是換成 Jekyll 呢？其實這提供了幾個特殊功能，是我一直想要、但透過別人平台很難達成的：
 
-* 有 default 的 og:image，單篇文章可另外指定 (範例: [預設]({% post_url tw/2014-12-10-resolve-sublime-text-3-erb-conflicting-end-tab-trigger %})、[自訂]({% post_url tw/2015-01-06-effective-life-book-is-on-the-market-now %}))
+* 有預設的全站 og:image，但單篇文章可以單獨指定 og:image (範例: [使用預設]({% post_url tw/2014-12-10-resolve-sublime-text-3-erb-conflicting-end-tab-trigger %})、[自訂]({% post_url tw/2015-01-06-effective-life-book-is-on-the-market-now %}))
 * 首頁與 RSS feed 分中英兩組、Layout 可雙語切換、部分文章可雙語切換 ([範例]({% post_url tw/2013-09-20-disable-itunes-starts-by-media-key %}))
 * [作品集專頁](/tw/works/)，可以高度客製化 (畢竟 HTML 控制權在我手上，下次有空就會料理它)
 
@@ -229,6 +229,8 @@ deploy:
 * 似乎不支援 wildcard 字元 (`*` 或 `**`)
 * 所以我用 `find _site -type f` 列出所有靜態檔案再整理格式 (用空白或換行分隔)
 * `/` 跟 `/index.html` 各自算一個 object，因此要分開列出
+
+> 2015-05-21 起支援 wildcard 了，但有一些限制，請參考 [gslin 大大的重點整理](https://blog.gslin.org/archives/2015/05/23/5797/cloudfront-%E6%94%AF%E6%8F%B4-wildcard-invalidation/) 跟 [官方公告](http://aws.amazon.com/about-aws/whats-new/2015/05/amazon-cloudfront-makes-it-easier-to-invalidate-multiple-objects/)。
 
 但長期來說這樣是很麻煩的，我之所以想用 Wercker 就是希望必要時可以 **直接在 BitBucket 線上編輯器改好後，剩下的 build, release, invalidate cache 就自動完成**。
 
