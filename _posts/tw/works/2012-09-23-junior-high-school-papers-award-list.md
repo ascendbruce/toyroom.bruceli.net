@@ -15,8 +15,6 @@ og_image: https://lh4.googleusercontent.com/-S14b1A_X4oc/UcW_rNg2iXI/AAAAAAAABW8
 
 ![](https://lh4.googleusercontent.com/-S14b1A_X4oc/UcW_rNg2iXI/AAAAAAAABW8/sab8CpczfRI/s640/junior_papers.png)
 
-網址: http://bruce.non.tw/junior_papers
-
 ## 主要組成
 
 * 列表、搜尋

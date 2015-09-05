@@ -13,7 +13,7 @@ og_image: https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA
 
 ![](https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA/ugdVlKEbumU/s640/chill.png)
 
-網址: http://bruce.non.tw/chill/
+網址: http://chill.bruceli.net/
 
 ## 主要組成
 

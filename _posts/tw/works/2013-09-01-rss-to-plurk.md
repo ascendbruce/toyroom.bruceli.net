@@ -13,7 +13,7 @@ og_image: https://lh3.googleusercontent.com/-5ysMI6Vqk5U/UiNLaqOCsKI/AAAAAAAABfM
 
 ![](https://lh3.googleusercontent.com/-5ysMI6Vqk5U/UiNLaqOCsKI/AAAAAAAABfM/R11T1rKWpPA/s640/rss2plurk.png)
 
-網址: http://bruce.non.tw/rss2plurk
+網址: http://rss2plurk.bruceli.net/
 
 ## 主要組成
 

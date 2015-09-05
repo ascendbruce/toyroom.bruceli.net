@@ -15,7 +15,7 @@ og_image: https://lh6.googleusercontent.com/-eWLoyIVHA94/UcW_q-cNffI/AAAAAAAABW0
 
 ![](https://lh6.googleusercontent.com/-eWLoyIVHA94/UcW_q-cNffI/AAAAAAAABW0/nA3oveKlEyQ/s640/books66.png)
 
-網址: http://bruce.non.tw/books66
+網址: http://books66.bruceli.net/
 
 ## 主要組成
 

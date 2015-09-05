@@ -13,7 +13,7 @@ og_image: https://lh5.googleusercontent.com/-_pq496B_p-I/Ue_q34kWTGI/AAAAAAAABc0
 
 ![](https://lh5.googleusercontent.com/-_pq496B_p-I/Ue_q34kWTGI/AAAAAAAABc0/9RE4fSz8aVE/s640/wawa_rss.png)
 
-網址: http://bruce.non.tw/wawa_rss
+網址: http://wawarss.bruceli.net/
 
 ## 主要組成
 
