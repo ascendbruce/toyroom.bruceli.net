@@ -38,9 +38,9 @@ permalink: /tw/about/
 
 一些閒餘時間做的小工具，歡迎使用。
 
-* [溫度驟降預報](http://bruce.non.tw/chill/index)
-* [最新出版漫畫/輕小說資訊 - 蛙蛙書單 RSS](http://bruce.non.tw/wawa_rss/)
-* [博客來66折優化電子報](http://bruce.non.tw/books66/index)
+* [溫度驟降預報](http://chill.bruceli.net/)
+* [最新出版漫畫/輕小說資訊 - 蛙蛙書單 RSS](http://wawarss.bruceli.net/)
+* [博客來66折優化電子報](http://books66.bruceli.net/)
 * 更多作品介紹請參考 [作品集](/tw/works/)
 
 ### 我的興趣
