@@ -141,3 +141,7 @@ uri = URI('http://localhost:9292/users/generate')
   Thread.new { Net::HTTP.get_response(uri) }
 }.each(&:join)
 ```
+
+## 其他解法
+
+其實這不是唯一的解法，例如 JokerCatz 就用 [Integer Obfuscator](http://jokercatz.blogspot.tw/2015/03/ruby-integer-obfuscator.html) 來解這樣的問題（簡單來說就是 hash function），在一定範圍內不會碰撞，因此有寫入速度快的優點（不用依靠 DBMS 的 unique constraint）。但小弟服務的公司有一些考量，最後還是採用真亂數的解法，這篇是採用此解法的筆記。
