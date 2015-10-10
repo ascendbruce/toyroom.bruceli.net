@@ -14,7 +14,7 @@ og_image: /images/posts/008-binary-binary-codes.jpg
 
 有寫過一點 Rails 的人可能馬上就會想到在 Model 加個 `validates :short_token, uniqueness: true` 並在碰撞的時候用迴圈嘗試重新幾次，但這其實是不保險的：兩個 requests 同時發生的話會 [race condition](https://en.wikipedia.org/wiki/Race_condition#Critical_and_non-critical_race_conditions)。
 
-> 這不保險的程度大概是 99.999% vs 100% 吧，但因為這個 token 可能非常重要，所以我還是把 race condition 考慮進來了。
+> 這不保險的程度依照你的流量而定，網站流量很小的話可能前幾個月都不會遇到這種問題，但最好一開始就考慮進來，畢竟這種 token 欄位通常都很重要，一旦發生重複會有很麻煩的問題（業務會出包之類的）。
 
 ## 解決辦法
 
