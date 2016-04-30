@@ -48,6 +48,12 @@
         }
     }
 
+    .page-link_lang_switch {
+        @extend .page-link;
+
+        font-size: 11px;
+    }
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
@@ -89,6 +95,10 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+        }
+
+        .page-link_lang_switch {
+            font-size: $base-font-size;
         }
     }
 }
