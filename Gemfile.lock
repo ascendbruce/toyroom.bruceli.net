@@ -14,7 +14,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
-    jekyll-sitemap (0.8.0)
+    jekyll-sitemap (0.10.0)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.11.0)
@@ -23,12 +23,11 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
-    nio4r (1.2.1)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     redcarpet (3.3.4)
-    rouge (1.8.0)
+    rouge (1.10.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
 
@@ -37,11 +36,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.1)
-  jekyll-sitemap (~> 0.8.0)
-  nio4r (~> 1.1)
+  jekyll-sitemap
   redcarpet
-  rouge (~> 1.8.0)
-  safe_yaml (~> 1.0.4)
+  rouge
 
 BUNDLED WITH
    1.12.1
