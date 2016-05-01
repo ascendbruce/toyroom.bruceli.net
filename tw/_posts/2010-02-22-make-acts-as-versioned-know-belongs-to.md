@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-![](/images/world.png) English version: [Make acts_as_versioned know target model belongs_to association]({% post_url en/2010-02-22-make-acts-as-versioned-know-belongs-to %})
+![](/images/world.png) English version: [Make acts_as_versioned know target model belongs_to association]({% post_url en/2010-02-22-make-acts-as-versioned-know-belongs-to-en %})
 
 acts_as_versioned 是個好套件。只要一點設定他就可以幫你紀錄model的版本變動。可是他預設沒有支援has_*/belongs_to的資料庫關聯，所以讓我們來看看要如何打開這個功能。
 
