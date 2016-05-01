@@ -11,7 +11,7 @@ has_many 沒有指定 dependent 的時候，使用 object.associations.delete_al
 
 {% render_post_image 009-code-bug.jpg %}
 
-> Pic CC-BY by Guilherme Tavares https://flic.kr/p/3AvBtV
+> Pic CC-BY by Guilherme Tavares <https://flic.kr/p/3AvBtV>
 
 不經意看到這篇文章 [關於delete_all的Bug](http://kuro-sean-blog.logdown.com/posts/611685)，把他的 git repo 抓下來試試看，行為還真的如他所述，更加引起我的好奇，因此挖進去看一下。這篇是追查的結果，也順便把我追查的過程記錄下來。
 
