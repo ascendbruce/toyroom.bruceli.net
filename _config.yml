@@ -9,18 +9,13 @@ github_username:  ascendbruce
 og_image: "/images/default_og_image.jpg"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 timezone: Asia/Taipei
 
-redcarpet:
-  extensions:
-    - strikethrough
-    - autolink
-    - no_intra_emphasis
-    - tables
-    - with_toc_data
-    - safe_links_only
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
 
 gems:
   - jekyll-sitemap
@@ -44,13 +39,13 @@ defaults:
       author: "Bruce Li"
   -
     scope:
-      path: "tw"
+      path: "tw/_posts"
       type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: "en"
+      path: "en/_posts"
       type: "posts"
     values:
       layout: "post-en"
