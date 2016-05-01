@@ -28,6 +28,16 @@
         letter-spacing: 0;
         margin-left: 12px;
     }
+
+    .site-title_lang_switch {
+        @extend .site-subtitle;
+    }
+
+    @include media-query($on-palm) {
+        .site-title_lang_switch {
+            display: none;
+        }
+    }
 }
 
 .site-nav {
@@ -50,8 +60,7 @@
 
     .page-link_lang_switch {
         @extend .page-link;
-
-        font-size: 11px;
+        display: none;
     }
 
     @include media-query($on-palm) {
@@ -98,7 +107,7 @@
         }
 
         .page-link_lang_switch {
-            font-size: $base-font-size;
+            display: inline;
         }
     }
 }
