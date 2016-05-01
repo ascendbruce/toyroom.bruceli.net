@@ -44,13 +44,13 @@ defaults:
       author: "Bruce Li"
   -
     scope:
-      path: "tw"
+      path: "tw/_posts"
       type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: "en"
+      path: "en/_posts"
       type: "posts"
     values:
       layout: "post-en"
