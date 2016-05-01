@@ -8,7 +8,7 @@ categories: [tw]
 comments: true
 
 ---
-上一篇 [RailsConf 2014 行 - 學習的部份]({% post_url tw/2014-05-01-railsconf-2014-chicago-what-i-learned %}) 提到講題學到的技術、經驗，以及一些嚴肅話題的觀察，這篇會寫去玩跟其他小觀察。
+上一篇 [RailsConf 2014 行 - 學習的部份]({% post_url 2014-05-01-railsconf-2014-chicago-what-i-learned %}) 提到講題學到的技術、經驗，以及一些嚴肅話題的觀察，這篇會寫去玩跟其他小觀察。
 
 ### 坐飛機靠窗看風景
 

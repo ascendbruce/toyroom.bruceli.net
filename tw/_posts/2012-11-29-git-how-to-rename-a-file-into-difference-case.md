@@ -8,7 +8,7 @@ categories: [tw]
 comments: true
 
 ---
-![](/images/world.png) English version: [Git: How to Rename a File Into Differ Case]({% post_url en/2012-12-01-git-how-to-rename-a-file-into-difference-case %})
+![](/images/world.png) English version: [Git: How to Rename a File Into Differ Case]({% post_url 2012-12-01-git-how-to-rename-a-file-into-difference-case %})
 
 今天手殘把某個資料夾大小寫打錯，導致rails沒辦法找到正確的檔案，但想改名的時候發現，如果直接改大小寫，git並不會抓到修改！  
   

@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-![](/images/world.png) English version: [Upgrade natescherer:apn_on_rails to new version of PRX:apn_on_rails gem]({% post_url en/2013-07-11-upgrade-apn-on-rails-gem %})
+![](/images/world.png) English version: [Upgrade natescherer:apn_on_rails to new version of PRX:apn_on_rails gem]({% post_url 2013-07-11-upgrade-apn-on-rails-gem %})
 
 
 ## 更換的原因

@@ -9,7 +9,7 @@ excerpt: Finding your own user account in rails console is very frequent command
 
 ---
 
-![](/images/world.png) 正體中文版: [如何簡化「常常在 rails console 裡反覆輸入某些指令」的狀況]({% post_url tw/2014-06-14-using-irbrc-to-serve-frequent-used-commands-in-rails-console %})
+![](/images/world.png) 正體中文版: [如何簡化「常常在 rails console 裡反覆輸入某些指令」的狀況]({% post_url 2014-06-14-using-irbrc-to-serve-frequent-used-commands-in-rails-console %})
 
 
 Finding your own user account in rails console is very frequent command in daily work. But key the full command is very inconvenient and waste time. You can use this technique to save time!

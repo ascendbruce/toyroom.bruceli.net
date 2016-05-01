@@ -17,7 +17,7 @@ T客邦有許多優秀前輩經手並建立起來的 codebase 與 infrastructure
 
 > 但是，若抱著「我什麼都不會，但是我願意學習」的心態來應徵，恐怕機會是比較小的。如果有心，應該會展現在「我在某某線上課程完成多少課」、「我做過這個那個 side projects」或「我有個技術筆記分享部落格」等結果上，如果跟你競爭的應徵者多少有這類的成果可參考，那結果...你知道的。
 >
-> 這部分還可以參考我的另一篇文章 [應徵 Rails 工作的心得]({% post_url tw/2014-02-26-my-experience-on-applying-rails-jobs %})。
+> 這部分還可以參考我的另一篇文章 [應徵 Rails 工作的心得]({% post_url 2014-02-26-my-experience-on-applying-rails-jobs %})。
 
 ## Rails 101 訓練
 
