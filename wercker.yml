@@ -1,13 +1,10 @@
-box: wercker/rvm@6.0.0
+box: ruby:2.3.0
 # Build definition
 build:
     # The steps that will be executed on build
     # See the Ruby section on the wercker devcenter:
     # http://devcenter.wercker.com/articles/languages/ruby.html
     steps:
-        - rvm-use:
-              version: ruby-2.3.0
-
         # A step that executes `bundle install` command
         - bundle-install
 
