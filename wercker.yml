@@ -28,4 +28,13 @@ deploy:
             key_secret: $SECRET
             bucket_url: $URL
             source_dir: _site/
+            opts: --acl-public
+
+deploy-cf-invalidate:
+    steps:
+        - s3sync:
+            key_id: $KEY
+            key_secret: $SECRET
+            bucket_url: $URL
+            source_dir: _site/
             opts: --acl-public --cf-invalidate --cf-invalidate-default-index
