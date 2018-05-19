@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-![](/images/world.png) 正體中文版: [Rails sending emails via gmail not working in heroku server but ok in localhost]({% post_url 2010-02-20-rails-sending-emails-via-gmail-in-heroku %})
+![](/images/world.png) 正體中文版: [Rails sending emails via gmail not working in heroku server but ok in localhost]({% link tw/_posts/2010-02-20-rails-sending-emails-via-gmail-in-heroku.md %})
 
 
 I've encountered a problem that my rails app can send email via gmail properly in my computer but not working in heroku server (get an error: "Must issue a STARTTLS command first").

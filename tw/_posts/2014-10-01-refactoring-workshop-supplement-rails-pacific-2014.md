@@ -27,7 +27,7 @@ Rails Pacific 開始的前幾天，因為下腹持續疼痛跑醫院，醫生建
 
 ## pry 的進階
 
-* [超棒的 rails console 設定]({% post_url 2014-08-13-awesome-rails-console-customization-using-pry %})
+* [超棒的 rails console 設定]({% link tw/_posts/2014-08-13-awesome-rails-console-customization-using-pry.md %})
 * <http://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debugger-gem>
 * <http://knomedia.github.io/blog/2013/01/21/debugging-ruby-with-pry/>
 * <https://github.com/pry/pry/wiki>

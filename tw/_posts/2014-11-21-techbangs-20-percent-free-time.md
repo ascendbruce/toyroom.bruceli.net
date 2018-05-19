@@ -73,4 +73,4 @@ T客邦目前還有 Rails 職缺，歡迎對 20% 自由研究時間會感到興�
 
 [Rails Developer 數名 - T客邦 (城邦文化事業股份有限公司) - Inside Job Board](http://jobs.inside.com.tw/jobs/9811)
 
-另外也可參考 [新進工程師如何學習 Rails]({% post_url 2014-11-12-how-engineers-learn-rails-in-techbang %}) 了解在T客邦可能的學習之路。
+另外也可參考 [新進工程師如何學習 Rails]({% link tw/_posts/2014-11-12-how-engineers-learn-rails-in-techbang.md %}) 了解在T客邦可能的學習之路。

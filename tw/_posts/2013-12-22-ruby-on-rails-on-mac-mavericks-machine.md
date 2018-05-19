@@ -9,7 +9,7 @@ categories: [tw]
 comments: true
 
 ---
-之前「[很久沒維護]({% post_url 2013-11-16-mac-rvm-install-ruby-problem-solving-log %})」的那台，後來終於生氣重灌成 Mavericks 了。這邊記錄一下 Rails 環境設定過程。
+之前「[很久沒維護]({% link tw/_posts/2013-11-16-mac-rvm-install-ruby-problem-solving-log.md %})」的那台，後來終於生氣重灌成 Mavericks 了。這邊記錄一下 Rails 環境設定過程。
 
 這篇的原則是：有 GUI 就用 GUI，有官方安裝指令就用官方的。
 

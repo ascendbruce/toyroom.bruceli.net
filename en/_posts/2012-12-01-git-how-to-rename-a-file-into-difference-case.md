@@ -8,7 +8,7 @@ categories: [en]
 comments: true
 ---
 
-![](/images/world.png) 正體中文版: [如何修改git檔名大小寫]({% post_url 2012-11-29-git-how-to-rename-a-file-into-difference-case %})
+![](/images/world.png) 正體中文版: [如何修改git檔名大小寫]({% link tw/_posts/2012-11-29-git-how-to-rename-a-file-into-difference-case.md %})
 
 Yesterday I carelessly made a typo on case of directory name. Result in Rails can't find file correctly. But when I try to rename it. I found out that git doesn't recognize a change that same name in differ case (case-insensitive).
 

@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-![](/images/world.png) 正體中文版: [Make acts_as_versioned know target model belongs_to association]({% post_url 2010-02-22-make-acts-as-versioned-know-belongs-to %})
+![](/images/world.png) 正體中文版: [Make acts_as_versioned know target model belongs_to association]({% link tw/_posts/2010-02-22-make-acts-as-versioned-know-belongs-to.md %})
 
 
 acts_as_versioned is a great plug-in for Rails. It can keep track of all modifications to your target model with only a little setup. But it seems not support has_*/belongs_to association by default. So let's see how to enable this.

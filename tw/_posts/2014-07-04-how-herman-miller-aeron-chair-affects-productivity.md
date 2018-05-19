@@ -17,7 +17,7 @@ og_image: https://lh6.googleusercontent.com/--SWxzfy_UHM/U7YSEMDo2-I/AAAAAAAAB1w
 
 因此，這篇是把我這段時間 time tracking 的記錄變化跟心得整理起來，希望有幫助到正在考慮買 Aeron 椅的人。
 
-> Aeron 椅也有出現在我的 [軟體工程師裝備建議]({% post_url 2014-06-04-software-engineer-equipment-recommendations %}) 清單裡，也可以參考看看其他建議。
+> Aeron 椅也有出現在我的 [軟體工程師裝備建議]({% link tw/_posts/2014-06-04-software-engineer-equipment-recommendations.md %}) 清單裡，也可以參考看看其他建議。
 
 ## 來算算數
 

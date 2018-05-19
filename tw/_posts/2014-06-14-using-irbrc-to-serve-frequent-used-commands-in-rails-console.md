@@ -12,7 +12,7 @@ excerpt: 開發的時候常需要在 rails console 下尋找一個 user 來做�
 
 ---
 
-![](/images/world.png) English version: [Save your time in rails console by using irbrc to provide shortcuts for frequent commands]({% post_url 2015-08-13-using-irbrc-to-serve-frequent-used-commands-in-rails-console %})
+![](/images/world.png) English version: [Save your time in rails console by using irbrc to provide shortcuts for frequent commands]({% link en/_posts/2015-08-13-using-irbrc-to-serve-frequent-used-commands-in-rails-console.md %})
 
 
 開發的時候常需要在 rails console 下尋找一個 user 來做某些實驗，通常是用自己的帳號，因此就會每天都在敲 `user = User.find_by_email(自己的 email)`，很浪費時間，用這個技巧就可以改善此類問題。

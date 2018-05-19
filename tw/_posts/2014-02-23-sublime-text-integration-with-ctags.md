@@ -181,4 +181,4 @@ fi
 
 最近還玩了一下 sublime_debugger：sublime 跟 ruby-debugger/byebug 整合，做到類似 Visual Studio 的強大 debug 功能（擁有 break point、逐行執行、區域變數列表、immediate evaluate 等等功能），如果有空的話希望也能寫成一篇啊啊啊啊啊啊
 
-> * 2014-03-04 UPDATE: 已寫 => [安裝 Sublime Text 3 互動式 Ruby Debug 外掛]({% post_url 2014-03-04-sublime-text-3-with-rails-debugger-tutorial %})
+> * 2014-03-04 UPDATE: 已寫 => [安裝 Sublime Text 3 互動式 Ruby Debug 外掛]({% link tw/_posts/2014-03-04-sublime-text-3-with-rails-debugger-tutorial.md %})
