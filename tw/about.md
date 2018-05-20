@@ -102,5 +102,5 @@ permalink: /tw/about/
 
 ### 聯絡我
 
-![my email](/images/email.png)
+![my email]({% link /images/email.png %})
 ([若e-mail圖片失效請按此](http://dl.dropbox.com/u/757630/shared/myemail.png))

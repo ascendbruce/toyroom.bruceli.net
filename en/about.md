@@ -18,4 +18,5 @@ I am not a native English speaker. So feel free to correct me on spelling, gramm
 
 My email address is:
 
-![my email](/images/email.png)
+![my email]({% link /images/email.png %})
+
