@@ -27,7 +27,7 @@ og_image: /images/posts/001-effective-life-excerpt.jpg
 
 另一方面則是我想嘗試看看 Lean 的精神 —— 快速出貨，快速改進商品，所以如果您有想知道的類別、覺得應該補充的項目、覺得我解法不夠好的地方都歡迎跟我說。在本篇文章底下留言或寄 Email 都可以：
 
-![]({% link /images/email.png %})
+![my email]({% link /images/email.png %})
 
 ## 書名是怎麼來的
 
