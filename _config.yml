@@ -27,7 +27,6 @@ markdown: kramdown
 
 kramdown:
   input:  GFM
-  syntax_highlighter: rouge
 plugins:
   - jekyll-sitemap
 
@@ -46,7 +45,6 @@ exclude:
   - .git
 
 # User custom
-highlighter: rouge
 timezone: Asia/Taipei
 og_image: "/images/default_og_image.jpg"
 
