@@ -7,7 +7,7 @@ tags: []
 og_image: /images/posts/006-project-management-for-freelance-developers.png
 ---
 
-{% render_post_image 006-project-management-for-freelance-developers.png %}
+![cover]({{ "/images/posts/006-project-management-for-freelance-developers.png" | absolute_url }})
 
 最近在 Learnable 網站修了一門課 [Project Management for Freelance Developers](https://learnable.com/courses/project-management-for-freelance-developers-2899/)，雖然是很基礎的 Project Management，但做為入門基礎還算不錯，以下是我做的筆記重點。
 

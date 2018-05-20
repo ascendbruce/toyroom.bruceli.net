@@ -9,7 +9,7 @@ og_image: /images/posts/003-jekyll-toyroom.png?v=2
 
 過年在老家無聊的時候開始處理一些堆積已久的數位雜事，部落格搬家是其中一個特別大條的，從著手進行到可公開程度就花了 3 天多，搬家後第一篇當然就是搬家記錄囉！
 
-{% render_post_image 003-jekyll-toyroom.png %}
+![cover]({{ "/images/posts/003-jekyll-toyroom.png" | absolute_url }})
 
 ## 技術規格跟用到的服務
 
@@ -194,7 +194,7 @@ deploy:
 
 效果
 
-{% render_post_image 004-wercker-deploy.png %}
+![cover]({{ "/images/posts/004-wercker-deploy.png" | absolute_url }})
 
 ### 設定 404 page
 

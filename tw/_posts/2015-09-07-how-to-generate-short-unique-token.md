@@ -6,7 +6,7 @@ tags: []
 og_image: /images/posts/008-binary-binary-codes.jpg
 ---
 
-{% render_post_image 008-binary-binary-codes.jpg %}
+![cover]({{ "/images/posts/008-binary-binary-codes.jpg" | absolute_url }})
 
 > Pic CC-BY-SA by Christiaan Colen https://flic.kr/p/x9G5bQ
 

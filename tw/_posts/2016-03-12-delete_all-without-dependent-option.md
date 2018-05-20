@@ -9,7 +9,7 @@ excerpt: "has_many 沒有指定 dependent 的時候，使用 object.associations
 
 has_many 沒有指定 dependent 的時候，使用 object.associations.delete_all，其行為可能會讓你有點意外
 
-{% render_post_image 009-code-bug.jpg %}
+![cover]({{ "/images/posts/009-code-bug.jpg" | absolute_url }})
 
 > Pic CC-BY by Guilherme Tavares <https://flic.kr/p/3AvBtV>
 
