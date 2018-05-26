@@ -11,6 +11,12 @@ Make sure:
 Then
 
 ```
+jekyll s --drafts --config _config.yml,_config-dev.yml
+```
+
+other usful commands
+
+```
 jekyll build # or
 jekyll server
 ```
@@ -20,14 +26,18 @@ jekyll server
 * http://toyroom.bruceli.net/
 * http://toyroom-staging.bruceli.net/
 
-## Build and deploy system
+## Deploy Production
 
-* https://app.wercker.com/ascendbruce/toyroom.bruceli.net
-* when push to origin
-  * if master => deploy staging and production
-  * else => deploy to staging only
+Uses GitHub pages
 
-## Repo
+git push master to https://github.com/ascendbruce/toyroom.bruceli.net
 
-* https://github.com/ascendbruce/toyroom.bruceli.net
-* https://github.com/ascendbruce/toyroom.bruceli.net-staging (experimental for github pages)
+## Deploy Staging
+
+1. branch off
+2. make change following configs:
+    ```diff
+    - url: "https://toyroom.bruceli.net"
+    + url: "https://toyroom-staging.bruceli.net"
+    ```
+3. git push master to https://github.com/ascendbruce/toyroom.bruceli.net-staging
