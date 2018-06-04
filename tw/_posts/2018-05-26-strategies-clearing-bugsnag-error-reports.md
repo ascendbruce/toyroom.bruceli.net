@@ -7,7 +7,7 @@ og_image: /images/posts/010-line-chart-heading-down.png
 excerpt: "Error monitoring 工具已經是必備工具了，但你是否也見過這樣的狀況：Bugsnag 裡每天有數千個大小錯誤混在一起，因為太多了，大家也變得愛看不看。Monitoring 名存實亡。 以下的策略是我過去幾年來，每次加入新團隊時引入的策略："
 ---
 
-![](/images/world.png) English version: [Strategies for emptying error reports form bugsnag/airbrake/sentry]({% link en/_posts/2018-05-26-strategies-clearing-bugsnag-error-reports.md %})
+![](/images/world.png) English version: [Strategies for emptying error reports from bugsnag/airbrake/sentry]({% link en/_posts/2018-05-26-strategies-clearing-bugsnag-error-reports.md %})
 
 ![cover]({{ "/images/posts/010-line-chart-heading-down.png" | absolute_url }})
 
