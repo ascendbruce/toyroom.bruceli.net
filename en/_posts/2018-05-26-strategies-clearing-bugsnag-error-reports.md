@@ -1,5 +1,5 @@
 ---
-title: "Strategies for emptying error reports form bugsnag/airbrake/sentry"
+title: "Strategies for emptying error reports from bugsnag/airbrake/sentry"
 date: 2018-05-26 17:40
 categories: [en]
 tags: []
