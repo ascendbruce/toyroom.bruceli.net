@@ -17,7 +17,7 @@ comments: true
 後來找到了一篇[文章][1]，依照指示：
 
 
-1. 下載 [tls_smtp.rb][2]. (在[這篇][3]找到的)
+1. 下載 [tls_smtp.rb][2]. (在[這篇][3]找到的提示，但原文的連結好像失效了)
 
 2. 放到app的lib資料夾
 
@@ -55,5 +55,5 @@ comments: true
 
 
 [1]: http://groups.google.com/group/communityengine/browse_thread/thread/ff7ae0daeae8cbaf
-[2]: http://sites.google.com/site/knkalbum/tls_smtp.rb?attredirects=0
+[2]: https://github.com/ambethia/smtp-tls
 [3]: http://www.errorhelp.com/search/details/78026/redmine-rails-must-issue-a-starttls-command-first
