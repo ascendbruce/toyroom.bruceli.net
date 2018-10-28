@@ -23,9 +23,17 @@ og_image: https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA
 
 ## 使用工具
 
+version 1
+
 * Foundation 5
 * [sinatra-template](https://github.com/ascendbruce/sinatra-template) (我的一個 open source project)
 * Nokogiri
+
+version 2
+
+* Rails
+* Bootstrap
+* Dokku
 
 ## 開發成員
 
@@ -34,3 +42,4 @@ og_image: https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA
 ## CHANGELOG
 
 * 初版上線 (2013-12-01)
+* 改用 Rails (2018-10-28)
