@@ -71,9 +71,13 @@ this_is_a_long_variable_name = if condition
 do_something(:type, option_a: a,
                     option_b: b,
                     option_c: c)
+
+a = (1 + 2) * 3 - 12 # because of ...
+b = a * 2 - 1        # and then ...
+c = a + b            # lastly ...
 ```
 
-原因是一旦第一個變數改名或刪除，後面幾行全都要改。
+原因是最長的那一行長度改變（刪除、修改、變數改名、...），其他幾行全都要跟著改，就會如開頭圖片那樣、整片都是修改。
 
 ### 最後一個不加結尾逗號 🙅‍♂️
 
