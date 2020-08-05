@@ -7,6 +7,8 @@ tags: []
 og_image: /images/posts/003-jekyll-toyroom.png?v=2
 ---
 
+> 2020-08-05 更新：這篇是記錄 2015 從 logdown 搬家到 Jekyll + wercker 的記錄，如今已不適用（wercker 被 Oracle 收購然後停止服務了，然後我不再堅持，把 Jekyll 放在 GitHub public repo 了）
+
 過年在老家無聊的時候開始處理一些堆積已久的數位雜事，部落格搬家是其中一個特別大條的，從著手進行到可公開程度就花了 3 天多，搬家後第一篇當然就是搬家記錄囉！
 
 ![cover]({{ "/images/posts/003-jekyll-toyroom.png" | absolute_url }})
@@ -289,3 +291,4 @@ subdirectory 的 index.html 預設並不會自動幫你送成 `/subdir/index.htm
 
 * 有朋友問為何不用 GitHub page，我的主要原因是不希望 drafts 跟修改記錄被大家看到，而 GitHub 的 private 方案還蠻貴的，所以不太考慮。這點也是 [Jekyll blog Automatically generate and publish on AWS S3 and CloudFront](http://manuelgruber.com/2014/jekyll-auto-publish-aws-s3-cloudfront/) 這篇文章的理由之一。另外，這篇文章沒有主動打 CloudFront invalidation，而是在官方的 s3sync step 加上 `Cache-Control` header，效果跟省錢效果不知如何，過幾個月有空的話也許可以試試看。
 * 之前一直覺得上 CDN 可以節省 S3 費用，但看了一下目前的帳單，發現這個不知道從哪聽來的經驗似乎不適用於貴森森的 Amazon CloudFront，所以只好當「享受加速的好處」了。
+* 2020-08-05 更新：這篇是記錄 2015 從 logdown 搬家到 Jekyll + wercker 的記錄，如今已不適用（wercker 被 Oracle 收購然後停止服務了，然後我不再堅持，把 Jekyll 放在 GitHub public repo 了）
