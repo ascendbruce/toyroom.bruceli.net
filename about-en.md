@@ -4,9 +4,10 @@ title: About
 permalink: /en/about/
 ---
 
-![](/images/world.png) 正體中文版: [關於](/tw/about/)
+# About this blog
 
-## About this blog
+<a href="/en/about/" class="lang-btn lang-current">EN</a>
+<a href="/tw/about" class="lang-btn">TW</a>
 
 Hi!
 

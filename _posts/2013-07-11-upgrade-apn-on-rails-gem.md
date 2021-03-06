@@ -8,7 +8,8 @@ categories: [en]
 comments: true
 
 ---
-![](/images/world.png) 正體中文版: [natescherer:apn_on_rails 換到新版 PRX:apn_on_rails 筆記]({% link _posts/2013-07-10-upgrade-apn-on-rails-gem.md %})
+<a href="{% link _posts/2013-07-11-upgrade-apn-on-rails-gem.md %}" class="lang-btn lang-current">EN</a>
+<a href="{% link _posts/2013-07-10-upgrade-apn-on-rails-gem.md %}" class="lang-btn">TW</a>
 
 ### Major changes
 * send_notifications method in PRX's did not accept an array of notifications as paramter. It sends all unsent notifications.

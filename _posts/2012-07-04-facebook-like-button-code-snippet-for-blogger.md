@@ -8,7 +8,8 @@ comments: true
 
 ---
 
-![](/images/world.png) 正體中文版: [幫Google Blogger加入Facebook讚按鈕]({% link _posts/2012-07-03-facebook-like-button-code-snippet-for-blogger.md %})
+<a href="{% link _posts/2012-07-04-facebook-like-button-code-snippet-for-blogger.md %}" class="lang-btn lang-current">EN</a>
+<a href="{% link _posts/2012-07-03-facebook-like-button-code-snippet-for-blogger.md %}" class="lang-btn">TW</a>
 
 Notice: Those code snippets are only for Google Blogger. If you want to add a like button to your web page, try [official code generator][2].
 

@@ -9,7 +9,8 @@ comments: true
 image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLansM/s1600/install_extensions.png
 ---
 
-![](/images/world.png) English version: [Install USB IC Card Reader to Guest Windows 7 (Host is Mac)]({% link _posts/2013-05-01-install-usb-ic-card-reader-to-guest-windows.md %})
+<a href="{% link _posts/2013-05-01-install-usb-ic-card-reader-to-guest-windows.md %}" class="lang-btn">EN</a>
+<a href="{% link _posts/2013-04-30-install-usb-ic-card-reader-to-guest-windows.md %}" class="lang-btn lang-current">TW</a>
 
 我不確定VirtualBox Guest Additions是不是必要的，但是我有裝。
 

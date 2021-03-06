@@ -4,9 +4,10 @@ title: About
 permalink: /tw/about/
 ---
 
-![](/images/world.png) English version: [About](/en/about/)
+# 關於這個部落格
 
-## 關於這個部落格
+<a href="/en/about/" class="lang-btn">EN</a>
+<a href="/tw/about" class="lang-btn lang-current">TW</a>
 
 嗨！
 
