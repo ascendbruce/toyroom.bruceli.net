@@ -76,6 +76,7 @@ twitter:
   username: ascendbruce
 
 feed:
+  path: https://feeds.feedburner.com/bruce-toy-room-chinese
   categories:
     - tw
     - en
