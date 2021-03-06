@@ -6,7 +6,8 @@ date: 2010-02-16 19:27
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2010/02/php.html
 ---
 
 

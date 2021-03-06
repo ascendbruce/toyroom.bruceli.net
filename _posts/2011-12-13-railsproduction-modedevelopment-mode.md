@@ -6,7 +6,8 @@ date: 2011-12-13 14:54
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2011/12/railsproduction-modedevelopment-mode.html
 ---
 
 

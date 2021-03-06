@@ -5,7 +5,8 @@ date: 2010-02-22 20:56
 tags: []
 categories: [en]
 comments: true
-
+redirect_from:
+  - /2010/02/make-actsasversioned-know-target-model.html
 ---
 
 <a href="{% link _posts/2010-02-22-make-acts-as-versioned-know-belongs-to-en.md %}" class="lang-btn lang-current">EN</a>

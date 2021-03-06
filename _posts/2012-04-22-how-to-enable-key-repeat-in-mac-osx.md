@@ -6,7 +6,8 @@ date: 2012-04-22 10:00
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2012/04/how-to-enable-key-repeat-in-mac-osx-107.html
 ---
 
 <a href="{% link _posts/2012-04-22-how-to-enable-key-repeat-in-mac-osx-en.md %}" class="lang-btn">EN</a>

@@ -6,7 +6,8 @@ date: 2012-07-03 08:41
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2012/07/google-bloggerfacebooklike-button.html
 ---
 
 <a href="{% link _posts/2012-07-04-facebook-like-button-code-snippet-for-blogger.md %}" class="lang-btn">EN</a>

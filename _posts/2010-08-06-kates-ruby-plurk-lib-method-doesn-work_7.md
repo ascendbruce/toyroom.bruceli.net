@@ -5,7 +5,8 @@ date: 2010-08-06 16:09
 tags: []
 categories: [en]
 comments: true
-
+redirect_from:
+  - /2010/08/kates-ruby-plurk-lib-method-doesn-work.html
 ---
 
 [kates's ruby plurk lib][2] is a nice plurk lib for ruby. But I notice that the 'add_all_as_friends' method doesn't work and always throws an exception (API call return an error message page and JSON parse failed)

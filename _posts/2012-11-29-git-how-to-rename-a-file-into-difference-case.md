@@ -6,8 +6,10 @@ date: 2012-11-29 18:15
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2012/11/git-how-to-rename-file-to-differ-case.html
 ---
+
 <a href="{% link _posts/2012-12-01-git-how-to-rename-a-file-into-difference-case.md %}" class="lang-btn">EN</a>
 <a href="{% link _posts/2012-11-29-git-how-to-rename-a-file-into-difference-case.md %}" class="lang-btn lang-current">TW</a>
 

@@ -7,6 +7,8 @@ tags: []
 categories: [tw]
 comments: true
 image: http://4.bp.blogspot.com/-5_Cf8sR88E4/TsURmeRFXHI/AAAAAAAAAjw/XWRsMakzTr0/s1600/terminal_curse.png
+redirect_from:
+  - /2011/11/mac-terminal-cursor-jump-to-head-home.html
 ---
 
 

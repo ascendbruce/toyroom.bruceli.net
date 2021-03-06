@@ -5,7 +5,8 @@ date: 2012-07-04 10:00
 tags: []
 categories: [en]
 comments: true
-
+redirect_from:
+  - /2012/07/facebook-like-button-code-snippet-for.html
 ---
 
 <a href="{% link _posts/2012-07-04-facebook-like-button-code-snippet-for-blogger.md %}" class="lang-btn lang-current">EN</a>

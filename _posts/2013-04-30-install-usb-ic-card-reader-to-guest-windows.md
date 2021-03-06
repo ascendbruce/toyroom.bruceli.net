@@ -7,6 +7,8 @@ tags: []
 categories: [tw]
 comments: true
 image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLansM/s1600/install_extensions.png
+redirect_from:
+  - /2013/05/install-InfoThink-925u-card-reader-into-virtualbox-win7.html
 ---
 
 <a href="{% link _posts/2013-05-01-install-usb-ic-card-reader-to-guest-windows.md %}" class="lang-btn">EN</a>

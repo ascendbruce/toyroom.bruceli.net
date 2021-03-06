@@ -1,0 +1,16 @@
+---
+layout: post
+title: Rails 3 多人共同開發時Migration版本相插的問題
+date: '2011-11-28T22:44:00.000+08:00'
+author: Bruce
+tags:
+- Ruby on Rails
+modified_time: '2011-11-28T22:44:26.535+08:00'
+blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-2976066902316504416
+blogger_orig_url: https://blog.bruceli.net/2011/11/rails-3-migration.html
+categories: [tw]
+redirect_from:
+  - /2011/11/rails-3-migration.html
+---
+
+在Rails 1的時代migration版本號是用流水號，共同開發時就容易撞號，schema_migrations又是只記最新的號碼，結果就是：撞號又較晚commit的人，那隻migration就無法執行，必須手動改號碼。<br /><br />最近專案也遇到這個疑慮，所以測試了一下，發現在Rails 3下，schema_migrations會記所有的版本，所以你只要下rake db:migrate，他就會把所有的migration，不管新舊，只要沒跑過的都會run它，因此不需要擔心migration沒被run到的狀況。<br /><br />你也可以用<br /><pre style="background-color: #eeeeee; border: 1px dashed #999999; color: black; font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace; font-size: 12px; line-height: 14px; overflow: auto; padding: 5px; width: 100%;"><code>rake db:migrate:up VERSION=20080906120000<br /></code></pre>指定<b>只執行該版本號的up區塊</b>的部份（給down就會執行down區塊）<br /><br />但如果你下這樣<br /><pre style="background-color: #eeeeee; border: 1px dashed #999999; color: black; font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace; font-size: 12px; line-height: 14px; overflow: auto; padding: 5px; width: 100%;"><code>rake db:migrate VERSION=20080906120000<br /></code></pre><b>它會一路執行途中所有的migration</b>，直到你指定的版本號為止<br /><br />相關語法可參考<a href="http://guides.rubyonrails.org/migrations.html#being-specific">rails guide</a><br /><br /><br />但是，如果你在migration內有寫row內容的轉換處理程式，或者欄位有相依性、順序不能錯的話，那事情就沒有那麼單純了。Rails可以自動幫你跑所有你還沒跑過的migration，但管不到這種問題。<br /><br />如果你的專案真的有這種需求，你可能需要設立一個專門統籌migration的角色（可以把這個差事丟給DBA），所有人要開migration要先經過這個人的規劃。

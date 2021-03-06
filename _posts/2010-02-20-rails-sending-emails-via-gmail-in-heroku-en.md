@@ -5,7 +5,8 @@ date: 2010-02-20 11:09
 tags: []
 categories: [en]
 comments: true
-
+redirect_from:
+  - /2010/02/rails-sending-emails-via-gmail-not.html
 ---
 
 <a href="{% link _posts/2010-02-20-rails-sending-emails-via-gmail-in-heroku-en.md %}" class="lang-btn lang-current">EN</a>

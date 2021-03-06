@@ -6,7 +6,8 @@ date: 2011-12-02 18:05
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2011/12/tutorial-how-to-install-lslplus-plugin.html
 ---
 
 <a href="{% link _posts/2011-12-02-tutorial-how-to-install-lslplus-en.md %}" class="lang-btn">EN</a>

@@ -5,7 +5,8 @@ date: 2010-06-12 15:56
 tags: []
 categories: [en]
 comments: true
-
+redirect_from:
+  - /2010/06/ruby-write-service-with-daemons-gem.html
 ---
 
 <a href="{% link _posts/2010-06-12-ruby-write-service-with-daemons-gem-en.md %}" class="lang-btn lang-current">EN</a>

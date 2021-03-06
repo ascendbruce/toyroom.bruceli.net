@@ -6,8 +6,10 @@ date: 2011-02-04 17:51
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2011/02/git-server-ubuntu-linux.html
 ---
+
 ## 1. 安裝git
 	sudo apt-get install git-core
 

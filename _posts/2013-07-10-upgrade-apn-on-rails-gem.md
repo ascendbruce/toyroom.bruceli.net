@@ -6,7 +6,8 @@ date: 2013-07-10 19:17
 tags: []
 categories: [tw]
 comments: true
-
+redirect_from:
+  - /2013/07/upgrade-apn-on-rails-gem.html
 ---
 
 
