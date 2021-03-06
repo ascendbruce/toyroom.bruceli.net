@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-![](/images/world.png) English version: [(Ruby) Write service with daemons gem]({% link en/_posts/2010-06-12-ruby-write-service-with-daemons-gem-en.md %})
+![](/images/world.png) English version: [(Ruby) Write service with daemons gem]({% link _posts/2010-06-12-ruby-write-service-with-daemons-gem-en.md %})
 
 
 如何讓一支ruby程式一次只有一個instance？並且有start/stop等指令呢？

@@ -7,7 +7,7 @@ og_image: /images/posts/010-line-chart-heading-down.png
 excerpt: "Error monitoring tool is one of the must-have tools nowadays. But you may also have seen this: There are thousands of errors every day. Serious ones and minor ones are all mixed. People become numb because there are way too many. That is not really monitoring errors. Following strategies are what I usually do when I need to introduce error monitoring to a new team"
 ---
 
-![](/images/world.png) 正體中文版: [清空 error monitoring 錯誤列表的策略（bugsnag/airbrake/sentry）]({% link tw/_posts/2018-05-26-strategies-clearing-bugsnag-error-reports.md %})
+![](/images/world.png) 正體中文版: [清空 error monitoring 錯誤列表的策略（bugsnag/airbrake/sentry）]({% link _posts/2018-05-26-strategies-clearing-bugsnag-error-reports.md %})
 
 ![cover]({{ "/images/posts/010-line-chart-heading-down.png" | absolute_url }})
 

@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-![](/images/world.png) 正體中文版: [Tutorial: How to install lslplus or lslforge for eclipse IDE]({% link tw/_posts/2011-12-02-tutorial-how-to-install-lslplus.md %})
+![](/images/world.png) 正體中文版: [Tutorial: How to install lslplus or lslforge for eclipse IDE]({% link _posts/2011-12-02-tutorial-how-to-install-lslplus.md %})
 
 
 LSL stands for Lindin Script Language. [There are some alternative editors][1].

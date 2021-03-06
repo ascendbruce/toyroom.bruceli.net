@@ -9,10 +9,10 @@ comments: true
 og_image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLansM/s1600/install_extensions.png
 ---
 
-![](/images/world.png) English version: [Install USB IC Card Reader to Guest Windows 7 (Host is Mac)]({% link en/_posts/2013-05-01-install-usb-ic-card-reader-to-guest-windows.md %})
+![](/images/world.png) English version: [Install USB IC Card Reader to Guest Windows 7 (Host is Mac)]({% link _posts/2013-05-01-install-usb-ic-card-reader-to-guest-windows.md %})
 
-我不確定VirtualBox Guest Additions是不是必要的，但是我有裝。  
-  
+我不確定VirtualBox Guest Additions是不是必要的，但是我有裝。
+
 
 ## 安裝 VirtualBox Extension Pack 來支援 USB 2.0
 
@@ -21,25 +21,25 @@ og_image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLa
 
 [![][2]][3]
 
-  
+
 
 ## 啟用 USB 2.0 (EHCI) Controller
 
-  
-路徑在 Settings > Ports > USB  
-  
 
-> 你可能會想新增一個 USB Device Filter. 在我的機器上讀卡機顯示為 `Generic USB2.0-CRW` (做這件事情之前要插上讀卡機讓他可以抓到) 
-> 
+路徑在 Settings > Ports > USB
 
-  
 
-[![][4]][5]  
-  
+> 你可能會想新增一個 USB Device Filter. 在我的機器上讀卡機顯示為 `Generic USB2.0-CRW` (做這件事情之前要插上讀卡機讓他可以抓到)
+>
+
+
+
+[![][4]][5]
+
 
 ## 啟動VM裡面的系統，並安裝讀卡機驅動程式
 
-  
+
 
 1. [下載並安裝InfoThink的官方驅動程式][6]
 2. 插入讀卡機

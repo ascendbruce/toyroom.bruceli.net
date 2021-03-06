@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-![](/images/world.png) 正體中文版: [(Ruby) Write service with daemons gem]({% link tw/_posts/2010-06-12-ruby-write-service-with-daemons-gem.md %})
+![](/images/world.png) 正體中文版: [(Ruby) Write service with daemons gem]({% link _posts/2010-06-12-ruby-write-service-with-daemons-gem.md %})
 
 
 How to make a ruby script run only one instance at a time? and with start/stop command?

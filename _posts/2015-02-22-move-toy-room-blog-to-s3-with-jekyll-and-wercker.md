@@ -37,8 +37,8 @@ og_image: /images/posts/003-jekyll-toyroom.png?v=2
 
 其實用別人的部落格平台還是比較方便的，不用自己管網站、機器、特殊字元、發佈機制等，但為什麼我還是換成 Jekyll 呢？其實這提供了幾個特殊功能，是我一直想要、但透過別人平台很難達成的：
 
-* 有預設的全站 og:image，但單篇文章可以單獨指定 og:image (範例: [使用預設]({% link tw/_posts/2014-12-10-resolve-sublime-text-3-erb-conflicting-end-tab-trigger.md %})、[自訂]({% link tw/_posts/2015-01-06-effective-life-book-is-on-the-market-now.md %}))
-* 首頁與 RSS feed 分中英兩組、Layout 可雙語切換、部分文章可雙語切換 ([範例]({% link tw/_posts/2013-09-20-disable-itunes-starts-by-media-key.md %}))
+* 有預設的全站 og:image，但單篇文章可以單獨指定 og:image (範例: [使用預設]({% link _posts/2014-12-10-resolve-sublime-text-3-erb-conflicting-end-tab-trigger.md %})、[自訂]({% link _posts/2015-01-06-effective-life-book-is-on-the-market-now.md %}))
+* 首頁與 RSS feed 分中英兩組、Layout 可雙語切換、部分文章可雙語切換 ([範例]({% link _posts/2013-09-20-disable-itunes-starts-by-media-key.md %}))
 * [作品集專頁](/tw/works/)，可以高度客製化 (畢竟 HTML 控制權在我手上，下次有空就會料理它)
 
 接下來就是一些搬家過程筆記了
