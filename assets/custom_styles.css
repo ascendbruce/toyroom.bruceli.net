@@ -8,3 +8,12 @@ code {
 .highlighter-rouge .highlight {
   background-color: #f7f7f7;
 }
+
+blockquote {
+  font-style: normal;
+}
+
+blockquote.hightlight {
+    color: #111;
+    border-left: 4px solid #FF9900;
+}
