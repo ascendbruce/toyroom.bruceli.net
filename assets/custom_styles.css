@@ -1,0 +1,44 @@
+pre,
+code {
+    /* referenced from https://github.com/jekyll/minima/pull/462/files */
+    font-family: Menlo, Inconsolata, Consolas, Roboto Mono, Ubuntu Mono, Liberation Mono, Courier New, monospace;
+    background-color: #f7f7f7;
+}
+
+.highlighter-rouge .highlight {
+  background-color: #f7f7f7;
+}
+
+blockquote {
+  font-style: normal;
+}
+
+blockquote.hightlight {
+    color: #111;
+    border-left: 4px solid #ff9900;
+}
+
+a.lang-btn {
+    background-color: #0099cc;
+    padding: 0 5px 0 5px;
+    border: solid;
+    border-width: 2px;
+    border-color: #0099cc;
+    color: #fff;
+    font-family: Menlo, Inconsolata, Consolas, Roboto Mono, Ubuntu Mono, Liberation Mono, Courier New, monospace;
+    letter-spacing: 2px;
+    border-style: outset;
+}
+
+a.lang-current {
+    border-style: inset;
+}
+
+a:hover.lang-btn {
+  text-decoration: none;
+  /*box-shadow: 1px 1px 3px grey;*/
+}
+
+p.rss-subscribe {
+  text-align: center;
+}

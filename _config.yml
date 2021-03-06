@@ -7,46 +7,31 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Bruce Toy Room
-# email: ascendbruce@gmail.com
+# email: your-email@example.com
+tagline: "My works and notes on ruby, rails, git, ubuntu linux, mac os x, etc..."
 description: >- # this means to ignore newlines until "baseurl:"
- My works and notes on ruby, rails, git, ubuntu linux, mac os x, etc...
+  My works and notes on ruby, rails, git, ubuntu linux, mac os x, etc...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://toyroom.bruceli.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BruceToyRoom
+url: "https://toyroom-v2.bruceli.net" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ascendbruce
 github_username:  ascendbruce
+linkedin_username:  ascendbruce
+author: Bruce Li
 
-# Build settings
-markdown: kramdown
-
-kramdown:
-  input:  GFM
-plugins:
-  - jekyll-sitemap
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - wercker.yml
-  - _config.yml
-  - .ruby-version
-  - .gitignore
-  - .gitkeep
-  - .git
-
-# User custom
-timezone: Asia/Taipei
-og_image: "/images/default_og_image.jpg"
+markdown: CommonMarkGhPages
+# markdown: kramdown
 
 defaults:
   -
@@ -55,15 +40,63 @@ defaults:
       type: "posts"
     values:
       author: "Bruce Li"
-  -
-    scope:
-      path: "tw/_posts"
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: "en/_posts"
-      type: "posts"
-    values:
-      layout: "post-en"
+
+header_pages:
+  - about.md
+  - works.html
+  - archives.html
+  - feed.md
+  - search.html
+
+# Build settings
+show_excerpts: true
+theme: minima
+timezone: Asia/Taipei
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
+
+# plugins settings
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
+
+facebook:
+  admins: 100000059775380
+
+webmaster_verifications:
+  bing: 093FD634ADFD4C6B3C1F43452A8F13E6
+
+google_analytics: UA-3381674-11
+
+twitter:
+  username: ascendbruce
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .git
+  - .gitignore
+  - .gitkeep
+  - .jekyll-cache/
+  - .ruby-version
+  - .sass-cache/
+  - _config.yml
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles/
+  - node_modules/
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

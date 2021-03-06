@@ -1,4 +1,5 @@
-url: "http://127.0.0.1:4000"
+url: "http://127.0.0.1:4001"
 
 # start development server by running:
-# jekyll s --drafts --config _config.yml,_config-dev.yml
+#
+# jekyll liveserve --drafts --config _config.yml,_config-dev.yml -P 4001
