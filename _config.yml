@@ -24,7 +24,7 @@ tagline: "My works and notes on ruby, rails, git, ubuntu linux, mac os x, etc...
 description: >- # this means to ignore newlines until "baseurl:"
   My works and notes on ruby, rails, git, ubuntu linux, mac os x, etc...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://toyroom-v2.bruceli.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://toyroom.bruceli.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ascendbruce
 github_username:  ascendbruce
 linkedin_username:  ascendbruce
