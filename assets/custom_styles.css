@@ -1,5 +1,6 @@
 pre,
 code {
+    /* referenced from https://github.com/jekyll/minima/pull/462/files */
     font-family: Menlo, Inconsolata, Consolas, Roboto Mono, Ubuntu Mono, Liberation Mono, Courier New, monospace;
     background-color: #f7f7f7;
 }
