@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 關於我
+title: About
 permalink: /tw/about/
 ---
 
