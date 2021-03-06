@@ -38,3 +38,7 @@ a:hover.lang-btn {
   text-decoration: none;
   /*box-shadow: 1px 1px 3px grey;*/
 }
+
+p.rss-subscribe {
+  text-align: center;
+}
