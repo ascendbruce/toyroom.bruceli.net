@@ -6,7 +6,7 @@ date: 2012-03-31 15:32
 tags: []
 categories: [tw, works]
 comments: true
-og_image: https://lh6.googleusercontent.com/-eWLoyIVHA94/UcW_q-cNffI/AAAAAAAABW0/nA3oveKlEyQ/s640/books66.png
+image: https://lh6.googleusercontent.com/-eWLoyIVHA94/UcW_q-cNffI/AAAAAAAABW0/nA3oveKlEyQ/s640/books66.png
 ---
 
 博客來與一些網路書店都有提供「每日一書66折」的活動，但官方的電子報通常非常惱人，三不五時就發電子報、又包含很多不相干的促銷訊息。偶爾遇到有興趣的書，可能也會因為忘記而錯過。

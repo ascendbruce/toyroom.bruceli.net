@@ -3,7 +3,7 @@ title: "清空 error monitoring 錯誤列表的策略（bugsnag/airbrake/sentry�
 date: 2018-05-26 17:40
 categories: [tw]
 tags: []
-og_image: /images/posts/010-line-chart-heading-down.png
+image: /images/posts/010-line-chart-heading-down.png
 excerpt: "Error monitoring 工具已經是必備工具了，但你是否也見過這樣的狀況：Bugsnag 裡每天有數千個大小錯誤混在一起，因為太多了，大家也變得愛看不看。Monitoring 名存實亡。 以下的策略是我過去幾年來，每次加入新團隊時引入的策略："
 ---
 

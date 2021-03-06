@@ -6,7 +6,7 @@ date: 2012-06-10 15:32
 tags: []
 categories: [tw, works]
 comments: true
-og_image: https://lh5.googleusercontent.com/-ejbnAgCJEFk/Ud7KZYvBcMI/AAAAAAAABac/WhraKtJXSCo/s640/pixme.png
+image: https://lh5.googleusercontent.com/-ejbnAgCJEFk/Ud7KZYvBcMI/AAAAAAAABac/WhraKtJXSCo/s640/pixme.png
 ---
 
 Pixme 是我在 CloudOnline 的第二個案子，Pixme 是一個 iOS 上的拍照軟體，主打對「自拍」特別方便的流程。

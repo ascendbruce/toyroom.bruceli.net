@@ -4,7 +4,8 @@ title: "Project Management for Freelance Developers 課程筆記"
 date: 2015-05-25 10:30
 categories: [tw]
 tags: []
-og_image: /images/posts/006-project-management-for-freelance-developers.png
+image: /images/posts/006-project-management-for-freelance-developers.png
+excerpt: 最近在 Learnable 網站修了一門課 Project Management for Freelance Developers，雖然是很基礎的 Project Management，但做為入門基礎還算不錯，以下是我做的筆記重點。
 ---
 
 ![cover]({{ "/images/posts/006-project-management-for-freelance-developers.png" | absolute_url }})

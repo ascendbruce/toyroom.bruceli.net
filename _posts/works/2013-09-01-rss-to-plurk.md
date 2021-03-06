@@ -6,7 +6,7 @@ date: 2013-09-01 15:33
 tags: []
 categories: [tw, works]
 comments: true
-og_image: https://lh3.googleusercontent.com/-5ysMI6Vqk5U/UiNLaqOCsKI/AAAAAAAABfM/R11T1rKWpPA/s640/rss2plurk.png
+image: https://lh3.googleusercontent.com/-5ysMI6Vqk5U/UiNLaqOCsKI/AAAAAAAABfM/R11T1rKWpPA/s640/rss2plurk.png
 ---
 
 讀取 RSS 並張貼到社交平台的服務其實很多，例如 IFTTT、Seesmic 等都非常有名，但是都沒有支援 Plruk。然而 Plurk 在台灣也有不少使用者，最基本也該有個 RSS to Plurk 才對，所以就寫了一個這樣的小服務。

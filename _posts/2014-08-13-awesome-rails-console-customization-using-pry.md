@@ -9,11 +9,12 @@ tags:
 - Techbang
 categories: [tw]
 comments: true
-og_image: https://lh4.googleusercontent.com/-r2NUITCa9P8/U-psYQ1rw0I/AAAAAAAAB4A/ZI2zIEh94fs/w832-h450-no/rails-console-5-both-pry-rails-and-hirb.png
+image: https://lh4.googleusercontent.com/-r2NUITCa9P8/U-psYQ1rw0I/AAAAAAAAB4A/ZI2zIEh94fs/w832-h450-no/rails-console-5-both-pry-rails-and-hirb.png
+excerpt: 這篇是我閱讀 Using pry in production 後，結合我自己的經驗與公司前輩留下來的設定等，最後得出的一套組合。由於主題的關係這篇只介紹 rails console 相關的部分，實際上那套組合還有別的東西，以後若有機會再另外介紹。我把本篇提到的大部分技巧都包成一個 gem 了，歡迎使用： awesome_rails_console
 ---
 
 <blockquote class="hightlight">
-  <h3>現在有 gem 可直接使用</h3>
+  <h4>現在有 gem 可直接使用</h4>
   我把本篇提到的大部分技巧都包成一個 gem 了，歡迎使用：
   <a href="https://github.com/ascendbruce/awesome_rails_console">awesome_rails_console</a>
 </blockquote>

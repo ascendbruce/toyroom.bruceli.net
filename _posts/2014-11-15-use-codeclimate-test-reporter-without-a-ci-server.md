@@ -7,7 +7,7 @@ tags:
 - Techbang
 categories: [en]
 comments: true
-
+excerpt: For some reason, we didn’t setup a CI server. But we still want Code Climate to know test coverage after each deployment. After some searching and experiment. We came up with this solution.
 ---
 For some reason, we didn't setup a CI server. But we still want Code Climate to know test coverage after each deployment.
 

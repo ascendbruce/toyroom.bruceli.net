@@ -4,7 +4,7 @@ date: 2015-08-13 22:10
 tags:
 - rails
 categories: [en]
-og_image: /images/posts/007-use-irbrc-to-save-time-with-rails-console.png?v=1
+image: /images/posts/007-use-irbrc-to-save-time-with-rails-console.png?v=1
 excerpt: Finding your own user account in rails console is very frequent command in daily work. But key the full command is very inconvenient and waste time. You can use this technique to save time!
 
 ---

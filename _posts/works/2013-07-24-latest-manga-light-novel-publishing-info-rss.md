@@ -6,7 +6,7 @@ date: 2013-07-24 15:33
 tags: []
 categories: [tw, works]
 comments: true
-og_image: https://lh5.googleusercontent.com/-_pq496B_p-I/Ue_q34kWTGI/AAAAAAAABc0/9RE4fSz8aVE/s640/wawa_rss.png
+image: https://lh5.googleusercontent.com/-_pq496B_p-I/Ue_q34kWTGI/AAAAAAAABc0/9RE4fSz8aVE/s640/wawa_rss.png
 ---
 
 自動抓 [蛙蛙書局的最新出版漫畫清單](http://wawabook.com.tw/comic/0102.php)，除了官方網站有公布外，蛙蛙書局也會張貼到 Komica 討論網站，但對於沒有那麼積極查看這些網站的人，例如我，會覺得 RSS 更方便，所以便製作這個小工具。

@@ -6,7 +6,8 @@ date: 2014-06-04 03:30
 tags: []
 categories: [tw]
 comments: true
-og_image: https://lh3.googleusercontent.com/-SFF0CUHwsOQ/U7YSENrORQI/AAAAAAAAB1s/KhBqIJTmBsc/w800-h337-no/realforce86.jpg
+image: https://lh3.googleusercontent.com/-SFF0CUHwsOQ/U7YSENrORQI/AAAAAAAAB1s/KhBqIJTmBsc/w800-h337-no/realforce86.jpg
+excerpt: "列舉的種類基本上是生產力、健康相關，或是好用的工程師潮流精品(?) 這些是我偏好或想要的裝備，歡迎留言提供其他推薦裝備、發問為何要用或不用某個裝備、品牌。"
 ---
 
 ![Topre Realforce keyboard](https://lh3.googleusercontent.com/-SFF0CUHwsOQ/U7YSENrORQI/AAAAAAAAB1s/KhBqIJTmBsc/w800-h337-no/realforce86.jpg)

@@ -3,7 +3,8 @@ title: "產生短但保證不重複的亂數 token in Rails x ActiveRecord x Pos
 date: 2015-09-07 9:00
 categories: [tw]
 tags: []
-og_image: /images/posts/008-binary-binary-codes.jpg
+image: /images/posts/008-binary-binary-codes.jpg
+excerpt: 為每個 Records 產生不重複亂數 token 是很常見的需求，一個常見的解法是使用 UUID，原則上就可確保不重複。但有時候會有「既要短、又要保證不重複」的需求，例如訂單編號（不希望外人可以透過自動遞增的 id 得知訂單量、但又要能透過電話唸給客服）。
 ---
 
 ![cover]({{ "/images/posts/008-binary-binary-codes.jpg" | absolute_url }})
@@ -64,7 +65,7 @@ end
 
 如果你使用 PostgreSQL，這個就是必要的。如果你拆掉 `ActiveRecord::Base.transaction(requires_new: true) do` 這一層 transaction，你會看到 rails 噴出 `ActiveRecord::StatementInvalid` 之類的 exceptions。其原因是：
 
-> On some database systems, such as PostgreSQL, database errors inside a transaction cause the entire transaction to become unusable until it's restarted from the beginning. 
+> On some database systems, such as PostgreSQL, database errors inside a transaction cause the entire transaction to become unusable until it's restarted from the beginning.
 
 解決辦法：
 

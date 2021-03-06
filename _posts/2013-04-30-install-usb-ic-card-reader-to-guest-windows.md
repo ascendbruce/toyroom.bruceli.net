@@ -6,7 +6,7 @@ date: 2013-04-30 20:28
 tags: []
 categories: [tw]
 comments: true
-og_image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLansM/s1600/install_extensions.png
+image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLansM/s1600/install_extensions.png
 ---
 
 ![](/images/world.png) English version: [Install USB IC Card Reader to Guest Windows 7 (Host is Mac)]({% link _posts/2013-05-01-install-usb-ic-card-reader-to-guest-windows.md %})
