@@ -11,7 +11,7 @@ redirect_from:
 <a href="/en/about/" class="lang-btn">EN</a>
 <a href="/tw/about" class="lang-btn lang-current">TW</a>
 
-這邊會發佈一些關於 ruby、rails 的學習筆記，或其他的技術如 javascript, git, linux 等，有些會有英文版。
+我的技術筆記、讀書心得、工作體悟、生活雜記等，內容集結自幾個先前分開經營的部落格。
 
 <a name="me"></a>
 # 關於我
@@ -27,12 +27,6 @@ redirect_from:
 * Techbang T客邦
 * CloudOnline 雲端線上
 
-## 我經營的其他部落格、粉絲團等
-
-* [小B雜Blog](http://blog.bruceli.net/) （生活雜文）
-* [學習成功部落格](http://ascend.bruceli.net/)
-* [垃圾英文部落格](http://english.bruceli.net/)
-
 ## 我的程式作品
 
 一些閒餘時間做的小工具，歡迎使用。
@@ -41,6 +35,10 @@ redirect_from:
 * [最新出版漫畫/輕小說資訊 - 蛙蛙書單 RSS](http://wawarss.bruceli.net/)
 * [博客來66折優化電子報](http://books66.bruceli.net/)
 * 更多作品介紹請參考 [作品集](/tw/works/)
+
+經營的其他部落格
+
+* [垃圾英文部落格](http://english.bruceli.net/)
 
 # 我的興趣
 

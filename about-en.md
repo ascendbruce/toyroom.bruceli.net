@@ -9,13 +9,9 @@ permalink: /en/about/
 <a href="/en/about/" class="lang-btn lang-current">EN</a>
 <a href="/tw/about" class="lang-btn">TW</a>
 
-Hi!
+Hi! I am Bruce, a software engineer living in Taiwan, also the co-founder of WORD UP.
 
-I am Bruce Li, a.k.a. Li PoChun (黎柏均), a web developer in Taipei, Taiwan.
-
-I will post some articles about learning ruby, rails, other techniques such as javascipts, git and linux/mac configuration. Some of them will be in English.
-
-I am not a native English speaker. So feel free to correct me on spelling, grammar etc. Other questions are also welcome.
+This blog is a mix of tech, business, personal journal. Posts are mostly in Traditional Chinese, but some articles are also available in English.
 
 My email address is:
 

@@ -10,8 +10,10 @@ Make sure:
 
 Then
 
-```
-jekyll s --drafts --config _config.yml,_config-dev.yml
+```bash
+jekyll serve --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
+# or
+jekyll liveserve --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
 ```
 
 other usful commands
