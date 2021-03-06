@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: default
+title: 關於我
 permalink: /tw/about/
 ---
 

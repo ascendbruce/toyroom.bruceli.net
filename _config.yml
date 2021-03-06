@@ -41,6 +41,12 @@ defaults:
     values:
       author: "Bruce Li"
 
+header_pages:
+  - about.md
+  - works.html
+  - archives.html
+  - search.html
+
 # Build settings
 show_excerpts: true
 theme: minima

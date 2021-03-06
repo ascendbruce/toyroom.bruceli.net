@@ -1,17 +1,12 @@
 ---
-layout: default-en
-title: My Works
-permalink: /en/works/
+layout: default
+title: 作品集
+permalink: /tw/works/
+redirect_from:
+  - /en/works/
 ---
 
-<h1>My Works</h1>
-
-<p>
-  <img src="/images/world.png"> 正體中文版: <a href="/tw/works/">作品集</a>
-</p>
-
-<p>Sorry but this page has not yet been translated.</p>
-
+<h1>作品集</h1>
 
 {% for post in site.categories["works"] %}
   {% if post.categories contains "tw" %}
