@@ -4,7 +4,7 @@ title: Problem when add the facebook new Like Box to google Blogger?
 published: true
 date: 2010-04-28 20:37
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2010/04/problem-when-add-facebook-new-like-box.html

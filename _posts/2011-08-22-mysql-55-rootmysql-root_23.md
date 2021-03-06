@@ -4,7 +4,7 @@ title: Mysql 5.5 忘記root密碼/如何重設mysql root密碼？
 published: true
 date: 2011-08-22 16:15
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/08/mysql-55-rootmysql-root.html

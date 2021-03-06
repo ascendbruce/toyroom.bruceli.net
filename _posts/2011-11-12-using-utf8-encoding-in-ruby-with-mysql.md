@@ -3,7 +3,7 @@ title: Using utf8 encoding in Ruby with MySQL 5.1 and 5.5
 published: true
 date: 2011-11-12 18:49
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2011/11/using-utf8-encoding-in-ruby-with-mysql.html

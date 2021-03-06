@@ -4,7 +4,7 @@ title: RailsConf 2014 行 - 觀光的部份
 published: true
 date: 2014-05-02 00:45
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

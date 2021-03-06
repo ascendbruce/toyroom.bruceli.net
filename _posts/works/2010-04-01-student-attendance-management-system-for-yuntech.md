@@ -4,7 +4,7 @@ title: '雲科點名系統'
 published: true
 date: 2010-04-01 15:26
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 
 ---

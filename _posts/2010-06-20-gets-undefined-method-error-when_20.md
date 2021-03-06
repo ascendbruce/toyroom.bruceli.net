@@ -4,7 +4,7 @@ title: Gets undefined method error when calling parse method?
 published: true
 date: 2010-06-20 04:18
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2010/06/gets-undefined-method-error-when.html

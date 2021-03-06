@@ -4,7 +4,7 @@ title: Mac下NetBeans的切換Tab (跳到左/右邊的Tab)
 published: true
 date: 2012-01-29 22:07
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2012/01/switch-between-tabs-jump-to.html

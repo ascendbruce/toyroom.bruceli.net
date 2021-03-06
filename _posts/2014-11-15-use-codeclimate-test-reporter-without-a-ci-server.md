@@ -5,7 +5,7 @@ date: 2014-11-15 13:29
 tags:
 - rails
 - Techbang
-categories: [en]
+category: [en]
 comments: true
 excerpt: For some reason, we didn’t setup a CI server. But we still want Code Climate to know test coverage after each deployment. After some searching and experiment. We came up with this solution.
 ---

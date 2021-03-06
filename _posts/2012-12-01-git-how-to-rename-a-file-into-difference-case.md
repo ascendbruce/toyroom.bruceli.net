@@ -4,7 +4,7 @@ published: true
 date: 2012-12-01 15:22
 tags:
 - git
-categories: [en]
+category: [en]
 comments: true
 ---
 

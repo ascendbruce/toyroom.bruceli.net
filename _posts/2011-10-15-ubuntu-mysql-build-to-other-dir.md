@@ -4,7 +4,7 @@ title: Ubuntu下如何把MySQL 5.5裝到其他的目錄（例如家目錄）教�
 published: true
 date: 2011-10-15 12:55
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/10/ubuntumysql-55.html

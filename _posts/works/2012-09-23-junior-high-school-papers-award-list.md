@@ -4,7 +4,7 @@ title: '中學生小論文列表'
 published: true
 date: 2012-09-23 15:33
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh4.googleusercontent.com/-S14b1A_X4oc/UcW_rNg2iXI/AAAAAAAABW8/sab8CpczfRI/s640/junior_papers.png
 ---

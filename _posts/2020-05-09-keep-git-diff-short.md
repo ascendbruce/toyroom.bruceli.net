@@ -1,7 +1,7 @@
 ---
 title: "盡量讓 git diff 精簡"
 date: 2020-05-11 02:40
-categories: [tw]
+category: [tw]
 tags: []
 image: /images/posts/011-git-diff.png
 excerpt: "盡量讓每次發 PR（或者每個 git commit ）的 git 變動都精簡、且目的明確、沒有太多與該變動的目的無關的東西。這樣子較易於閱讀、讓 code review 更順暢，且 git blame 的時候容易一次就找到對的人"

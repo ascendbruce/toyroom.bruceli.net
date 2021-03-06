@@ -4,7 +4,7 @@ title: 簡易git server架設教學 (用Ubuntu linux)
 published: true
 date: 2011-02-04 17:51
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/02/git-server-ubuntu-linux.html

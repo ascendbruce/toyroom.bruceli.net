@@ -4,7 +4,7 @@ title: 'Pixme Forum'
 published: true
 date: 2013-04-11 15:33
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh3.googleusercontent.com/-MN71JQxmXys/UcW_rtpHfqI/AAAAAAAABXM/PCPfIUkPE_U/s640/pixme_forum.png
 ---

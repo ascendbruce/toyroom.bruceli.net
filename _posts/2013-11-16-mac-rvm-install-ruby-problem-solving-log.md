@@ -6,7 +6,7 @@ date: 2013-11-16 14:00
 tags:
 - ruby
 - mac
-categories: [tw]
+category: [tw]
 comments: true
 
 ---
@@ -36,17 +36,17 @@ comments: true
 首先，rvm 安裝可能會遇到 rvm 本身太舊，所以不管三七二十一先 update 一下
 
     macbook:project bruce$ rvm update
-    
+
 錯誤
-    
+
     ERROR: rvm update has been removed. Try 'rvm get head' or see the 'rvm get' and rvm 'rubygems' CLI API instead
 
 噢，原來語法改了
 
     macbook:project bruce$ rvm get head
-    
+
 看來這次有成功了
-    
+
       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
     100   184  100   184    0     0    177      0  0:00:01  0:00:01 --:--:--   258

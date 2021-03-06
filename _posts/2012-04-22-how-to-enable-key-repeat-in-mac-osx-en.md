@@ -3,7 +3,7 @@ title: How to enable key repeat in Mac OSX 10.7 Lion
 published: true
 date: 2012-04-22 10:00
 tags: []
-categories: [en]
+category: [en]
 comments: true
 
 ---

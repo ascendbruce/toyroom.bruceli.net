@@ -6,7 +6,7 @@ date: 2014-03-04 05:30
 tags:
 - rails
 - Sublime
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

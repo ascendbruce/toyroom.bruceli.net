@@ -4,7 +4,7 @@ title: '騙卡馬 Pan Karma'
 published: true
 date: 2010-05-09 15:31
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 
 ---

@@ -4,7 +4,7 @@ published: true
 date: 2013-04-20 23:09
 tags:
 - ruby
-categories: [en]
+category: [en]
 comments: true
 
 ---

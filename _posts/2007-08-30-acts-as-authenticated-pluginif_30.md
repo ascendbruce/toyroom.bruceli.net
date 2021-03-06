@@ -4,7 +4,7 @@ title: 使用acts as authenticated plugin在if current_user判斷出錯
 published: true
 date: 2007-08-30 00:51
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2007/08/acts-as-authenticated-pluginif.html

@@ -4,7 +4,7 @@ title: '博客來66折優化電子報'
 published: true
 date: 2012-03-31 15:32
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh6.googleusercontent.com/-eWLoyIVHA94/UcW_q-cNffI/AAAAAAAABW0/nA3oveKlEyQ/s640/books66.png
 ---

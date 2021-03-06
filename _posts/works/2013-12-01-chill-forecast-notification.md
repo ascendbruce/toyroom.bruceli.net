@@ -4,7 +4,7 @@ title: '氣溫驟降預報'
 published: true
 date: 2013-12-01 15:34
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh5.googleusercontent.com/-oebT3ESxZRE/UsgHR-MqhAI/AAAAAAAABnA/ugdVlKEbumU/s640/chill.png
 ---

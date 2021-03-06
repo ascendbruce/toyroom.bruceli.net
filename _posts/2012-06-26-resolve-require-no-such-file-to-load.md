@@ -4,7 +4,7 @@ title: 'Resolve `require'': no such file to load -- readline (LoadError) excepti
 published: true
 date: 2012-06-26 17:52
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2012/06/resolve-require-no-such-file-to-load.html

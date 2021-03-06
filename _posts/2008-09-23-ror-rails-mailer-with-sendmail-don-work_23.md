@@ -5,7 +5,7 @@ title: ror rails mailer with sendmail don't work? 不會寄信 寄不出去？ m
 published: true
 date: 2008-09-23 06:15
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2008/09/ror-rails-mailer-with-sendmail-don-work.html

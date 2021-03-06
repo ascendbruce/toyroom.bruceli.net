@@ -4,9 +4,9 @@ title: sql function最佳效能寫法
 published: true
 date: 2007-08-13 00:55
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
-categories: [tw]
+category: [tw]
 redirect_from:
   - /2007/08/sql-function.html
 ---

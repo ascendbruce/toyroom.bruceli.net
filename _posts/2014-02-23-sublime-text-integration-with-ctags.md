@@ -5,7 +5,7 @@ published: true
 date: 2014-02-23 08:09
 tags:
 - Sublime
-categories: [tw]
+category: [tw]
 comments: true
 image: http://user-image.logdown.io/user/82/blog/82/post/179064/WK22LRuEQWau88zDMUD7_ctags_jump.gif
 ---

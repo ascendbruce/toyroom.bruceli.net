@@ -5,7 +5,7 @@ published: true
 date: 2013-12-31 05:37
 tags:
 - mac
-categories: [tw]
+category: [tw]
 comments: true
 
 ---
@@ -27,9 +27,9 @@ comments: true
 3. 重開 SourceTree 並重新設定 / Reopen and setup SourceTree
 
 > ### 在 Finder 開啟 Library 的方法
-> 
+>
 > 1. 打開 Finder 視窗
 > 2. 按 menu 的 "Go" 下拉選單
 > 3. 按著 option 鍵，就會出現 Library
-> 
+>
 > 建議把 Library 拉到 Finder 側欄，以後要用到時比較方便

@@ -4,7 +4,7 @@ title: Tutorial - 如何安裝lslplus或lslforge
 published: true
 date: 2011-12-02 18:05
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/12/tutorial-how-to-install-lslplus-plugin.html

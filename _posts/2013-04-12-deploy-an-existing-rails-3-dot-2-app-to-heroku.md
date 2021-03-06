@@ -4,7 +4,7 @@ published: true
 date: 2013-04-12 23:33
 tags:
 - rails
-categories: [en]
+category: [en]
 comments: true
 
 ---
@@ -41,7 +41,7 @@ Create and rename an heroku app
 > Make sure your had set production environmnet correctly in local. Or you may encounter problems on running `rake … RAILS_ENV=production`.
 
     rake db:create RAILS_ENV=production
-    
+
     RAILS_ENV=production bundle exec rake assets:precompile
 
     git add .

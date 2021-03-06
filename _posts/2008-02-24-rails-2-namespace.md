@@ -4,7 +4,7 @@ title: rails 2.0 如何把controller跟view放到子資料夾使用
 published: true
 date: 2008-02-24 18:25
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2008/02/rails-20-controllerview.html

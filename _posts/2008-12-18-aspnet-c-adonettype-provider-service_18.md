@@ -4,7 +4,7 @@ title: ASP.NET C# ADO.NET的Type, Provider, Service的做法與觀念（目前�
 published: true
 date: 2008-12-18 04:22
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2008/12/aspnet-c-adonettype-provider-service.html

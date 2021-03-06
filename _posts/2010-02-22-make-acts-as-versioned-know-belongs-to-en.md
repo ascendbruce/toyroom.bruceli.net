@@ -3,7 +3,7 @@ title: Make acts_as_versioned know target model belongs_to association
 published: true
 date: 2010-02-22 20:56
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2010/02/make-actsasversioned-know-target-model.html

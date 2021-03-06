@@ -4,7 +4,7 @@ title: Mac新手最常問的問題
 published: true
 date: 2011-11-17 02:13
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/11/faq-for-mac-newbie-mac.html

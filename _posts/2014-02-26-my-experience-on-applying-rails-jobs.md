@@ -6,7 +6,7 @@ date: 2014-02-26 14:10
 tags:
 - rails
 - career
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

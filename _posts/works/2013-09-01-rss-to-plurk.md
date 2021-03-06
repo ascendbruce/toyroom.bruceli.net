@@ -4,7 +4,7 @@ title: 'Rss2Plurk - 自動讀取 RSS 張貼到 Plurk 上'
 published: true
 date: 2013-09-01 15:33
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh3.googleusercontent.com/-5ysMI6Vqk5U/UiNLaqOCsKI/AAAAAAAABfM/R11T1rKWpPA/s640/rss2plurk.png
 ---

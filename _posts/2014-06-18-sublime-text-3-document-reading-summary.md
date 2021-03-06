@@ -5,7 +5,7 @@ published: true
 date: 2014-06-18 02:15
 tags:
 - Sublime
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

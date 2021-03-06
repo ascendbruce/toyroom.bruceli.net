@@ -5,7 +5,7 @@ published: true
 date: 2013-09-25 06:51
 tags:
 - mysql
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Publish Jekyll to S3 and invalidate CloudFront cache automatically with Wercker"
 date: 2015-02-27 14:00
-categories: [en]
+category: [en]
 tags: []
 image: /images/posts/005-wercker-deploy-done.png
 excerpt: "I wrote a custom Wercker deploy step to invalidate CloudFront cache because it was not supported by the official s3sync step. But in Feb 24, 2015, wercker team has upgraded s3cmd to 1.5.1.2. Means that if you followed those tutorials to setup your Jekyll blog:"

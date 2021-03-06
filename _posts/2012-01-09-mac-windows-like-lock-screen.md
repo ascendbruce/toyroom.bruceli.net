@@ -4,7 +4,7 @@ title: 如何設定Mac的鎖定螢幕快速鍵 (取代Windows下的Win+L)
 published: true
 date: 2012-01-09 08:00
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2012/01/mac-windowswinl.html

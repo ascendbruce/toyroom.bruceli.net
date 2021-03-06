@@ -4,7 +4,7 @@ title: ubuntu linux用rename指令批次改檔名
 published: true
 date: 2011-01-21 13:30
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/01/ubuntu-linuxrename.html

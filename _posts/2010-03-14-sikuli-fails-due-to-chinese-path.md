@@ -4,7 +4,7 @@ title: sikuli在存檔之後就失效 (問題：中文路徑)
 published: true
 date: 2010-03-14 13:24
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2010/03/sikuli.html

@@ -4,7 +4,7 @@ title: 剛灌好的Ubuntu無法調整成寬螢幕解析度怎麼辦?
 published: true
 date: 2007-05-10 19:16
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2007/05/ubuntu.html

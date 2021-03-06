@@ -4,7 +4,7 @@ title: '"Better and Better" 演講的補充'
 published: true
 date: 2013-11-01 02:05
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

@@ -3,7 +3,7 @@ title: Rails 3 HOW TO  remove attribute prefix from validation error messages
 published: true
 date: 2011-09-18 08:52
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2011/09/rails-3-how-to-remove-attribute-prefix.html

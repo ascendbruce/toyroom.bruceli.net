@@ -4,7 +4,7 @@ title: 用 daemons gem 寫 service
 published: true
 date: 2010-06-12 15:56
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

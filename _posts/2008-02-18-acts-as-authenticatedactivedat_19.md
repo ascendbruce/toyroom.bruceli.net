@@ -4,7 +4,7 @@ title: acts as authenticated為什麼無法寫入actived_at欄位？
 published: true
 date: 2008-02-18 19:15
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2008/02/acts-as-authenticatedactivedat.html

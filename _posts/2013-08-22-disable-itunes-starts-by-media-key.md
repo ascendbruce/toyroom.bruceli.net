@@ -3,7 +3,7 @@ title: Disable iTunes launching by 'Play' media key
 published: true
 date: 2013-08-22 05:07
 tags: []
-categories: [en]
+category: [en]
 comments: true
 ---
 

@@ -3,7 +3,7 @@ title: Variables and email headers always get nothing in Rails3 ActionMailer
 published: true
 date: 2011-10-31 05:00
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2011/11/variables-and-email-headers-always-get.html

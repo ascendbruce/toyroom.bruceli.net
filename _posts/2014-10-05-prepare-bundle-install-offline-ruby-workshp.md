@@ -6,7 +6,7 @@ date: 2014-10-05 02:50
 tags:
 - ruby
 - rails
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

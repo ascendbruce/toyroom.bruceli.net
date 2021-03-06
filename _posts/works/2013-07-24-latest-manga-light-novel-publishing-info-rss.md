@@ -4,7 +4,7 @@ title: '最新出版漫畫/輕小說資訊 RSS'
 published: true
 date: 2013-07-24 15:33
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh5.googleusercontent.com/-_pq496B_p-I/Ue_q34kWTGI/AAAAAAAABc0/9RE4fSz8aVE/s640/wawa_rss.png
 ---

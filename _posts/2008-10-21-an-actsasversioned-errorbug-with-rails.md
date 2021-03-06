@@ -4,7 +4,7 @@ title: an acts_as_versioned error/bug with Rails 2.1 -在rails 2.1用acts_as_ver
 published: true
 date: 2008-10-21 03:34
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2008/10/actsasversioned-errorbug-with-rails-21.html

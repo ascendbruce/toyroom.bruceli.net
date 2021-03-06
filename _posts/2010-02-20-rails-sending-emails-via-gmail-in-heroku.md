@@ -4,7 +4,7 @@ title: Rails 透過 Gmail 寄信在 localhost ok 但 heroku 上不正常
 published: true
 date: 2010-02-20 11:09
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 
 ---

@@ -4,7 +4,7 @@ title: 檢查你的Mac是否有中標Flashback木馬
 published: true
 date: 2012-04-06 18:29
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2012/04/macflashback.html

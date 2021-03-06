@@ -4,7 +4,7 @@ title: ubuntu 11.10 設定Syngergy (軟體KVM) 一擊必殺秘技
 published: true
 date: 2011-11-02 17:39
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 author: idarfan
 redirect_from:

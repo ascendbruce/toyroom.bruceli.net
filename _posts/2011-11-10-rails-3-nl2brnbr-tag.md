@@ -4,7 +4,7 @@ title: 幫rails 3 加個nl2br函數，把\n換成br tag
 published: true
 date: 2011-11-10 18:36
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2011/11/rails-3-nl2brn.html

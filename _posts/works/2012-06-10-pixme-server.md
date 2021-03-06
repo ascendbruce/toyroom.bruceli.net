@@ -4,7 +4,7 @@ title: 'Pixme Server'
 published: true
 date: 2012-06-10 15:32
 tags: []
-categories: [tw, works]
+category: [tw, works]
 comments: true
 image: https://lh5.googleusercontent.com/-ejbnAgCJEFk/Ud7KZYvBcMI/AAAAAAAABac/WhraKtJXSCo/s640/pixme.png
 ---

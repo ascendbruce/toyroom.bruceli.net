@@ -1,7 +1,7 @@
 ---
 title: "追查「關於 delete_all 的 Bug」"
 date: 2016-03-12 23:50
-categories: [tw]
+category: [tw]
 tags: []
 image: /images/posts/009-code-bug.jpg
 excerpt: "has_many 沒有指定 dependent 的時候，使用 object.associations.delete_all，其行為可能會讓你有點意外"

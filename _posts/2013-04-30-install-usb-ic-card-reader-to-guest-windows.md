@@ -4,7 +4,7 @@ title: 安裝InfoThink IT-925U讀卡機到VirtualBox內的Windows 7 (Host是Mac)
 published: true
 date: 2013-04-30 20:28
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 image: http://1.bp.blogspot.com/-VORbL0ki678/UYD7KzesLwI/AAAAAAAABL8/uqu_xnLansM/s1600/install_extensions.png
 redirect_from:

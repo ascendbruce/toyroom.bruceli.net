@@ -4,7 +4,7 @@ title: 備份 Ubuntu Linux 系統並自動上傳備份檔到另一台 server
 published: true
 date: 2013-07-14 23:28
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2013/07/backup-linux-system.html

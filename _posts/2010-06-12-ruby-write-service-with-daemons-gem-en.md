@@ -3,7 +3,7 @@ title: (Ruby) Write service with daemons gem
 published: true
 date: 2010-06-12 15:56
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2010/06/ruby-write-service-with-daemons-gem.html

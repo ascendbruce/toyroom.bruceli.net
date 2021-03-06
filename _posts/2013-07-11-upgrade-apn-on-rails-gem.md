@@ -4,7 +4,7 @@ published: true
 date: 2013-07-11 21:33
 tags:
 - rails
-categories: [en]
+category: [en]
 comments: true
 
 ---

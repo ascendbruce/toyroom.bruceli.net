@@ -3,7 +3,7 @@ title: 'Tutorial: How to install Virtualbox Guest Additions in CentOS 5.3 Linux'
 published: true
 date: 2012-01-10 09:00
 tags: []
-categories: [en]
+category: [en]
 comments: true
 redirect_from:
   - /2012/01/tutorial-how-to-install-virtualbox.html

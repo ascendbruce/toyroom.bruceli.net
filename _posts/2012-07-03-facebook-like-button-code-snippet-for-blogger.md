@@ -4,7 +4,7 @@ title: 幫Google Blogger加入Facebook讚按鈕(like button)
 published: true
 date: 2012-07-03 08:41
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2012/07/google-bloggerfacebooklike-button.html

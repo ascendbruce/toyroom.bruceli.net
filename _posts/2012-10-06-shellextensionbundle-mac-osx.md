@@ -4,7 +4,7 @@ title: 解決「ShellExtension.bundle 正在使用中 無法清空垃圾桶」�
 published: true
 date: 2012-10-06 21:05
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2012/10/ShellExtension-bundle-mac-empty-trash.html

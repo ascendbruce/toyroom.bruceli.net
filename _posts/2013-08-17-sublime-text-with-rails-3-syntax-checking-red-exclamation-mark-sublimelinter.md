@@ -5,7 +5,7 @@ date: 2013-08-17 02:17
 tags:
 - ruby
 - rails
-categories: [en]
+category: [en]
 comments: true
 
 ---

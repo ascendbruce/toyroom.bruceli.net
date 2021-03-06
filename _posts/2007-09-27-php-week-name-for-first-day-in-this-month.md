@@ -4,7 +4,7 @@ title: 用PHP算出本月的第一天是星期幾
 published: true
 date: 2007-09-27 18:11
 tags: []
-categories: [tw]
+category: [tw]
 comments: true
 redirect_from:
   - /2007/09/php_28.html
