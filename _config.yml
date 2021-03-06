@@ -62,7 +62,7 @@ plugins:
 # plugins settings
 commonmark:
   options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 facebook:
   admins: 100000059775380
