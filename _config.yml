@@ -45,6 +45,7 @@ header_pages:
   - about.md
   - works.html
   - archives.html
+  - feed.md
   - search.html
 
 # Build settings
