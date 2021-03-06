@@ -2,6 +2,8 @@
 layout: default
 title: About
 permalink: /tw/about/
+redirect_from:
+  - /2007/12/po.html
 ---
 
 # 關於這個部落格
