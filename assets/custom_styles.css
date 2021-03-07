@@ -42,3 +42,17 @@ a:hover.lang-btn {
 p.rss-subscribe {
   text-align: center;
 }
+
+ul.tag-link {
+  margin: 0 0 15px 0;
+}
+li.tag-link {
+  display: inline-block;
+}
+a.tag-link {
+  background-color: #eee;
+  margin: 3px 3px 3px 3px;
+  padding: 4px 6px 4px 6px;
+  line-height: 1.9;
+  border-radius: 16px;
+}

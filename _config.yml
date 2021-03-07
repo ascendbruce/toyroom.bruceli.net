@@ -33,6 +33,11 @@ author: Bruce Li
 markdown: CommonMarkGhPages
 # markdown: kramdown
 
+collections:
+  search_label:
+    output: true
+    permalink: /search/label/:path
+
 defaults:
   -
     scope:
@@ -106,3 +111,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - scripts
