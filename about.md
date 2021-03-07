@@ -4,6 +4,9 @@ title: About
 permalink: /tw/about/
 redirect_from:
   - /2007/12/po.html
+  - /p/books.html
+  - /p/about.html
+  - /p/blog-page.html
 ---
 
 # 關於這個部落格
