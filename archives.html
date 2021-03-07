@@ -242,7 +242,7 @@ redirect_from:
     {% assign tag_slug = tag[0] | slugify: "raw" %}
     <li class="tag-link">
       <a class="tag-link"
-        href={{ site.baseurl | append: "/search/label/" | append: tag_slug }}
+        href={{ site.baseurl | append: "/labels/" | append: tag_slug }}
         rel="category tag">
         #{{ tag[0] }}
       </a>

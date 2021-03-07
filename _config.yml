@@ -34,9 +34,9 @@ markdown: CommonMarkGhPages
 # markdown: kramdown
 
 collections:
-  search_label:
+  labels:
     output: true
-    permalink: /search/label/:path
+    permalink: /labels/:path
 
 defaults:
   -

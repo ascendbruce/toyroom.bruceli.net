@@ -3,6 +3,8 @@
 # 1. copy the latest label names from the Archive page, format and paste into the tags array below
 # 2. Run `ruby scripts/refresh_labels.rb`
 
+require "jekyll/utils"
+
 tags = %w[
   學習成功部落格
   小技巧
@@ -51,16 +53,17 @@ tags = %w[
   雜想
 ]
 
-Dir.foreach("_search_label") do |f|
-  fn = File.join("_search_label", f)
+Dir.foreach("_labels") do |f|
+  fn = File.join("_labels", f)
   File.delete(fn) if f != '.' && f != '..'
 end
 
 tags.each do |tag|
-  File.open("_search_label/#{tag}.md", "wb") do |file|
+  tag_slug = Jekyll::Utils.slugify(tag, mode: "raw")
+  File.open("_labels/#{tag_slug}.md", "wb") do |file|
     file << <<~TEXT
       ---
-      layout: search_label
+      layout: label_page
       tag-name: #{tag}
       ---
     TEXT
