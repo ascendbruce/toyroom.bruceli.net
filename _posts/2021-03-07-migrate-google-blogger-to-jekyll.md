@@ -1,6 +1,6 @@
 ---
 title: 從 Google blogger 搬家到 Jekyll
-excerpt: "因為維護方便、較好掌控的緣故，我決定將幾個原本分開經營的部落格合併，原本的部落格是在 Google Blogger (blogspot) 上，剛搬完紀錄一些注意事項下來給需要搬家/合併的人參考。..."
+excerpt: 因為維護方便、較好掌控的緣故，我決定將幾個原本分開經營的部落格合併，原本的部落格是在 Google Blogger (blogspot) 上，剛搬完紀錄一些注意事項下來給需要搬家/合併的人參考。...
 category:
 - tw
 ---
@@ -11,7 +11,7 @@ category:
 
 因為維護方便、較好掌控的緣故，我決定將幾個原本分開經營的部落格合併，原本的部落格是在 Google Blogger (blogspot) 上，剛搬完紀錄一些注意事項下來給需要搬家/合併的人參考。
 
-主要步驟
+要點
 
 1. 用 [jekyll-import](https://import.jekyllrb.com/docs/blogger/) 匯入文章
 2. 因為 Jekyll 的 URL 比 Blogger 多了日期的階層，我採用 [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) 把原本的 path 轉到新的位子上，這個 plugin [有被 Github Pages 支援](https://pages.github.com/versions/)

@@ -1,6 +1,8 @@
 ---
 title: Migrate from Google blogger to Jekyll
-excerpt: "For time-saving and better control reasons, I decided to merge few other blogs into this one. They were hosted on Google's blogger. Here are some lessons I learned during the migration. Hope this helps..."
+excerpt: For time-saving and better control reasons, I decided to merge few other
+  blogs into this one. They were hosted on Google's blogger. Here are some lessons
+  I learned during the migration. Hope this helps...
 category:
 - en
 ---
@@ -11,7 +13,7 @@ category:
 
 For time-saving and better control reasons, I decided to merge few other blogs into this one. They were hosted on Google's blogger. Here are some lessons I learned during the migration. Hope this helps.
 
-Main steps:
+Key points:
 
 1. Use [jekyll-import](https://import.jekyllrb.com/docs/blogger/) to import articles
 2. Due to the different URL formats, I use [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) to redirect the old paths to the correct ones. This plugin [is being supported by Github Pages](https://pages.github.com/versions/)

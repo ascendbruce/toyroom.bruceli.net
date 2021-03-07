@@ -1,6 +1,6 @@
 ---
 title: Google BloggerからJekyllへ移行した
-excerpt: "BloggerをJekyllに移行したときに学んだこと。..."
+excerpt: BloggerをJekyllに移行したときに学んだこと。...
 category:
 - jp
 ---
@@ -11,7 +11,7 @@ category:
 
 BloggerをJekyllに移行したときに学んだこと。
 
-ステップ：
+要点：
 
 1. [jekyll-import](https://import.jekyllrb.com/docs/blogger/)で記事をインポートする
 2. JekyllとBloggerのpathは違うから、[jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) を使ってリダイレクトする。このプラグインは[Github Pages でサポートされています]((https://pages.github.com/versions/))。
