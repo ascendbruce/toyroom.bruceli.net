@@ -48,7 +48,6 @@ defaults:
 
 header_pages:
   - about.md
-  - works.html
   - archives.html
   - feed.md
   - search.html
