@@ -5,6 +5,8 @@ category: [en]
 tags: []
 image: /images/posts/010-line-chart-heading-down.png
 excerpt: "Error monitoring tool is one of the must-have tools nowadays. But you may also have seen this: There are thousands of errors every day. Serious ones and minor ones are all mixed. People become numb because there are way too many. That is not really monitoring errors. Following strategies are what I usually do when I need to introduce error monitoring to a new team"
+redirect_from:
+  - /en/2018/05/26/strategies-clearing-bugsnag-error-reports.html
 ---
 
 <a href="{% link _posts/2018-05-26-strategies-clearing-bugsnag-error-reports-en.md %}" class="lang-btn lang-current">EN</a>
