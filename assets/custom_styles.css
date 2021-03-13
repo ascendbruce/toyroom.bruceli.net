@@ -1,3 +1,8 @@
+body {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
 pre,
 code {
     /* referenced from https://github.com/jekyll/minima/pull/462/files */
@@ -36,7 +41,6 @@ a.lang-current {
 
 a:hover.lang-btn {
   text-decoration: none;
-  /*box-shadow: 1px 1px 3px grey;*/
 }
 
 p.rss-subscribe {
