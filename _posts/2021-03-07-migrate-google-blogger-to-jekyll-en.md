@@ -7,9 +7,9 @@ category:
 - en
 ---
 
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" class="lang-btn lang-current">EN</a>
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll.md %}" class="lang-btn">TW</a>
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-jp.md %}" class="lang-btn">JP</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" title="Migrate from Google blogger to Jekyll" class="lang-btn lang-current">EN</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll.md %}" title="從 Google blogger 搬家到 Jekyll" class="lang-btn">TW</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-jp.md %}" title="Google BloggerからJekyllへ移行した" class="lang-btn">JP</a>
 
 For time-saving and better control reasons, I decided to merge few other blogs into this one. They were hosted on Google's blogger. Here are some lessons I learned during the migration. Hope this helps.
 

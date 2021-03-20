@@ -5,9 +5,9 @@ category:
 - jp
 ---
 
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" class="lang-btn">EN</a>
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll.md %}" class="lang-btn">TW</a>
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-jp.md %}" class="lang-btn lang-current">JP</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" title="Migrate from Google blogger to Jekyll" class="lang-btn">EN</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll.md %}" title="從 Google blogger 搬家到 Jekyll" class="lang-btn">TW</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-jp.md %}" title="Google BloggerからJekyllへ移行した" class="lang-btn lang-current">JP</a>
 
 BloggerをJekyllに移行したときに学んだこと。
 

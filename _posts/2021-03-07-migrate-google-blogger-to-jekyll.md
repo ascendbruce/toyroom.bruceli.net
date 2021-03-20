@@ -5,9 +5,9 @@ category:
 - tw
 ---
 
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" class="lang-btn">EN</a>
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll.md %}" class="lang-btn lang-current">TW</a>
-<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-jp.md %}" class="lang-btn">JP</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" title="Migrate from Google blogger to Jekyll" class="lang-btn">EN</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll.md %}" title="從 Google blogger 搬家到 Jekyll" class="lang-btn lang-current">TW</a>
+<a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-jp.md %}" title="Google BloggerからJekyllへ移行した" class="lang-btn">JP</a>
 
 因為維護方便、較好掌控的緣故，我決定將幾個原本分開經營的部落格合併，原本的部落格是在 Google Blogger (blogspot) 上，剛搬完紀錄一些注意事項下來給需要搬家/合併的人參考。
 
