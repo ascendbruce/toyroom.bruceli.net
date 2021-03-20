@@ -24,6 +24,7 @@ blockquote.hightlight {
 }
 
 a.lang-btn {
+    font-size: 14px;
     background-color: #0099cc;
     padding: 0 5px 0 5px;
     border: solid;
