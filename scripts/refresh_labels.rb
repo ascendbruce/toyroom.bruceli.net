@@ -9,10 +9,8 @@ tags = %w[
   學習成功部落格
   小技巧
   聽演講心得
-  雜項
   讀書心得
   公告
-  作品
   心情日記
   成功的觀念
   翻譯國外好文
@@ -47,7 +45,6 @@ tags = %w[
   mac
   Sublime
   career
-  pow
   Techbang
   productivity
   雜想
