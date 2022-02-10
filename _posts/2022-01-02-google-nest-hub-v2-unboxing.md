@@ -99,3 +99,12 @@ category:
 那我後悔買 Google Nest Hub 嗎？其實也沒有，以他的售價+有達成我預設的目標，我覺得還是個勉強 OK 的購買決定。但如果沒有頭洗到一半的前提（先買了不能串 Apple 的 WiZ 智慧燈），我可能不會選擇 Google 音響，但實際使用後更加確定有小螢幕才方便，謠傳 Apple 也有在開發這種形式的產品，但目前還沒看到。
 
 以上是目前實際使用 Google Nest Hub 心得，供有興趣購買的人參考。
+
+## 用我的推薦連結購買
+
+如果您覺得我的觀點有幫助到您做出更好的購物決定，請多多透過我的推薦連結購買商品，這樣我可以賺取一些佣金。以下是這篇文章相關的商品：
+
+* [Google Nest Hub 2](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9435657&Area=search&mdiv=403&oid=1_1&cid=index&kw=google%2Bnest%2Bhub&memid=6000018258&cid=apuad&oid=1&osm=league)
+* [Apple HomePod mini](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8460759&Area=search&mdiv=403&oid=1_1&cid=index&kw=homepod%20mini&memid=6000018258&cid=apuad&oid=1&osm=league)
+* [Philips Hue 入門套件組](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8253184&Area=search&mdiv=403&oid=1_10&cid=index&kw=Philips%20Hue&memid=6000018258&cid=apuad&oid=1&osm=league)
+* [Philips WiZ 燈泡3入組](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=8395421&Area=search&mdiv=403&oid=1_1&cid=index&kw=Philips%20WiZ&memid=6000018258&cid=apuad&oid=1&osm=league) (請注意，如文章所述，這個商品對 Apple 生態系的整合較差)
