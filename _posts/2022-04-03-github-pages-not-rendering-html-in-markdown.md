@@ -5,6 +5,9 @@ category:
 - en
 ---
 
+<a href="{% link _posts/2022-04-03-github-pages-not-rendering-html-in-markdown.md %}" title="GitHub pages not rendering HTML in markdown (eg. a tags)" class="lang-btn lang-current">EN</a>
+<a href="{% link _posts/2022-04-03-github-pages-not-rendering-html-in-markdown-tw.md %}" title="GitHub pages 無法 render HTML 了（例如超連結 a 標籤）" class="lang-btn">TW</a>
+
 In a recent deploy of this blog -- which is powered by jekyll and github-pages, I found out that
 a tags stop working. Those links were broken.
 
