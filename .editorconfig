@@ -1,0 +1,7 @@
+# Please install EditorConfig plugin for your editor or IDE
+# Usage and plugin list can be found here: http://EditorConfig.org
+
+# You should place the generic .editorconfig in your home direclty
+# https://wordupwiki.atlassian.net/wiki/spaces/EN/pages/264208396/Web+Frontend+Engineer+Onboarding
+
+root = false
