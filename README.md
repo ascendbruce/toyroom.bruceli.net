@@ -11,15 +11,13 @@ Make sure:
 Then
 
 ```bash
-jekyll serve --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
-# or
-jekyll liveserve --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
+jekyll serve --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
 ```
 
 other usful commands
 
 ```
-jekyll build # or
+jekyll build
 jekyll server
 ```
 
