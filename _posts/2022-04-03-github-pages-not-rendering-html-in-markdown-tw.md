@@ -12,7 +12,7 @@ category:
 
 稍微研究一下後，在 [github/pages-gem/releases/tag/v225](https://github.com/github/pages-gem/releases/tag/v225) 發現了點線索。
 
-GitHub 在 2022-03-04 改了點東西，導致現在必須加入 `UNSAFE` option 到
+看來 GitHub 在 2022-03-04 改了點東西，導致現在必須加入 `UNSAFE` option 到
 `commonmark` （並傳給 `jekyll-commonmark-ghpages`）才能 render HTML。
 
 我加了 `UNSAFE` option 以後，重新 deploy 就正常了。
@@ -30,12 +30,12 @@ commonmark:
 
 > The UNSAFE option is required for HTML rendering.
 
-不確定他們有沒有在哪邊公告，反正我是發現我的 blog 連結壞掉才發現的 🥲
+不確定他們有沒有在哪邊公告，總之我是發現我的 blog 連結壞掉才發現的 🥲
 
 在 local 跑 `jekyll serve` 的時候，它可能會顯示以下錯誤訊息：
 
 > CommonMark: UNSAFE is not a valid option
 
-這個沒有問題，可以忽略。
+這個沒有關係，可以忽略。
 
 希望這篇文章可以幫你省下一點點 debug 的時間。

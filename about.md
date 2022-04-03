@@ -24,7 +24,7 @@ redirect_from:
 **Bruce**  
 [WORD UP](https://about.wordup.com.tw/) 共同創辦人 / 軟體工程師 / [Leanpub 作者](https://leanpub.com/effective-life) / [Youtuber](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA)。
 
-我喜歡協助他人變得更有效能，例如分享一些我的學習心得，或者推薦適合的東西來輔助工作或生活。
+我喜歡協助他人變得更有效能，例如我喜歡分享一些我的學習心得，或者推薦適合的東西來輔助工作或生活。
 
 ## 工作經歷
 
@@ -39,7 +39,7 @@ redirect_from:
 
 一些閒餘時間做的小工具，歡迎使用。
 
-* [溫度驟降預報](http://chill.bruceli.net/)
+* [溫度驟降預報](http://chill.bruceli.net/) (故障中，還沒空修復)
 * [最新出版漫畫/輕小說資訊 - 蛙蛙書單 RSS](http://wawarss.bruceli.net/)
 * [博客來66折優化電子報](http://books66.bruceli.net/)
 * 更多作品介紹請參考 [作品集](/tw/works/)
