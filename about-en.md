@@ -9,11 +9,20 @@ permalink: /en/about/
 <a href="/en/about/" class="lang-btn lang-current">EN</a>
 <a href="/tw/about" class="lang-btn">TW</a>
 
-Hi! I am Bruce, a software engineer living in Taiwan, also the co-founder of WORD UP.
+This blog is a mix of productivity tips, tech, business and personal journal.
 
-This blog is a mix of tech, business, personal journal. Posts are mostly in Traditional Chinese, but some articles are also available in English.
+# About me
 
-My email address is:
+![avatar]({% link /images/avatar.jpg %})
 
-![my email]({% link /images/email.png %})
+**Bruce**  
+Co-founder of [WORD UP](https://about.wordup.com.tw/) / software engineer / [Leanpub author](https://leanpub.com/effective-life) / [Youtuber](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA).
 
+I love to assist people in being more effective. For example, share my lesson learned, or recommend tings that will help in work or personal life.
+
+# Contacts
+
+* Email: ![my email]({% link /images/email.png %})
+* Twitter: [@BruceToyRoom](https://twitter.com/BruceToyRoom)
+* Facebook: [BruceToyRoom](https://www.facebook.com/BruceToyRoom)
+* YouTube: [Bruce 的玩具間](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA)
