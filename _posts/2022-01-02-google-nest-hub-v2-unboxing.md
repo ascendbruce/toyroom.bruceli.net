@@ -5,6 +5,12 @@ category:
 - tw
 ---
 
+<blockquote class="hightlight">
+  我後來也拍成了一集影片，別忘了去看看：
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/E2DCwTcPzZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</blockquote>
+
 最近 Google Nest Hub 相關的開箱文章、評測影片也越來越多了，我當初很期待、而且是用預購的，但實際用起來發現難用的點是在太多了，想寫文分享一下我的實際體驗 ~~抱怨一下~~ 。
 
 總得來說，我覺得 Google Nest Hub 還有**極巨大**的改善空間，但它也確實有幫我實現一些以前我辦不到的應用方式，所以我不會說這是不值得買的東西，但要買的話記得要有正確的預期：不要期待它能全面提升房子的智慧，它有強項，但大致上都很蠢。
