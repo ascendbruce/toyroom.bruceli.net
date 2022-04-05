@@ -16,7 +16,7 @@ This blog is a mix of productivity tips, tech, business and personal journal.
 ![avatar]({% link /images/avatar.jpg %})
 
 **Bruce**  
-Co-founder of [WORD UP](https://about.wordup.com.tw/) / software engineer / [Leanpub author](https://leanpub.com/effective-life) / [Youtuber](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA).
+Co-founder of [WORD UP](https://about.wordup.com.tw/) / software engineer / [Leanpub author](https://leanpub.com/effective-life) / [YouTuber](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA).
 
 I love to assist people in being more effective. For example, share my lesson learned, or recommend tings that will help in work or personal life.
 

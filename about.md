@@ -22,7 +22,7 @@ redirect_from:
 ![avatar]({% link /images/avatar.jpg %})
 
 **Bruce**  
-[WORD UP](https://about.wordup.com.tw/) 共同創辦人 / 軟體工程師 / [Leanpub 作者](https://leanpub.com/effective-life) / [Youtuber](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA)。
+[WORD UP](https://about.wordup.com.tw/) 共同創辦人 / 軟體工程師 / [Leanpub 作者](https://leanpub.com/effective-life) / [YouTuber](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA)。
 
 我喜歡協助他人變得更有效能，例如我喜歡分享一些我的學習心得，或者推薦適合的東西來輔助工作或生活。
 

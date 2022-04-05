@@ -13,7 +13,7 @@ category:
 稍微研究一下後，在 [github/pages-gem/releases/tag/v225](https://github.com/github/pages-gem/releases/tag/v225) 發現了點線索。
 
 看來 GitHub 在 2022-03-04 改了點東西，導致現在必須加入 `UNSAFE` option 到
-`commonmark` （並傳給 `jekyll-commonmark-ghpages`）才能 render HTML。
+`commonmark` （並傳給 `jekyll-commonmark-ghpages`）才能 render HTML。而且這件事情在 local 不會察覺。
 
 我加了 `UNSAFE` option 以後，重新 deploy 就正常了。
 
