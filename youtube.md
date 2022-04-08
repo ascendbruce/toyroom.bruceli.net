@@ -2,6 +2,7 @@
 title: 我的 YouTube 頻道
 layout: default
 permalink: "/tw/youtube/"
+redirect_to: https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA
 ---
 
 # 我的 YouTube 頻道
