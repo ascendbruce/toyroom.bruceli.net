@@ -61,3 +61,8 @@ a.tag-link {
   line-height: 1.9;
   border-radius: 16px;
 }
+
+.footer-pages {
+  list-style: none;
+  margin-left: 0;
+}
