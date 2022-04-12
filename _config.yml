@@ -64,6 +64,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # plugins settings
 commonmark:
