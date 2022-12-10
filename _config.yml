@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Bruce's Blog"
+title: "Bruce 的玩具間 Blog"
 # email: your-email@example.com
 tagline: "技術+管理+生活雜記，總之就是我的部落格"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,6 +29,7 @@ twitter_username: BruceToyRoom
 github_username:  ascendbruce
 linkedin_username:  ascendbruce
 facebook_username: BruceToyRoom
+youtube_username: BruceToyRoom
 author: Bruce Li
 
 markdown: CommonMarkGhPages
@@ -48,7 +49,7 @@ defaults:
       author: "Bruce Li"
 
 header_pages:
-  - youtube.md
+  - youtuber.md
   - about.md
   - archives.html
   - feed.md

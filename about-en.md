@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /en/about/
 ---
 
@@ -25,4 +25,4 @@ I love to assist people in being more effective. For example, share my lesson le
 * Email: ![my email]({% link /images/email.png %})
 * Twitter: [@BruceToyRoom](https://twitter.com/BruceToyRoom)
 * Facebook: [BruceToyRoom](https://www.facebook.com/BruceToyRoom)
-* YouTube: [Bruce 的玩具間](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA)
+* YouTube: [BruceToyRoom](https://www.youtube.com/BruceToyRoom)

@@ -28,12 +28,24 @@ redirect_from:
 
 ## 工作經歷
 
-* WORD UP 單字救星+練題目神器 (AppWorks #18)
-* MoneySmart (新加坡)
-* honestbee 誠實蜜蜂 (新加坡)
-* SpoonRocket 湯匙火箭
-* Techbang T客邦
-* CloudOnline 雲端線上 (AppWorks #1)
+* **WORD UP 單字救星+練題目神器** (AppWorks #18)  
+  > Co-founder | Feb 2019 -  
+  > Taiwan
+* **MoneySmart**  
+  > Software Developer | Jul 2018 - Feb 2019  
+  > Singapore
+* **honestbee 誠實蜜蜂**  
+  > Full Stack Developer | Jun 2015 - Jun 2018  
+  > Singapore
+* **SpoonRocket 湯匙火箭**  
+  > Software Developer | Deck 2014 - Apr 2015  
+  > Taiwan
+* **Techbang T客邦**  
+  > Software Developer | Sep 2013 - Nov 2014  
+  > Taiwan
+* **CloudOnline 雲端線上** (AppWorks #1)  
+  > Software Developer | Aug 2011 - Aug 2013  
+  > Taiwan
 
 ## 我的程式作品
 
@@ -46,23 +58,23 @@ redirect_from:
 
 經營的其他部落格
 
-* [垃圾英文部落格](http://english.bruceli.net/)
+* [雜七雜八英文部落格](http://english.bruceli.net/)
 
-# 我的興趣
+## 我的興趣
 
 我有興趣的事情不少，而且很常換，歡迎有同樣興趣的朋友來聊聊
 
 * 聽音樂。我聽的音樂類型還蠻廣的，從古典到死亡重金屬都聽，很多類型我都聽。不過通常是一陣一陣的。
-* 最喜歡的歌手是 LiSA (日本的)，我甚至有收藏 Just Ear XJE-MH/L1SA (LiSA 聯名款) 客製化耳道式耳機
+* 最喜歡的歌手是 LiSA (日本)。我甚至有收藏 Just Ear XJE-MH/L1SA (LiSA 聯名款) 客製化耳道式耳機
 * 除了喜歡聽音樂，以前也玩過一點爵士鼓跟吉他
-* 看動畫、漫畫、小說。特別喜歡的作品是《科學超電磁砲》、《你的名字》、《少女與戰車》、《重金搖滾雙面人》
-* BJD，我有 Mirai Classic Milk (Smart Doll 1/3) 跟御坂美琴 (Azone 1/6)
+* 看動畫、漫畫、小說。特別喜歡的作品是《科學超電磁砲》、《少女與戰車》、《青春豬頭少年》系列、《你的名字》、《重金搖滾雙面人》。特別喜歡的作者有森見登美彥、東野圭吾、有川浩
+* BJD。我有 Mirai Classic Milk (Smart Doll 1/3) 跟御坂美琴 (Azone 1/6)
 * 打過網球校隊
 * 小練過速解魔術方塊，但非常業餘，三階最快也只有到過 SUB-60
 
-# 聯絡我
+## 聯絡我
 
 * Email: ![my email]({% link /images/email.png %})
 * Twitter: [@BruceToyRoom](https://twitter.com/BruceToyRoom)
 * Facebook: [BruceToyRoom](https://www.facebook.com/BruceToyRoom)
-* YouTube: [Bruce 的玩具間](https://www.youtube.com/channel/UCcf138Dhcch3kPyXnoPE5rA)
+* YouTube: [BruceToyRoom](https://www.youtube.com/BruceToyRoom)

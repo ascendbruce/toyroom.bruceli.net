@@ -436,8 +436,6 @@ redirect_from:
   {% endfor %}
 </ul>
 
-<h2>By year</h2>
-
 {% for post in site.posts %}
 
         {% capture year_of_current_post %}
@@ -449,7 +447,7 @@ redirect_from:
         {% endcapture %}
 
         {% if forloop.first %}
-        <h3>{{ year_of_current_post }}</h3>
+        <h2>{{ year_of_current_post }}</h2>
         <ul>
         {% endif %}
 
@@ -461,7 +459,7 @@ redirect_from:
         {% if year_of_current_post != year_of_previous_post %}
         </ul>
 
-        <h3>{{ year_of_previous_post }}</h3>
+        <h2>{{ year_of_previous_post }}</h2>
         <ul>
         {% endif %}
         {% endif %}

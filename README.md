@@ -12,6 +12,7 @@ Then
 
 ```bash
 jekyll serve --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
+jekyll serve --drafts --config _config.yml,_config-dev.yml -P 4001
 ```
 
 other usful commands
