@@ -53,8 +53,6 @@ category:
 * **Keychron K3 鍵盤**  
   ![](/images/posts/2023-01-02-keychron-k3.jpg)
   換鍵盤是大事，因為會需要熟悉新 layout，所以我平常沒事不會換，但因為 Filco Minila 真的用太多年了，而且已停產也沒辦法再買，於是再次積極尋找新鍵盤，最後決定是 Keychron K3，這個 layout 對我很理想：寬度短所以右手移動距離短，又有夠多的快速鍵、不用記很彆扭的組合鍵，加上最關鍵的因素是可選非常罕見的 30g 光軸。因為長期打鍵盤，用比較重的軸會讓我手指關節痛，平常最少也會用 MX 紅軸 (45g)，但有 30g 更好，所以就買了兩把分別放辦公室跟家裡，接下來好幾年都會用這款。
-* **Kagi 付費搜尋引擎**  
-  雖然要付費，真要說也不是非得透過他才能找到資料，但有些功能是 Google 無法提供的，用量又大，我覺得靠這行吃飯、且對於隱私權比較在乎的人可以考慮購買
 * **Backbone 升降桌 + Wavebone 音響架**  
   ![](/images/posts/2023-01-02-backbone-standing-desk-wavebone-gemini.jpg)
   我發現有時候站著工作會更容易進入狀態，可能是因為坐久了身體太習慣，打破一下現狀、有機會重新進入積極的狀態。但是我房間已經沒有空間再擺一個高腳桌了，所以就把腦筋動到升降桌上。既然要換桌子，就想順便採用 Wavebone Gemini 這個很省桌面空間的音響架，所以最後決定一起跟 Backbone 買就好。單論升降桌的話，FUNTE 跟 STANDWAY 似乎比較知名。
@@ -62,7 +60,8 @@ category:
   續前一張圖，價位 4,000↓ 的喇叭但音質很超值，因為之前用的 Bose Companion 20 壞了，當時也沒有太多預算，所以決定買這台，比萬元的 Bose Companion 20 好聽，價位也親民，主要缺點是體積大。同價位想要體積小的話可以考慮 Creative T100。當然這兩台都不可能跟幾萬、幾十萬的精選音響對打就是了。
 * **[BenQ Screenbar Halo](https://www.youtube.com/watch?v=CqL7tvwDM5U)** ([我的 momo 推薦連結](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9007508&memid=6000018258&cid=apuad&oid=1&osm=league))  
   續前一張圖，搭配螢幕用的燈，避免螢幕反光、也避免眩光，用起來很舒適的燈。BenQ 又是其中的領導者，我覺得唯一缺點是 BenQ 炫砲的開關設計很多餘、反而難用，如果是像電視遙控器那樣可能還比較順手。  
-  另外，桌上那台 Google Nest Hub，我已經寫過文章也拍成 YouTube 過囉：[Google Nest Hub (第二代) 使用心得：功能很多、串連很強，但大致上都很難用]({% link _posts/2022-01-02-google-nest-hub-v2-unboxing.md %})
+* **[Google Nest Hub](https://www.youtube.com/watch?v=E2DCwTcPzZQ)** ([我的 momo 推薦連結](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9435657&Area=search&mdiv=403&oid=1_1&cid=index&kw=google%2Bnest%2Bhub&memid=6000018258&cid=apuad&oid=1&osm=league))  
+  續前一張圖，我為它寫過一篇專文：[Google Nest Hub (第二代) 使用心得：功能很多、串連很強，但大致上都很難用]({% link _posts/2022-01-02-google-nest-hub-v2-unboxing.md %})
 * **Owala Freesip 水壺** ([我的 momo 推薦連結](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7928648&memid=6000018258&cid=apuad&oid=1&osm=league))  
   ![](/images/posts/2023-01-02-owala-freesip.jpg)
   彈蓋式、付吸管、710ml 水壺，單手可開關、不用仰頭喝的水壺，把喝水的動作極度優化，這樣比較容易維持常喝水的習慣。我一次買了三個，辦公室跟家裡常駐各一，再加上一個換洗用。
@@ -71,6 +70,8 @@ category:
   缺貨很久的遊戲機，用掌機的形式玩 PC 遊戲，畢竟 Steam 常常有打到骨折的特價，買起來比較划算，也因此有蠻多買了沒玩的遊戲，這下可以消化的比較快了。
 * **Xbox Series X**  
   續前一張圖，也是缺貨很久的遊戲機，沒有選擇 PS5 是因為反正我也沒有特別想玩的最新獨佔遊戲，看上 XBOX 的點是玩 Forza Horizon 開車看風景的時候可以開啟較多特效（我的 PC 顯卡是 GTX 1060，有點不夠力了）。加上有 4K UHD 藍光播放機，雖然很少用，但想用的時候沒得用也很討厭，電腦播放的限制條件太多了無法搞定，與其單獨買一台播放器，不如用 XBOX 一台搞定。
+* **Kagi 付費搜尋引擎**  
+  雖然要付費，真要說也不是非得透過他才能找到資料，但有些功能是 Google 無法提供的，我用量又大，我覺得靠這行吃飯、且對於隱私權比較在乎的人可以考慮購買。
 * **新耳機們：B&W PX7、Phillips X2HR、AirPods Pro 2**  
   PX7 是音質不錯的耳罩式無線耳機。X2HR 是傳奇跳水王，原價一萬等級但 3 千多就可以買到。AirPods Pro 1 代剛好過保就剛好脫手換成 2 代，有些小進步。
 
@@ -80,6 +81,6 @@ category:
 
 這段時間，其實也發生了有親人診斷出絕症、短時間急轉直下並離去。人真的很脆弱，現代醫學還有許多未攻克的疾病、有時候會完全不知道為什麼、什麼時候、就發生了。疾病的痛苦不說，在醫院臥床的日子，就算是從照顧者的角度來說都很難稱上舒適。但這也是人生的必修課，甚至可以說發生並不稀奇。我們能做的只有掌握自己擁有的時間與身體能力，在還健康的時候，盡可能去活出讓自己滿意的人生，同時為未來做準備。
 
-然後還有 COVID 疫苗儘快打好打滿、注意衛生習慣，這個疫情不知道還要影響人類多久，目前看起來還沒有要終結的樣子。我其實也得過了，過程不舒服、但幸好只有輕症（中的時候已打三劑）。
+然後還有 COVID 疫苗儘快打好打滿、注意衛生習慣，這個疫情不知道還要影響人類多久，目前看起來還沒有要終結的樣子。
 
 在此祝大家健康平安 🙏
