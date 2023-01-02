@@ -55,7 +55,8 @@ category:
   換鍵盤是大事，因為會需要熟悉新 layout，所以我平常沒事不會換，但因為 Filco Minila 真的用太多年了，而且已停產也沒辦法再買，於是再次積極尋找新鍵盤，最後決定是 Keychron K3，這個 layout 對我很理想：寬度短所以右手移動距離短，又有夠多的快速鍵、不用記很彆扭的組合鍵，加上最關鍵的因素是可選非常罕見的 30g 光軸。因為長期打鍵盤，用比較重的軸會讓我手指關節痛，平常最少也會用 MX 紅軸 (45g)，但有 30g 更好，所以就買了兩把分別放辦公室跟家裡，接下來好幾年都會用這款。
 * **Backbone 升降桌 + Wavebone 音響架**  
   ![](/images/posts/2023-01-02-backbone-standing-desk-wavebone-gemini.jpg)
-  我發現有時候站著工作會更容易進入狀態，可能是因為坐久了身體太習慣，打破一下現狀、有機會重新進入積極的狀態。但是我房間已經沒有空間再擺一個高腳桌了，所以就把腦筋動到升降桌上。既然要換桌子，就想順便採用 Wavebone Gemini 這個很省桌面空間的音響架，所以最後決定一起跟 Backbone 買就好。單論升降桌的話，FUNTE 跟 STANDWAY 似乎比較知名。
+  我發現有時候站著工作會更容易進入狀態，可能是因為坐久了身體太習慣，打破一下現狀、有機會重新進入積極的狀態。但是我房間已經沒有空間再擺一個高腳桌了，所以就把腦筋動到升降桌上。既然要換桌子，就想順便採用 Wavebone Gemini 這個很省桌面空間的音響架，所以最後決定一起跟 Backbone 買就好。單論升降桌的話，FUNTE 跟 STANDWAY 似乎比較知名。  
+  想換升降桌的另一個理由是，一般電腦桌主流高度 75cm 對我來說太高了，不使用鍵盤托盤的話，要嘛手腕抬太高彆扭、要嘛腳踏不到地板彆扭，就算有踏腳墊還是沒有踏地板舒適，這點之前短暫進駐 WeWork 辦公室的時候就體驗過了，所以想買升降桌也好幾年了，坐姿可以低到舒適的高度、高可以站立工作，尤其有助於進入工作狀態，終於還是咬牙買了。想來也好笑，更貴的 Herman Miller Aeron 椅都沒讓我糾結那麼久 XD
 * **Edifier R1280DB 喇叭** ([我的 momo 推薦連結](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7050882&memid=6000018258&cid=apuad&oid=1&osm=league))  
   續前一張圖，價位 4,000↓ 的喇叭但音質很超值，因為之前用的 Bose Companion 20 壞了，當時也沒有太多預算，所以決定買這台，比萬元的 Bose Companion 20 好聽，價位也親民，主要缺點是體積大。同價位想要體積小的話可以考慮 Creative T100。當然這兩台都不可能跟幾萬、幾十萬的精選音響對打就是了。
 * **[BenQ Screenbar Halo](https://www.youtube.com/watch?v=CqL7tvwDM5U)** ([我的 momo 推薦連結](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9007508&memid=6000018258&cid=apuad&oid=1&osm=league))  
