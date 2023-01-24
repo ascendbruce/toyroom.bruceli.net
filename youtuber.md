@@ -12,5 +12,4 @@ permalink: "/tw/youtuber/"
 
 [工程師 Bruce 的玩具間](https://www.youtube.com/BruceToyRoom)
 
-[![My YouTube channel screenshot]({% link /images/youtube_chann_screenshot.png %})](https://www.youtube.com/BruceToyRoom)
-
+<a href="https://www.youtube.com/BruceToyRoom"><img src="{% link /images/my_yt_chann.png %}" style="border: 1px solid #ccc;" /></a>
