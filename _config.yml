@@ -49,9 +49,9 @@ defaults:
       author: "Bruce Li"
 
 header_pages:
-  - youtuber.md
   - about.md
-  - archives.html
+  - now.md
+  - support.md
   - feed.md
   - search.html
 

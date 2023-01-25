@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSS
+title: Subscribe
 ---
 
 # 訂閱 - 中文文章

@@ -72,6 +72,8 @@ redirect_from:
 * 打過網球校隊
 * 小練過速解魔術方塊，但非常業餘，三階最快也只有到過 SUB-60
 
+看更多 → <a href="/tw/now">Now</a>
+
 ## 聯絡我
 
 * Email: ![my email]({% link /images/email.png %})
