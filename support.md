@@ -24,14 +24,16 @@ permalink: "/tw/support/"
 
 ### momo
 
-> 買之前建議跟 PChome、博客來、或你常用的商城互相比較一下，有時候價差可能到數百元。
+> 買之前建議跟 PChome、博客來、或你常用的商城互相比較一下，有時候價差可能到數百元，沒有必要特地買貴的。
 
 我自己認真用過而且覺得很讚的推薦商品：
 
 * [Edifier R1280DB 喇叭](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7050882&memid=6000018258&cid=apuad&oid=1&osm=league)  
-  以 4,000↓ TWD 的價位來說音質非常超值，在 [近況報告 2023 January]({% link _posts/2023-01-02-personal-updates-2023-january.md %}) 介紹過
+  以 4,000↓ TWD 的價位來說音質非常超值
+* [BenQ Screenbar Halo](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=9007508&memid=6000018258&cid=apuad&oid=1&osm=league)  
+  專門搭配螢幕用的燈，避免螢幕反光、也避免眩光，用起來很舒適的燈
 * [Owala Freesip 水壺](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7928648&memid=6000018258&cid=apuad&oid=1&osm=league)  
-  彈蓋式吸管水壺，單手可開關、不用仰頭喝的水壺，讓喝水的動作很簡單，幫助維持喝水習慣，在 [近況報告 2023 January]({% link _posts/2023-01-02-personal-updates-2023-january.md %}) 介紹過
+  彈蓋式吸管水壺，單手可開關、不用仰頭喝的水壺，讓喝水的動作變得超精簡，幫助維持喝水習慣。以上三個都有在 [近況報告 2023 January]({% link _posts/2023-01-02-personal-updates-2023-january.md %}) 介紹過
 * [王樣的極夢枕](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7779684&memid=6000018258&cid=apuad&oid=1&osm=league)  
   我覺得很好睡的枕頭，在 [近況報告 2019 June](https://medium.com/@ascendbruce/diary-2019-june-2fbe42973776) 裡有介紹過
 * [伊藤園 お～いお茶 綠茶](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6912188&memid=6000018258&cid=apuad&oid=1&osm=league)  
