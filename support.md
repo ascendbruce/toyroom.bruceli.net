@@ -1,5 +1,5 @@
 ---
-title: Support Me
+title: Support me
 layout: default
 permalink: "/tw/support/"
 ---
@@ -10,9 +10,7 @@ permalink: "/tw/support/"
 
 由於我目前寫文章或拍 YouTube 影片並不在可以產生顯著收益的階段、也沒有條件去投注那樣程度的心血，因此很需要大家的呵護，可以的話，麻煩順手訂閱 follow 我。
 
-1. 訂閱我的 blog（就是你正在看的網站） → [訂閱 bruceli.net 的文章]({% link feed.md %})
-2. 訂閱我的 YouTube 頻道 → [工程師 Bruce 的玩具間](https://www.youtube.com/BruceToyRoom)
-3. 我的社群帳號 → Twitter [@BruceToyRoom](https://twitter.com/BruceToyRoom) / Facebook [BruceToyRoom](https://www.facebook.com/BruceToyRoom)
+[Follow me 頁面]({% link follow-me-tw.md %}) 裡有我訂閱網址以及 YouTube 頻道、各社群帳號連結
 
 如果你喜歡我的文章/影片，除了按讚、分享、訂閱，以下是一些「如果剛好需要，順手做一下的程度就能幫到我」的方法。
 

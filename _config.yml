@@ -51,8 +51,8 @@ defaults:
 header_pages:
   - about.md
   - now.md
+  - follow-me-tw.md
   - support.md
-  - feed.md
   - search.html
 
 # Build settings
