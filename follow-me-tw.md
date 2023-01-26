@@ -2,8 +2,6 @@
 layout: default
 title: Follow me
 permalink: "/tw/follow_me/"
-redirect_from:
-  - /feed.html
 ---
 
 # Follow Me
