@@ -11,7 +11,16 @@ permalink: "/tw/follow_me/"
 
 ## RSS 訂閱本站中文文章
 
-[RSS feed](http://feeds.feedburner.com/bruce-toy-room-chinese)
+[RSS feed](https://follow.it/bruce-blog?leanpub)
+
+## Email 訂閱本站中文文章
+
+<form action="https://api.follow.it/subscription-form/ZWV0cmJocWR6dFprdGpGYmY2ZnppSFQ1VW1SSUYxU1IxeHc3MEc0clNYQVIwNCtFak5tRUcwVEd0Rko0ZkR5Sy93Nm15c1RBYmNJQjB6aHI3aUZNYW9HNi9mbXlmcXJ2N3V4OExXQ1kyaEdFdnNoZnhkN1NUTERJdGNSYTVFY0N8Wk90NExyVmtlWmZHZExBSTV6aDhkd1k1bjRVZjAvVTlTQUZpc05rYW5Oaz0=/8" method="post">
+  <input type="email" name="email" required="required" placeholder="輸入您的 email" spellcheck="false">
+  <button type="submit">訂閱</button>
+</form>
+
+> 您會收到一封驗證信，您需要按下其中的驗證連結後，才算訂閱成功。
 
 ## 我的 YouTube 頻道
 
