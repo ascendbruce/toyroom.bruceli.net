@@ -1,5 +1,5 @@
 ---
-title: 本站 RSS feed URL 改位置，請重新訂閱 & 這次整理 blog 順便披露了我以前的小故事
+title: 整理了部落格，RSS feed 搬家（請重新訂閱），公開一些我以前的小故事
 excerpt: 要提醒 2023-01-27 前使用 RSS 訂閱的讀者：本站的 feed 已搬家到 https://follow.it/bruce-blog?pub ，請重新訂閱
 category:
 - tw
