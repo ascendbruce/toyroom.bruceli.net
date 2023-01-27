@@ -11,7 +11,7 @@ permalink: "/en/follow_me/"
 
 ## Subscribe to my English posts via RSS
 
-[RSS feed](https://follow.it/bruce-toy-room-blog-english-posts?leanpub)
+[RSS feed](https://follow.it/bruce-toy-room-blog-english-posts?pub)
 
 ## Subscribe to my English posts via Email
 

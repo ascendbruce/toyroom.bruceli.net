@@ -11,7 +11,7 @@ permalink: "/tw/follow_me/"
 
 ## RSS 訂閱本站中文文章
 
-[RSS feed](https://follow.it/bruce-blog?leanpub)
+[RSS feed](https://follow.it/bruce-blog?pub)
 
 ## Email 訂閱本站中文文章
 

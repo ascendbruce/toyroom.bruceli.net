@@ -84,7 +84,7 @@ twitter:
   username: ascendbruce
 
 feed:
-  path: https://follow.it/bruce-blog?leanpub
+  path: https://follow.it/bruce-blog?pub
   categories:
     - tw
     - en
