@@ -6,6 +6,9 @@ permalink: "/tw/support/"
 
 # 用行動支持我
 
+<a href="{% link support-en.md %}" title="Support Me" class="lang-btn">EN</a>
+<a href="{% link support-tw.md %}" title="Support Me" class="lang-btn lang-current">TW</a>
+
 感謝你願意了解如何幫助我。
 
 由於我目前寫文章或拍 YouTube 影片並不在可以產生顯著收益的階段、也沒有條件去投注那樣程度的心血，因此很需要大家的呵護，可以的話，麻煩順手訂閱 follow 我 → [Follow me 頁面]({% link follow-me-tw.md %})

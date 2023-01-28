@@ -4,7 +4,7 @@ title: Follow me
 permalink: "/tw/follow_me/"
 ---
 
-# Follow Me
+# 訂閱 / 追蹤我
 
 <a href="{% link follow-me-en.md %}" title="Follow Me" class="lang-btn">EN</a>
 <a href="{% link follow-me-tw.md %}" title="Follow Me" class="lang-btn lang-current">TW</a>

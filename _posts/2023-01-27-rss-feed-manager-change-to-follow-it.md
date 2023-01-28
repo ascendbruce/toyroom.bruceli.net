@@ -24,6 +24,6 @@ category:
 
 <p><img src="{% link /images/posts/2023-01-27-blog-navbar.png %}" style="border: 1px solid #ccc;" /></p>
 
-* [Now 頁面]({% link now.md %}) : 最近在玩、以前玩過的事情，這次披露蠻多我以前的小故事，歡迎老粉絲來看看
+* [Now 頁面]({% link now-tw.md %}) : 最近在玩、以前玩過的事情，這次披露蠻多我以前的小故事，歡迎老粉絲來看看
 * [Follow me 頁面]({% link follow-me-tw.md %}) : 內容做了調整，新增了 Email 訂閱的輸入框
-* [Support me 頁面]({% link support.md %}) : 如何用行動支持我，裡面列出了一些舉手之勞就可以幫到我的事情，如果喜歡我的文章、影片，還請大家多多支持
+* [Support me 頁面]({% link support-tw.md %}) : 如何用行動支持我，裡面列出了一些舉手之勞就可以幫到我的事情，如果喜歡我的文章、影片，還請大家多多支持

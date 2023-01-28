@@ -4,7 +4,7 @@ title: Follow me
 permalink: "/en/follow_me/"
 ---
 
-# Follow Me
+# Subscribe / Follow me
 
 <a href="{% link follow-me-en.md %}" title="Follow Me" class="lang-btn lang-current">EN</a>
 <a href="{% link follow-me-tw.md %}" title="Follow Me" class="lang-btn">TW</a>
@@ -21,3 +21,12 @@ permalink: "/en/follow_me/"
 </form>
 
 > You will receive a confirmation email. Please activate the subscription by clicking on the confirm button in the email.
+
+## My YouTbue channel
+
+YouTube: [工程師 Bruce 的玩具間](https://www.youtube.com/BruceToyRoom)
+
+## My social accounts
+
+* Twitter [@BruceToyRoom](https://twitter.com/BruceToyRoom)
+* Facebook [BruceToyRoom](https://www.facebook.com/BruceToyRoom)

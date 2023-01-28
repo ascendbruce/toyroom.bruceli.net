@@ -6,6 +6,9 @@ permalink: "/tw/now/"
 
 # Now : 最近在玩什麼
 
+<a href="{% link now-en.md %}" title="Now" class="lang-btn">EN</a>
+<a href="{% link now-tw.md %}" title="Now" class="lang-btn lang-current">TW</a>
+
 > **這是什麼？**
 > 
 > 這頁的點子是來自於 [The /now page movement](https://sive.rs/nowff)。簡單來講就是：

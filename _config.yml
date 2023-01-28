@@ -49,10 +49,10 @@ defaults:
       author: "Bruce Li"
 
 header_pages:
-  - about.md
-  - now.md
+  - about-tw.md
+  - now-tw.md
   - follow-me-tw.md
-  - support.md
+  - support-tw.md
   - search.html
 
 # Build settings
