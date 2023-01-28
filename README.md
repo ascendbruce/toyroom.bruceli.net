@@ -31,3 +31,7 @@ jekyll server
 Uses GitHub pages
 
 git push master to https://github.com/ascendbruce/toyroom.bruceli.net
+
+# Useful tools
+
+* HTML to Markdown https://codebeautify.org/html-to-markdown (for migrating legacy posts)
