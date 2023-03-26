@@ -7,7 +7,7 @@ category:
 
 如果 Roon ARC 設定不起來，遇到類似下面的畫面：
 
-![cover](/images/posts/2023-03-22-roon-arc-error.png)
+<p><img alt="cover image" src="/images/posts/2023-03-22-roon-arc-error.png" width="1600" height="818" /></p>
 
 解決方法要根據網路配置有所不同，如果你像我一樣，沒有對家裡的網路弄過什麼了不起的設定，那麼最常見的狀況應該是以下兩種，對策分別不同。但在開始之前，我想先很快的交代一下相關名詞。
 

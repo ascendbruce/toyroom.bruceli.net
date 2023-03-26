@@ -22,7 +22,7 @@ category:
 
 這次除了換掉 feed manager 之外，部落格 navbar 右上角新增了三個頁面：
 
-<p><img src="{% link /images/posts/2023-01-27-blog-navbar.png %}" style="border: 1px solid #ccc;" /></p>
+<p><img src="{% link /images/posts/2023-01-27-blog-navbar.png %}" width="1600" height="178" /></p>
 
 * [Now 頁面]({% link now-tw.md %}) : 最近在玩、以前玩過的事情，這次披露蠻多我以前的小故事，歡迎老粉絲來看看
 * [Follow me 頁面]({% link follow-me-tw.md %}) : 內容做了調整，新增了 Email 訂閱的輸入框
