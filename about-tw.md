@@ -38,7 +38,7 @@ redirect_from:
   > Full Stack Developer | Jun 2015 - Jun 2018  
   > Singapore
 * **SpoonRocket 湯匙火箭**  
-  > Software Developer | Deck 2014 - Apr 2015  
+  > Software Developer | Dec 2014 - Apr 2015  
   > Taiwan
 * **Techbang T客邦**  
   > Software Developer | Sep 2013 - Nov 2014  
