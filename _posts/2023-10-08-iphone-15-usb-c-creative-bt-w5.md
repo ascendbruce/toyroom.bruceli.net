@@ -3,6 +3,8 @@ title: iPhone 藍牙規格不行的解決方案：iPhone 15 + Creative BT-W5
 excerpt: iPhone 15 總算換成 USB Type-C 讓我很期待 —— 解鎖了一個簡單提升音質的方法：iPhone 的藍牙規格不行，就接藍牙發射器！
 category:
 - tw
+tags:
+- 發燒耳機音響
 ---
 
 做為蘋果全家餐使用者，我對蘋果的刀法大多都很可以包容，唯有在無線聽音樂一直有些無法克服的難受。打死不採用 AptX 或 LDAC 就算了，當初採用藍牙 5.0 的腳步也很慢，到後來幾乎跟 Apple Lossless 同時期推出的 AirPods Max 卻匪夷所思的不支援無損。
