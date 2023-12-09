@@ -11,8 +11,8 @@ Make sure:
 Then
 
 ```bash
-jekyll serve --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
-jekyll serve --drafts --config _config.yml,_config-dev.yml -P 4001
+jekyll server --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
+jekyll server --drafts --config _config.yml,_config-dev.yml -P 4001
 ```
 
 other usful commands
@@ -21,6 +21,12 @@ other usful commands
 jekyll build
 jekyll server
 ```
+
+## Managing tags
+
+- Use `site.tags` to find out all used tags. Example: `_layouts/label_page.html`
+- To add tag page: create a file at `_labels/TAG_NAME.md`
+- To remove a tag page: delete the file, and add a `redirect_from:` config accordingly
 
 ## Site URL
 
