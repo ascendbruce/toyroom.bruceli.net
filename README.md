@@ -25,7 +25,7 @@ jekyll server
 ## Managing tags
 
 - Use `site.tags` to find out all used tags. Example: `_layouts/label_page.html`
-- To add tag page: create a file at `_labels/TAG_NAME.md`
+- To add tag page: create a file at `_labels/TAG_NAME.md`. You may use `scripts/refresh_labels.rb` to batch create
 - To remove a tag page: delete the file, and add a `redirect_from:` config accordingly
 
 ## Site URL
