@@ -31,9 +31,4 @@ redirect_from:
 2. 夠寬的薄鋼鏡架帶大耳罩比較舒服 (例如照片裡的後面那支)。
 3. 如果預算足夠，兩支眼鏡配同一型號鏡架會比較容易適應。
 
-## 系列
-
-- [換了新眼鏡 (2023)]({% link _posts/2023-12-09-new-glasses-2023.md %})
-- [換了新眼鏡 (2019)]({% link _posts/2019-03-31-new-glasses-2019.md %})
-- [換了新眼鏡 (2015)]({% link _posts/2015-03-08-new-glasses-mar-2015.md %})
-- [換了新眼鏡 (2011)]({% link _posts/2011-09-16-blog-post_16.md %})
+{% include series_footer_glasses.md %}
