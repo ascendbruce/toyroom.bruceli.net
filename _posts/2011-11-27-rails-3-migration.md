@@ -3,10 +3,13 @@ layout: post
 title: Rails 3 多人共同開發時Migration版本相插的問題
 published: true
 date: 2011-11-27 22:44
-tags: []
+tags:
+- rails
 category: [tw]
 comments: true
-
+redirect_from:
+- /2011/11/rails-3-migration.html
+- /tw/2011/11/28/rails-3-migration.html
 ---
 
 
@@ -16,12 +19,19 @@ comments: true
 
 你也可以用
 
-		rake db:migrate:up VERSION=20080906120000
-		指定**只執行該版本號的up區塊**的部份（給down就會執行down區塊）
+```sh
+rake db:migrate:up VERSION=20080906120000
+```
+
+指定**只執行該版本號的up區塊**的部份（給down就會執行down區塊）
 
 但如果你下這樣
-		rake db:migrate VERSION=20080906120000
-		**它會一路執行途中所有的migration**，直到你指定的版本號為止
+
+```sh
+rake db:migrate VERSION=20080906120000
+```
+
+**它會一路執行途中所有的migration**，直到你指定的版本號為止
 
 相關語法可參考[rails guide][1]
 
