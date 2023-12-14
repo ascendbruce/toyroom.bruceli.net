@@ -3,6 +3,8 @@ title: 整理了部落格，RSS feed 搬家（請重新訂閱），公開一些�
 excerpt: 要提醒 2023-01-27 前使用 RSS 訂閱的讀者：本站的 feed 已搬家到 https://follow.it/bruce-blog?pub ，請重新訂閱
 category:
 - tw
+tags:
+- 公告
 ---
 
 要提醒 2023-01-27 前使用 RSS 訂閱的讀者：
