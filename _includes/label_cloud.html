@@ -1,14 +1,90 @@
-<b>All labels</b>
+<b>Labels</b>
 
 <ul class="tag-link">
-  {% for tag in site.tags %}
-    {% assign tag_slug = tag[0] | slugify: "raw" %}
-    <li class="tag-link">
-      <a class="tag-link"
+  <li class="tag-link">Main topics:</li>
+
+{% assign pinned_labels = site.data.labels | where: 'namespace', 'main' %}
+{% for tag in pinned_labels %}
+  {% if page.tag-name == tag.name %}
+    {% assign a_tag_link_class = "tag-link-active" %}
+  {% else %}
+    {% assign a_tag_link_class = "tag-link" %}
+  {% endif %}
+  {% assign tag_slug = tag.name | slugify: "raw" %}
+  <li class="tag-link">
+      <a class="{{ a_tag_link_class }}"
         href={{ site.baseurl | append: "/labels/" | append: tag_slug }}
         rel="category tag">
-        #{{ tag[0] }}
+        #{{ tag.name }}
       </a>
     </li>
-  {% endfor %}
+{% endfor %}
 </ul>
+
+{% assign pinned_labels = site.data.labels | where: 'namespace', 'normal' %}
+<ul class="tag-link">
+  <li class="tag-link">Anything else:</li>
+
+{% for tag in pinned_labels %}
+  {% if page.tag-name == tag.name %}
+    {% assign a_tag_link_class = "tag-link-active" %}
+  {% else %}
+    {% assign a_tag_link_class = "tag-link" %}
+  {% endif %}
+  {% assign tag_slug = tag.name | slugify: "raw" %}
+  <li class="tag-link">
+      <a class="{{ a_tag_link_class }}"
+        href={{ site.baseurl | append: "/labels/" | append: tag_slug }}
+        rel="category tag">
+        #{{ tag.name }}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+
+{% if jekyll.environment == "development" %}
+  {% assign pinned_labels = site.data.labels | where: 'namespace', 'deprecated' %}
+  {% if pinned_labels.size > 0 %}
+    <ul class="tag-link">
+      <li class="tag-link">Deprecated:</li>
+
+    {% for tag in pinned_labels %}
+    {% if page.tag-name == tag.name %}
+      {% assign a_tag_link_class = "tag-link-active" %}
+    {% else %}
+      {% assign a_tag_link_class = "tag-link" %}
+    {% endif %}
+      {% assign tag_slug = tag.name | slugify: "raw" %}
+      <li class="tag-link">
+          <a class="{{ a_tag_link_class }}"
+            href={{ site.baseurl | append: "/labels/" | append: tag_slug }}
+            rel="category tag">
+            #{{ tag.name }}
+          </a>
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+  <!-- remainders -->
+  <ul class="tag-link">
+    <li class="tag-link">Remainders:</li>
+  {% assign all_labels = site.tags %}
+  {% for tag in all_labels %}
+    {% assign tag_slug = tag[0] | slugify: "raw" %}
+    {% assign matched_count = site.data.labels | where: "name", tag[0] | size %}
+
+    {% if matched_count > 0 %}
+      {% continue %}
+    {% endif %}
+
+    <li class="tag-link">
+        <a class="tag-link"
+          href={{ site.baseurl | append: "/labels/" | append: tag_slug }}
+          rel="category tag">
+          #{{ tag[0] }}
+        </a>
+      </li>
+  {% endfor %}
+  </ul>
+{% endif %}

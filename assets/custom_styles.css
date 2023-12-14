@@ -77,6 +77,15 @@ a.tag-link {
   border-radius: 16px;
 }
 
+a.tag-link-active {
+  background-color: #2a7ae2;
+  color: #eee;
+  margin: 3px 3px 3px 3px;
+  padding: 4px 6px 4px 6px;
+  line-height: 1.9;
+  border-radius: 16px;
+}
+
 .footer-pages {
   list-style: none;
   margin-left: 0;
