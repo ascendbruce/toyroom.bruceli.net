@@ -90,21 +90,3 @@
 
 - name: 發燒耳機音響
   namespace: "normal"
-
-- name: 雜想
-  namespace: "deprecated"
-
-- name: 教育
-  namespace: "deprecated"
-
-- name: 領導
-  namespace: "deprecated"
-
-- name: 有趣好笑
-  namespace: "deprecated"
-
-- name: Ubuntu
-  namespace: "deprecated"
-
-- name: linux
-  namespace: "deprecated"
