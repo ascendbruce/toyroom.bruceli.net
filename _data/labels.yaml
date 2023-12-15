@@ -4,8 +4,8 @@
 - name: dev
   namespace: "main"
 
-- name: 敗家好物
-  namespace: "main"
+# - name: 敗家好物
+#   namespace: "main"
 
 - name: 學習成功部落格
   namespace: "main"
