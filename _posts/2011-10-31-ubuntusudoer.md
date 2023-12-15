@@ -1,14 +1,17 @@
 ---
 layout: post
 title: ubuntu救回sudoer權限 筆記
-published: true
-date: 2011-10-30 18:57
-tags: []
+date: '2011-10-31T17:57:00.000+08:00'
+tags:
+- dev
+modified_time: '2011-10-31T18:02:13.152+08:00'
+blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-5209477718297616768
+blogger_orig_url: https://blog.bruceli.net/2011/10/ubuntusudoer.html
 category: [tw]
-comments: true
-
+redirect_from:
+  - /2011/10/ubuntusudoer.html
+  - /tw/2011/10/30/ubuntusudoer_31.html
 ---
-
 
 這是朋友idarfan遇到的問題，然後他又自己搞定掉，所以分享踩雷筆記給我
 
