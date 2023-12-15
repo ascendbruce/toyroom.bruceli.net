@@ -19,7 +19,14 @@
 {% endfor %}
 
   <li class="tag-link">
-      <a class="tag-link-more"
+      {% if page.tag-name %}
+        {% assign a_tag_link_class = "tag-link-more" %}
+      {% elsif include.more_tag_name == "More »" %}
+        {% assign a_tag_link_class = "tag-link-more" %}
+      {% else %}
+        {% assign a_tag_link_class = "tag-link-active" %}
+      {% endif %}
+      <a class="{{ a_tag_link_class }}"
         href={% link archives.html %}
         rel="category tag">
         {{ include.more_tag_name }}
