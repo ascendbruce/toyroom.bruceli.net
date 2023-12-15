@@ -3,6 +3,7 @@ title: Sublime Text wtih Ruby 1.9/Rails 3 syntax checking
 published: true
 date: 2013-08-17 02:17
 tags:
+- dev
 - ruby
 - rails
 category: [en]

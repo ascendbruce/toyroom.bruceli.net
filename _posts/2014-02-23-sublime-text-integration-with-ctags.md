@@ -4,6 +4,7 @@ title: 讓 Sublime Text 也擁有 "Navigate to Definition" 功能 (設定 CTags)
 published: true
 date: 2014-02-23 08:09
 tags:
+- dev
 - Sublime
 category: [tw]
 comments: true

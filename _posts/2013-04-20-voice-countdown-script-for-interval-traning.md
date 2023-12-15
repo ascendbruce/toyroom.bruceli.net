@@ -3,6 +3,7 @@ title: Voice countdown ruby script for interval training
 published: true
 date: 2013-04-20 23:09
 tags:
+- dev
 - ruby
 category: [en]
 comments: true

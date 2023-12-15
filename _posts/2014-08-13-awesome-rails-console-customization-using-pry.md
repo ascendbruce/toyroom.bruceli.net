@@ -4,6 +4,7 @@ title: 超棒的 rails console 設定
 published: true
 date: 2014-08-13 02:13
 tags:
+- dev
 - ruby
 - rails
 - Techbang

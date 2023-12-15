@@ -4,6 +4,7 @@ title: workshp 的斷線備案 - 離線 bundle install
 published: true
 date: 2014-10-05 02:50
 tags:
+- dev
 - ruby
 - rails
 category: [tw]

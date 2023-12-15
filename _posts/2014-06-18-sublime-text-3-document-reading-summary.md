@@ -4,6 +4,7 @@ title: 讀 Sublime Text 3 文件學到的新招
 published: true
 date: 2014-06-18 02:15
 tags:
+- dev
 - Sublime
 category: [tw]
 comments: true

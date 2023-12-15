@@ -4,6 +4,7 @@ title: 安裝 Sublime Text 3 互動式 Ruby Debug 外掛
 published: true
 date: 2014-03-04 05:30
 tags:
+- dev
 - rails
 - Sublime
 category: [tw]

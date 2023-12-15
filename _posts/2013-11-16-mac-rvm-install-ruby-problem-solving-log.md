@@ -4,6 +4,7 @@ title: mac rvm 安裝 ruby 解決問題記錄
 published: true
 date: 2013-11-16 14:00
 tags:
+- dev
 - ruby
 - mac
 category: [tw]
