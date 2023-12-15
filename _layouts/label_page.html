@@ -4,21 +4,24 @@ layout: default
 
 {% include label_cloud.html %}
 
-<div class="snippets">
-  <h1 class="snippets-heading">Articles tagged with "{{ page.tag-name }}"</h1>
+<h1>Articles tagged with "{{ page.tag-name }}"</h1>
 
-  {% if page.label_page_message %}
-    <p>
-      <blockquote>{{page.label_page_message}}</blockquote>
-    </p>
-  {% endif %}
+{% if page.label_page_message %}
+  <p>
+    <blockquote>{{page.label_page_message}}</blockquote>
+  </p>
+{% endif %}
 
+{% assign filtered_posts = site.posts | where_exp: "post", "post.tags contains page.tag-name" %}
+{% assign posts_by_year = filtered_posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year_group in posts_by_year %}
+  <h2>{{ year_group.name }}</h2>
   <ul>
-    {% for post in site.posts %}
-      {% if post.tags contains page.tag-name %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
+    {% for post in year_group.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div>
+{% endfor %}
+
 <!-- ref: https://blog.lunarlogic.io/2019/managing-tags-in-jekyll-blog-easily/ -->
