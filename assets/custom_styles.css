@@ -69,6 +69,7 @@ ul.tag-link {
 li.tag-link {
   display: inline-block;
 }
+
 a.tag-link {
   background-color: #eee;
   margin: 3px 3px 3px 3px;
@@ -76,7 +77,11 @@ a.tag-link {
   line-height: 1.9;
   border-radius: 16px;
 }
-
+a.tag-link-more {
+  margin: 3px 3px 3px 3px;
+  padding: 4px 6px 4px 6px;
+  line-height: 1.9;
+}
 a.tag-link-active {
   background-color: #2a7ae2;
   color: #eee;

@@ -1,25 +1,6 @@
-<b>Labels</b>
-
+{% include label_cloud_main_topics.html more_tag_name = "Show All" %}
 <ul class="tag-link">
   <li class="tag-link">Main topics:</li>
-
-{% assign pinned_labels = site.data.labels | where: 'namespace', 'main' %}
-{% for tag in pinned_labels %}
-  {% if page.tag-name == tag.name %}
-    {% assign a_tag_link_class = "tag-link-active" %}
-  {% else %}
-    {% assign a_tag_link_class = "tag-link" %}
-  {% endif %}
-  {% assign tag_slug = tag.name | slugify: "raw" %}
-  <li class="tag-link">
-      <a class="{{ a_tag_link_class }}"
-        href={{ site.baseurl | append: "/labels/" | append: tag_slug }}
-        rel="category tag">
-        #{{ tag.name }}
-      </a>
-    </li>
-{% endfor %}
-</ul>
 
 {% assign pinned_labels = site.data.labels | where: 'namespace', 'normal' %}
 <ul class="tag-link">
