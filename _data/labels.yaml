@@ -37,7 +37,10 @@
 - name: 站務公告
   namespace: "normal"
 
-- name: Techbang
+- name: 學習成功部落格
+  namespace: "normal"
+
+- name: 成功的觀念
   namespace: "normal"
 
 - name: career
@@ -52,19 +55,10 @@
 - name: 嘉言精選
   namespace: "normal"
 
-- name: 好用的工具
-  namespace: "normal"
-
 - name: 小技巧
   namespace: "normal"
 
 - name: 怎麼唸
-  namespace: "normal"
-
-- name: 成功的觀念
-  namespace: "normal"
-
-- name: 換了新眼鏡
   namespace: "normal"
 
 - name: 經驗學習
@@ -74,6 +68,12 @@
   namespace: "normal"
 
 - name: 音樂
+  namespace: "normal"
+
+- name: 換了新眼鏡
+  namespace: "normal"
+
+- name: Techbang
   namespace: "normal"
 
 - name: Sublime
@@ -87,4 +87,3 @@
 
 - name: ruby
   namespace: "normal"
-
