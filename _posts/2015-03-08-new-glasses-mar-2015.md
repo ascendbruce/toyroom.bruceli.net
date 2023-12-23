@@ -3,7 +3,7 @@ layout: post
 title: 換了新眼鏡 (2015)
 date: '2015-03-08T12:18:00.001+08:00'
 tags:
-- 生活日記
+- life
 - 換了新眼鏡
 modified_time: '2015-03-08T12:18:15.053+08:00'
 thumbnail: http://3.bp.blogspot.com/--RAfrzXiZXM/VPvJTwPOpMI/AAAAAAAACBI/XuzPmzbrf-A/s72-c/glasses2015.jpg
