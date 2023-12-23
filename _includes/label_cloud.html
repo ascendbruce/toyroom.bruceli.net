@@ -1,7 +1,9 @@
-{% include label_cloud_main_topics.html more_tag_name = "Show All" %}
+{% include label_cloud_main_topics.html more_tag_name = "All Articles" %}
 
 {% assign pinned_labels = site.data.labels | where: 'namespace', 'normal' %}
 <ul class="tag-link">
+  <li class="tag-link">More Tags:</li>
+
 {% for tag in pinned_labels %}
   {% if page.tag-name == tag.name %}
     {% assign a_tag_link_class = "tag-link-active" %}
@@ -21,7 +23,7 @@
 
 {% if jekyll.environment == "development" %}
   <ul class="tag-link">
-    <li class="tag-link">Remainders:</li>
+    <li class="tag-link">Hidden from production:</li>
   {% assign all_labels = site.tags %}
   {% for tag in all_labels %}
     {% if page.tag-name == tag[0] %}
