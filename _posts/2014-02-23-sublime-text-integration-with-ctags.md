@@ -8,12 +8,12 @@ tags:
 - Sublime
 category: [tw]
 comments: true
-image: http://user-image.logdown.io/user/82/blog/82/post/179064/WK22LRuEQWau88zDMUD7_ctags_jump.gif
+image: https://www.bruceli.net/images/posts/2014-02-23-ctags-jump.gif
 ---
 
 ## 欲達到的功能
 
-![ctags_jump.gif](http://user-image.logdown.io/user/82/blog/82/post/179064/WK22LRuEQWau88zDMUD7_ctags_jump.gif)
+![ctags_jump.gif](/images/posts/2014-02-23-ctags-jump.gif)
 
 註：本篇適用於 Mac，若用 Linux 請依照 Distribution 尋找適用的安裝指令 (apt, yum, ...)，Windows 很久沒用了不瞭解安裝方式。
 

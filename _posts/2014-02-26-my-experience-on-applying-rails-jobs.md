@@ -119,7 +119,7 @@ Rails 工程師的話，可以先透過 [Code School](https://www.codeschool.com
 
   例如想實行現在最夯的「站著工作」？沒問題
 
-  ![standup_office.jpg](http://user-image.logdown.io/user/82/blog/82/post/178895/P3OVl4TXRqmDPbfrmocH_2014-02-18%2011.46.46.jpg)
+  ![standup_office.jpg](/images/posts/2014-02-26-box-standup-desk.jpg)
 
   上班聽耳機、看 Facebook、看 YouTube 等也沒都問題（這些行為本身沒問題，但不能影響進度）。
 
