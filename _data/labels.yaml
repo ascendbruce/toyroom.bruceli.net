@@ -37,7 +37,7 @@
 - name: 健康
   namespace: "normal"
 
-- name: 公告
+- name: 站務公告
   namespace: "normal"
 
 - name: 商管、創業

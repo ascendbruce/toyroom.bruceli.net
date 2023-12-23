@@ -5,6 +5,8 @@ excerpt: For time-saving and better control reasons, I decided to merge few othe
   I learned during the migration. Hope this helps...
 category:
 - en
+tags:
+- 站務公告
 ---
 
 <a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" title="Migrate from Google blogger to Jekyll" class="lang-btn lang-current">EN</a>

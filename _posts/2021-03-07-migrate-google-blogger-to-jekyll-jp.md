@@ -3,6 +3,8 @@ title: Google BloggerからJekyllへ移行した
 excerpt: BloggerをJekyllに移行したときに学んだこと。...
 category:
 - jp
+tags:
+- 站務公告
 ---
 
 <a href="{% link _posts/2021-03-07-migrate-google-blogger-to-jekyll-en.md %}" title="Migrate from Google blogger to Jekyll" class="lang-btn">EN</a>
