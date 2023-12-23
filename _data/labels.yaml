@@ -1,7 +1,7 @@
-- name: productivity
+- name: dev
   namespace: "main"
 
-- name: dev
+- name: productivity
   namespace: "main"
 
 - name: 商業理財
@@ -10,7 +10,31 @@
 - name: life
   namespace: "main"
 
-- name: Sublime
+- name: 敗家好物
+  namespace: "normal"
+
+- name: 發燒耳機音響
+  namespace: "normal"
+
+- name: 讀書心得
+  namespace: "normal"
+
+- name: 聽演講心得
+  namespace: "normal"
+
+- name: 夢境
+  namespace: "normal"
+
+- name: 遊記
+  namespace: "normal"
+
+- name: 食記
+  namespace: "normal"
+
+- name: 了解新知與探究常識
+  namespace: "normal"
+
+- name: 站務公告
   namespace: "normal"
 
 - name: Techbang
@@ -19,34 +43,13 @@
 - name: career
   namespace: "normal"
 
-- name: mac
-  namespace: "normal"
-
-- name: rails
-  namespace: "normal"
-
-- name: ruby
-  namespace: "normal"
-
-- name: 了解新知與探究常識
-  namespace: "normal"
-
 - name: 個人發展
   namespace: "normal"
 
 - name: 健康
   namespace: "normal"
 
-- name: 站務公告
-  namespace: "normal"
-
-- name: 商管、創業
-  namespace: "normal"
-
 - name: 嘉言精選
-  namespace: "normal"
-
-- name: 夢境
   namespace: "normal"
 
 - name: 好用的工具
@@ -64,30 +67,24 @@
 - name: 換了新眼鏡
   namespace: "normal"
 
-- name: 敗家好物
-  namespace: "normal"
-
-- name: 發燒耳機音響
-  namespace: "normal"
-
 - name: 經驗學習
   namespace: "normal"
 
 - name: 翻譯國外好文
   namespace: "normal"
 
-- name: 聽演講心得
-  namespace: "normal"
-
-- name: 讀書心得
-  namespace: "normal"
-
-- name: 遊記
-  namespace: "normal"
-
 - name: 音樂
   namespace: "normal"
 
-- name: 食記
+- name: Sublime
+  namespace: "normal"
+
+- name: mac
+  namespace: "normal"
+
+- name: rails
+  namespace: "normal"
+
+- name: ruby
   namespace: "normal"
 
