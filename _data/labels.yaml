@@ -10,6 +10,9 @@
 - name: life
   namespace: "main"
 
+- name: 好用工具
+  namespace: "normal"
+
 - name: 敗家好物
   namespace: "normal"
 

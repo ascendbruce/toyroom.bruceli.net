@@ -3,7 +3,9 @@ layout: post
 title: 改坐 Aeron 椅提升工作生產力
 published: true
 date: 2014-07-04 02:37
-tags: []
+tags:
+- productivity
+- 敗家好物
 category: [tw]
 comments: true
 image: https://lh6.googleusercontent.com/--SWxzfy_UHM/U7YSEMDo2-I/AAAAAAAAB1w/xnoUt9IXUyY/w800-h598-no/aeron-in-office.jpg

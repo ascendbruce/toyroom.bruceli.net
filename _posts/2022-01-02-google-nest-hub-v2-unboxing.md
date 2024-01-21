@@ -1,6 +1,9 @@
 ---
 title: Google Nest Hub (第二代) 使用心得：功能很多、串連很強，但大致上都很難用
 excerpt: 最近 Google Nest Hub 相關的開箱文章、評測影片也越來越多了，我當初很期待、而且是用預購的，但實際用起來發現難用的點是在太多了，想寫文分享一下我的實際體驗。
+tags:
+- life
+- 敗家好物
 category:
 - tw
 ---
