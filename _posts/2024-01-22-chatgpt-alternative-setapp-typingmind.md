@@ -47,7 +47,7 @@ ChatGPT 訂閱費不便宜 (US$20/mo)
 - Dash for macOS - 搜尋速度很快的開發文件搜尋，單買是 €15 但每幾年大改版就要付費升級
 
 <blockquote class="hightlight">
-  <b>如果你還沒註冊過 Setapp，歡迎使用 <a href="https://setapp.sjv.io/Y93Rkr">我的推薦連結</a> 註冊訂閱！</b>
+  <b>如果你還沒註冊過 Setapp，歡迎使用 <a href="https://setapp.sjv.io/c/5130946/1857409/5114">我的推薦連結</a> 註冊訂閱！</b>
 
   利益揭露: 你訂閱的話我會得到一些分潤，不過都以上是我真心推薦。其實我是先寫到這裡才想到應該插個 AP 連結、才去申請的 XD...
 </blockquote>
@@ -82,4 +82,4 @@ ChatGPT 訂閱費不便宜 (US$20/mo)
 
 總之，推薦有在付費 ChatGPT 但又只有輕～中度使用的人，可以考慮看看 Setapp (TypingMind + 免費 quota) 的組合，來節省點訂閱費。
 
-然後如果你還沒註冊過 Setapp，歡迎使用 <a href="https://setapp.sjv.io/Y93Rkr">我的推薦連結</a> 註冊訂閱。
+然後如果你還沒註冊過 Setapp，歡迎使用 <a href="https://setapp.sjv.io/c/5130946/1857409/5114">我的推薦連結</a> 註冊訂閱。
