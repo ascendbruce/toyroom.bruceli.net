@@ -46,6 +46,8 @@ ChatGPT 訂閱費不便宜 (US$20/mo)
 - TablePlus - 介面友善、功能也多的 DB GUI，單買要 $89 也只保證一年更新而已
 - Dash for macOS - 搜尋速度很快的開發文件搜尋，單買是 €15 但每幾年大改版就要付費升級
 
+> Setapp 宣布會在 2024-02-28 推出新的方案 "Setapp AI+"，同時普通方案能用的額度將會降低。不過如果你的用量不大的話，就搭配自己的 Open AI API 來用也是不貴的。
+
 <blockquote class="hightlight">
   <b>如果你還沒註冊過 Setapp，歡迎使用 <a href="https://setapp.sjv.io/c/5130946/1857409/5114">我的推薦連結</a> 註冊訂閱！</b>
 
