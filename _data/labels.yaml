@@ -73,9 +73,6 @@
 - name: 音樂
   namespace: "normal"
 
-- name: 換了新眼鏡
-  namespace: "normal"
-
 - name: Techbang
   namespace: "normal"
 
