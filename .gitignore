@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# To disable feed_generator locally (because it takes too long), download the code snippet from
+# https://github.com/jekyll/minima/issues/562 and save in following path:
+_plugins/feed_generator_override.rb
