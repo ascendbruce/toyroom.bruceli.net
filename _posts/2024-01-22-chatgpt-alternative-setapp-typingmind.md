@@ -1,6 +1,6 @@
 ---
 title: 如何節省 ChatGPT 訂閱費但達到類似體驗：改訂 Setapp
-excerpt: ChatGPT 訂閱費不便宜 (US$20/mo) 雖說 ChatGPT 有幫助，但以我的用量，總覺得沒有真的很 justify 它的訂閱費。總之呢，之前剛好看到 Ash Wu 分享：Setapp 訂閱其實有包含 OpenAI API 免費 quota，而且 quota 其實並不算少...
+excerpt: ChatGPT Plus 訂閱費不便宜 (US$20/mo) 雖說 ChatGPT 有幫助，但以我的用量，總覺得沒有真的很 justify 它的訂閱費。總之呢，之前剛好看到 Ash Wu 分享：Setapp 訂閱其實有包含 OpenAI API 免費 quota，而且 quota 其實並不算少...
 tags:
 - productivity
 - 好用工具
@@ -10,11 +10,11 @@ category:
 
 ## 前言
 
-ChatGPT 訂閱費不便宜 (US$20/mo)
+ChatGPT Plus 訂閱費不便宜 (US$20/mo)
 
 雖說 ChatGPT 有幫助，但以我的用量，總覺得沒有真的很 justify 它的訂閱費。
 
-而且其實幾個月前就有看到「現在 ChatGPT 訂閱不划算，OpenAI API 計價比較划算」的說法。
+而且其實幾個月前就有看到「現在 ChatGPT Plus 訂閱不划算，OpenAI ChatGPT API 計價比較划算」的說法。
 
 ## 替代方案
 
@@ -22,7 +22,7 @@ ChatGPT 訂閱費不便宜 (US$20/mo)
 
 > Setapp 簡單來說就是 mac 應用程式的吃到飽，付固定月費就可以用平台內的多種付費軟體。
 
-因為我有在訂 Setapp，所以就順手查一下，發現 Setapp 裡其中一個 app 叫做 TypingMind，就是一個聊天 UI，背後串接 OpenAI API，簡單來說就是第三方做的 ChatGPT client，操作方式跟 ChatGPT 大同小異，而且還有一些進階選項。
+因為我有在訂 Setapp，所以就順手查一下，發現 Setapp 裡其中一個 app 叫做 TypingMind，就是一個聊天 UI，背後串接 OpenAI ChatGPT API，簡單來說就是第三方做的 ChatGPT client，操作方式跟 ChatGPT 大同小異，而且還有一些進階選項。
 
 ![screenshot of TypingMind app](/images/posts/2024-01-22-chatgpt-alternative-setapp-typingmind.png)
 
@@ -46,7 +46,7 @@ ChatGPT 訂閱費不便宜 (US$20/mo)
 - TablePlus - 介面友善、功能也多的 DB GUI，單買要 $89 也只保證一年更新而已
 - Dash for macOS - 搜尋速度很快的開發文件搜尋，單買是 €15 但每幾年大改版就要付費升級
 
-> Setapp 宣布會在 2024-02-28 推出新的方案 "Setapp AI+"，同時普通方案能用的額度將會降低。不過如果你的用量不大的話，就搭配自己的 Open AI API 來用也是不貴的。
+> Setapp 在 2024-02-28 調整了費用方案，普通方案的免費額度降低了，並推出了 Setapp AI+ 方案。但我是反正就搭配自己的 Open AI API 來用了。
 
 <blockquote class="hightlight">
   <b>如果你還沒註冊過 Setapp，歡迎使用 <a href="https://setapp.sjv.io/c/5130946/1857409/5114">我的推薦連結</a> 註冊訂閱！</b>
