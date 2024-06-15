@@ -191,7 +191,7 @@ Smart Doll 是 60cm 的人偶，算是蠻大的，也因此細節可以做的非
 
 到 2016 的時候更狠，每週五晚上固定開牛排趴，有時候會招待公司裡比較要好的同事、有時候就跟室友邊聊邊吃，但總之週五晚上一定吃牛排，吃了一整年沒有中斷過！
 
-這樣下來，我煎牛排的次數絕對超過 100 片，其實也是蠻多的，我有把其中一個食譜寫出來： [在家煎 Striploin (New York Strip Steak 紐約客) 牛排的方法]({% link _posts/2016-04-03-cook-perfect-striploin-steak-at-home.html %})
+這樣下來，我煎牛排的次數絕對超過 100 片，其實也是蠻多的，我有把其中一個食譜寫出來： [在家煎 Striploin (New York Strip Steak 紐約客) 牛排的方法]({% link _posts/2016-04-03-cook-perfect-striploin-steak-at-home.md %})
 
 除了煎牛排，我還上了個關於屠夫用的刀具、以及如何從整條原肉切成牛排的線上課，還蠻有趣的，雖然所學幾乎沒有派上用場過。
 
