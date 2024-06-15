@@ -4,6 +4,7 @@ excerpt: iPhone 15 總算換成 USB Type-C 讓我很期待 —— 解鎖了一�
 category:
 - tw
 tags:
+- life
 - 發燒耳機音響
 - 敗家好物
 ---

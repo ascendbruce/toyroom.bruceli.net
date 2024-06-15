@@ -1,12 +1,12 @@
 ---
 title: 日本遊記 & lesson learned & 推薦 2019
 excerpt: 理由同去年，一樣是 LiSA 演唱會，FC 限定的第一次抽選就中了，再怎麼樣都得去。
+category:
+- tw
 tags:
 - life
 - 遊記
 - 日本遊記
-category:
-- tw
 ---
 
 理由同[去年](https://medium.com/@ascendbruce/japan-tokyo-trip-2018-lesson-learned-recommendation-df179b2a31ea)，一樣是 LiSA 演唱會，FC 限定的第一次抽選就中了，再怎麼樣都得去。

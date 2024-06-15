@@ -4,6 +4,7 @@ excerpt: 如果 Roon ARC 設定不起來，遇到類似下面的畫面：... 解
 category:
 - tw
 tags:
+- life
 - 發燒耳機音響
 ---
 

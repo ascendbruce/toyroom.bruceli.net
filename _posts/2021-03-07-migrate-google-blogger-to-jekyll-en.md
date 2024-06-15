@@ -6,6 +6,7 @@ excerpt: For time-saving and better control reasons, I decided to merge few othe
 category:
 - en
 tags:
+- life
 - 站務公告
 ---
 

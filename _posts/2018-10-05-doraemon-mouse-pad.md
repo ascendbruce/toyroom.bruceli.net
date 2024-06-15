@@ -3,12 +3,15 @@ layout: post
 title: 哆啦A夢放上任何東西都無違和感、彷彿有音效的滑鼠墊 這裡買得到
 date: '2018-10-05T23:06:00.000+08:00'
 excerpt: "你可能是看了以下文章： 哆啦A夢幫你拿道具超威滑鼠墊彷彿有音效 放上任何東西都無違和感的滑鼠墊 twitter @sam66 但是翻了記錄卻找不到哪裡可以買，於是 google 搜尋找到這篇嗎？ 答案是..."
+category:
+- tw
 tags:
+- life
+- 敗家好物
 modified_time: '2018-10-05T23:06:12.454+08:00'
 thumbnail: https://3.bp.blogspot.com/-ZTKh2sczoxQ/W7d8zcUcSkI/AAAAAAAAD8U/-AHVnsfmVkINgHj6YsCMDCkQGrR5PASaQCLcBGAs/s72-c/40118813_2444544072224228_7635953988268982272_o.jpg
 blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-1627890350228890406
 blogger_orig_url: https://blog.bruceli.net/2018/10/doraemon-mouse-pad.html
-category: [tw]
 redirect_from:
   - /2018/10/doraemon-mouse-pad.html
 ---

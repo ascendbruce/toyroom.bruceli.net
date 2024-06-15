@@ -3,6 +3,8 @@ title: GitHub pages not rendering HTML in markdown (eg. "a" tags)
 excerpt: Apparently GitHub pages did a change on 2022-03-04. Now you need to pass UNSAFE option to jekyll-commonmark-ghpages via commonmark options in order to make it work.
 category:
 - en
+tags:
+- dev
 ---
 
 <a href="{% link _posts/2022-04-03-github-pages-not-rendering-html-in-markdown.md %}" title="GitHub pages not rendering HTML in markdown (eg. a tags)" class="lang-btn lang-current">EN</a>

@@ -3,6 +3,8 @@ title: GitHub pages 無法 render HTML 了（例如超連結 a 標籤）
 excerpt: GitHub 在 2022-03-04 改了點東西，導致現在必須加入 UNSAFE option 到 commonmark （並傳給 jekyll-commonmark-ghpages）才能 render HTML。
 category:
 - tw
+tags:
+- dev
 ---
 
 <a href="{% link _posts/2022-04-03-github-pages-not-rendering-html-in-markdown.md %}" title="GitHub pages not rendering HTML in markdown (eg. a tags)" class="lang-btn">EN</a>

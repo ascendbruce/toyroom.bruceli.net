@@ -1,12 +1,12 @@
 ---
 title: 日本遊記 & lesson learned & 推薦 2018
 excerpt: 接續去年的遊記，想說今年也來做一樣的事情好了。怎麼又衝日本。LiSA 又開唱啦，這次在日本武道館，一樣有國外 FC 保留票。
+category:
+- tw
 tags:
 - life
 - 遊記
 - 日本遊記
-category:
-- tw
 ---
 
 接續 [去年的遊記]({% link _posts/2017-07-15-japan-trip.md %}) ，想說今年也來做一樣的事情好了

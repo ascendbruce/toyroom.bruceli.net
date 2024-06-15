@@ -1,11 +1,12 @@
 ---
 title: Sony Just Ear XJE-MH/L1SA (LiSA 調音款)簡易開箱
 excerpt: 先前去日本 LiSA 演唱會行程剛好遇到 Just Ear XJE-MH/L1SA 在 2019 四月底的週末、中野春季耳機展上開始接受預訂與現場取耳模。因為一切如此的剛好，所以就速速試聽&下單了。有多速呢？全球第二個下單的程度。
+category:
+- tw
 tags:
 - life
 - 發燒耳機音響
-category:
-- tw
+- 敗家好物
 ---
 
 ## 前情提要

@@ -1,11 +1,11 @@
 ---
 title: 如何節省 ChatGPT 訂閱費但達到類似體驗：改訂 Setapp
 excerpt: ChatGPT Plus 訂閱費不便宜 (US$20/mo) 雖說 ChatGPT 有幫助，但以我的用量，總覺得沒有真的很 justify 它的訂閱費。總之呢，之前剛好看到 Ash Wu 分享：Setapp 訂閱其實有包含 OpenAI API 免費 quota，而且 quota 其實並不算少...
+category:
+- tw
 tags:
 - productivity
 - 好用工具
-category:
-- tw
 ---
 
 ## 前言

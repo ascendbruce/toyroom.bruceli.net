@@ -1,10 +1,10 @@
 ---
 title: 菜瓜布有夠髒，抗菌對策：菜瓜布剪對半，每個月更換
 excerpt: 菜瓜布有夠髒，抗菌對策：菜瓜布剪對半，每個月更換
-tags:
-- productivity
 category:
 - tw
+tags:
+- productivity
 ---
 
 ![](/images/posts/2018-05-05-dirty-sponge-1_w6Iu3WXQTiUKci0z_gsp4A.jpg)

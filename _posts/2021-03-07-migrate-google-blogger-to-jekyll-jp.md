@@ -4,6 +4,7 @@ excerpt: BloggerをJekyllに移行したときに学んだこと。...
 category:
 - jp
 tags:
+- life
 - 站務公告
 ---
 
