@@ -2,18 +2,18 @@
 layout: post
 title: 在家煎 Striploin (New York Strip Steak 紐約客) 牛排的方法
 date: '2016-04-03T14:20:00.000+08:00'
+category:
+- tw
 tags:
 - life
 - 食記
 modified_time: '2019-02-24T11:25:11.907+08:00'
-thumbnail: https://2.bp.blogspot.com/-LNg8lsQ7SuY/VwCpLbimfDI/AAAAAAAACgk/JVqESDVe-74bmNaAbaLNDlcH5LYih0-Cw/s72-c/2015-11-21%2B19.59.07%2Bcopy.jpg
+thumbnail: https://www.bruceli.net/images/posts/2016-04-03-steak-copy.jpg
 blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-3082104571371522013
 blogger_orig_url: https://blog.bruceli.net/2016/04/cook-perfect-striploin-steak-at-home.html
-category: [tw]
 redirect_from:
  - /2016/04/cook-perfect-striploin-steak-at-home.html
 ---
-
 
 ![](/images/posts/2016-04-03-steak-copy.jpg)
 <span>少數拍下來的成品照，大部分時候都還沒想到要拍照就吃光了</span>

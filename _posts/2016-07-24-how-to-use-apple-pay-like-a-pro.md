@@ -8,7 +8,7 @@ tags:
 - productivity
 date: '2016-07-24T20:13:00.001+08:00'
 modified_time: '2016-07-24T20:14:43.920+08:00'
-thumbnail: https://1.bp.blogspot.com/-Y7jUSyqJPbU/V5JBpW6SPqI/AAAAAAAADR8/YRCYAmZtFQAWGk1Ofyr76QBQEii0Um-IgCLcB/s72-c/IMG_0141.jpg
+thumbnail: https://www.bruceli.net/images/posts/2016-07-24-IMG_0141.jpg
 blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-3802785388508276414
 blogger_orig_url: https://blog.bruceli.net/2016/07/how-to-use-apple-pay-like-a-pro.html
 redirect_from:
