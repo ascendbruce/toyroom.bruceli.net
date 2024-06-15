@@ -106,3 +106,15 @@ img {
   padding: 9px;
   border-radius: 4px;
 }
+
+p img + span {
+  display: block;
+  text-align: center;
+  color: #aaa;
+}
+
+p a + span {
+  display: block;
+  text-align: center;
+  color: #aaa;
+}

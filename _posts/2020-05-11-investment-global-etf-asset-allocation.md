@@ -10,8 +10,7 @@ tags:
 個人理財，全球指數化 ETF 投資股市、債市懶人包
 
 ![](/images/posts/2020-05-11-investment-1_A8hkb4uvUOzpa7U10JsMdA.jpg)
-
-> (Photo CC-BY by [CreditScoreGeek.com](https://creditscoregeek.com/))
+<span>(Photo CC-BY by [CreditScoreGeek.com](https://creditscoregeek.com/))</span>
 
 本篇是我做功課、讀書、上課後，2018 年在私人群組分享的心得，並在 2020 年加以整理後分享出來的懶人包，但投資並不是簡單的事，我只是分享我的作法，不代表這是最好或一定會賺錢的方法。投資有賺有賠，請依照自身能力與偏好進行，本人不負任何漲跌、損益的責任。篇幅有限，內容肯定有所遺漏，建議要進行投資的人除了本篇文章以外，也要多方閱讀、上課。
 
