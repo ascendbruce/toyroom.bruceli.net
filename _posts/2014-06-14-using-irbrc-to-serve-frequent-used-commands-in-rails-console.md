@@ -5,7 +5,8 @@ published: true
 date: 2014-06-14 04:15
 tags:
 - rails
-category: [tw]
+category:
+- tw
 comments: true
 image: /images/posts/007-use-irbrc-to-save-time-with-rails-console.png?v=1
 excerpt: 開發的時候常需要在 rails console 下尋找一個 user 來做某些實驗，通常是用自己的帳號，因此就會每天都在敲 user = User.find_by_email(自己的 email)，很浪費時間，用這個技巧就可以改善此類問題。

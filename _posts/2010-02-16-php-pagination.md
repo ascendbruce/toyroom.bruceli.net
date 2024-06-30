@@ -4,7 +4,8 @@ title: php分頁功能
 published: true
 date: 2010-02-16 19:27
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2010/02/php.html

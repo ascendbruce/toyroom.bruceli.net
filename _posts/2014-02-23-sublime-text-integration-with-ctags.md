@@ -6,7 +6,8 @@ date: 2014-02-23 08:09
 tags:
 - dev
 - Sublime
-category: [tw]
+category:
+- tw
 comments: true
 image: https://www.bruceli.net/images/posts/2014-02-23-ctags-jump.gif
 ---

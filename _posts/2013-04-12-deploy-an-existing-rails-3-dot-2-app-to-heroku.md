@@ -4,7 +4,8 @@ published: true
 date: 2013-04-12 23:33
 tags:
 - rails
-category: [en]
+category:
+- en
 comments: true
 
 ---

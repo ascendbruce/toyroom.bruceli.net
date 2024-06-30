@@ -3,7 +3,8 @@ title: Ruby Multi-threading simple tutorial
 published: true
 date: 2010-07-10 19:01
 tags: []
-category: [en]
+category:
+- en
 comments: true
 redirect_from:
   - /2010/07/ruby-multi-threading-simple-tutorial.html

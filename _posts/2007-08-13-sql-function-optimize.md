@@ -3,10 +3,11 @@ layout: post
 title: sql function最佳效能寫法
 published: true
 date: 2007-08-13 00:55
-tags: []
-category: [tw]
+category:
+- tw
+tags:
+- dev
 comments: true
-category: [tw]
 redirect_from:
   - /2007/08/sql-function.html
 ---

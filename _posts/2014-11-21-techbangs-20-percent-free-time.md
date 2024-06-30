@@ -5,7 +5,8 @@ published: true
 date: 2014-11-21 05:43
 tags:
 - Techbang
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

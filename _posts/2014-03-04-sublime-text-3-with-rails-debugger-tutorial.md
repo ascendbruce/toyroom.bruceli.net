@@ -7,7 +7,8 @@ tags:
 - dev
 - rails
 - Sublime
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

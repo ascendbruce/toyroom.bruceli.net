@@ -4,7 +4,8 @@ title: CentOS/Fedora 重開機後維持iptables設定值的作法
 published: true
 date: 2011-10-19 18:50
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/10/centosfedora-iptables.html

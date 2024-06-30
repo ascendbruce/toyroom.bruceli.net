@@ -7,7 +7,8 @@ tags:
 - dev
 - ruby
 - rails
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

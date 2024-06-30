@@ -3,7 +3,8 @@ title: Facebook like button code snippet for Google Blogger (iframe, 3 different
 published: true
 date: 2012-07-04 10:00
 tags: []
-category: [en]
+category:
+- en
 comments: true
 redirect_from:
   - /2012/07/facebook-like-button-code-snippet-for.html

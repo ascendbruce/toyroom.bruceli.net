@@ -4,7 +4,8 @@ title: ubuntu 11.4 server純文字下安裝rails環境範例（含rvm,編譯mysq
 published: true
 date: 2011-08-18 17:45
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/08/ubuntu-114-serverrailsrvmmysql.html

@@ -2,12 +2,14 @@
 layout: post
 title: 如何學會壺鈴運動 & Formosa Fitness 健身房心得
 date: '2015-07-07T19:56:00.005+08:00'
+category:
+- tw
 tags:
+- life
 modified_time: '2017-10-29T19:53:20.396+08:00'
 thumbnail: https://1.bp.blogspot.com/-cRw0XM0tCSc/VZlMw6wuk5I/AAAAAAAACO8/R3TGHSktMAA/s72-c/2015-05-26%2B16.19.07.jpg
 blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-2364347247686211508
 blogger_orig_url: https://blog.bruceli.net/2015/07/how-to-learn-ketteble-formosa-fitness-gym-review.html
-category: [tw]
 image: /images/posts/012-kettlebells.jpeg
 excerpt: 如果你想入門健身、尤其是壺鈴這個項目，這裡是我的經驗跟建議。
 redirect_from:

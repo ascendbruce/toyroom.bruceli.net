@@ -3,8 +3,11 @@ layout: post
 title: an acts_as_versioned error/bug with Rails 2.1 -在rails 2.1用acts_as_versioned插件奇怪的錯誤
 published: true
 date: 2008-10-21 03:34
-tags: []
-category: [tw]
+category:
+- tw
+tags:
+- dev
+- rails
 comments: true
 redirect_from:
   - /2008/10/actsasversioned-errorbug-with-rails-21.html

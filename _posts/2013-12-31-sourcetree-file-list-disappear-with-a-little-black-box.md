@@ -5,7 +5,8 @@ published: true
 date: 2013-12-31 05:37
 tags:
 - mac
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

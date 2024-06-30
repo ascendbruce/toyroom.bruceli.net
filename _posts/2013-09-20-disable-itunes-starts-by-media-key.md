@@ -4,7 +4,8 @@ title: Mac多媒體快速鍵老是開啟iTunes，如何幹掉這個惱人的功�
 published: true
 date: 2013-09-20 03:18
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 ---
 

@@ -5,7 +5,8 @@ published: true
 date: 2014-06-24 07:25
 tags:
 - rails
-category: [tw]
+category:
+- tw
 comments: true
 excerpt: 因為我手上有幾個肥大的 projects，啟動時間可以到達 60 秒以上，而 pow 預設每 15 分鐘就會 kill 掉 idle 的 app，於是動不動就要等 60 秒啟動，很浪費時間。如果你只是苦於每一段時間就要等啟動很久，這個方案是最簡單的方法：延長 timeout。
 ---

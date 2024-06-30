@@ -3,7 +3,8 @@ title: kates's ruby plurk lib 'add_all_as_friends' method doesn't work?
 published: true
 date: 2010-08-06 16:09
 tags: []
-category: [en]
+category:
+- en
 comments: true
 redirect_from:
   - /2010/08/kates-ruby-plurk-lib-method-doesn-work.html

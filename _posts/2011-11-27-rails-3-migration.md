@@ -5,7 +5,8 @@ published: true
 date: 2011-11-27 22:44
 tags:
 - rails
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
 - /2011/11/rails-3-migration.html

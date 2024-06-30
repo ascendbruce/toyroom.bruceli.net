@@ -4,7 +4,8 @@ title: 如何讓rails在production mode下直接在網頁顯示錯誤訊息?（�
 published: true
 date: 2011-12-13 14:54
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/12/railsproduction-modedevelopment-mode.html

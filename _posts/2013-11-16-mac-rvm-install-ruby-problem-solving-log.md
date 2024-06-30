@@ -7,7 +7,8 @@ tags:
 - dev
 - ruby
 - mac
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

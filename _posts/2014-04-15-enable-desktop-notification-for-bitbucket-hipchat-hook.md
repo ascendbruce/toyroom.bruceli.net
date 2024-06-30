@@ -3,7 +3,8 @@ title: Enable desktop notification for BitBucket HipChat hook
 published: true
 date: 2014-04-15 13:42
 tags: []
-category: [en]
+category:
+- en
 comments: true
 
 ---

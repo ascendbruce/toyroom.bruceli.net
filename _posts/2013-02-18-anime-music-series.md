@@ -7,7 +7,8 @@ tags:
 modified_time: '2013-04-13T21:27:36.718+08:00'
 blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-2930159028041040718
 blogger_orig_url: https://blog.bruceli.net/2013/02/anime-music-series.html
-category: [tw]
+category:
+- tw
 redirect_from:
   - /2013/02/anime-music-series.html
 ---

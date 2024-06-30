@@ -4,7 +4,8 @@ title: 在CentOS以及Ubuntu上新增sudoers
 published: true
 date: 2011-10-04 08:00
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/10/centosubuntusudoers.html

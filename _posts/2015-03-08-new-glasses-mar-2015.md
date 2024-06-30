@@ -9,7 +9,8 @@ modified_time: '2015-03-08T12:18:15.053+08:00'
 thumbnail: http://3.bp.blogspot.com/--RAfrzXiZXM/VPvJTwPOpMI/AAAAAAAACBI/XuzPmzbrf-A/s72-c/glasses2015.jpg
 blogger_id: tag:blogger.com,1999:blog-2109693232346004651.post-6721405227736173055
 blogger_orig_url: https://blog.bruceli.net/2015/03/new-glasses-mar-2015.html
-category: [tw]
+category:
+- tw
 redirect_from:
   - /2015/03/new-glasses-mar-2015.html
 ---

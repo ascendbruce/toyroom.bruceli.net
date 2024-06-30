@@ -4,7 +4,8 @@ title: '[已解決] mac的yahoo輸入法要如何打出全型空白'
 published: true
 date: 2012-04-01 21:51
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2012/04/mac-yahoo-input-how-to-full-size-space.html

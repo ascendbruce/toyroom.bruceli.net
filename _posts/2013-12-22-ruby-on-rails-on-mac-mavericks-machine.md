@@ -5,7 +5,8 @@ published: true
 date: 2013-12-22 12:45
 tags:
 - rails
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

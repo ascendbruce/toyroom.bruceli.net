@@ -6,7 +6,8 @@ tags:
 - dev
 - ruby
 - rails
-category: [en]
+category:
+- en
 comments: true
 
 ---

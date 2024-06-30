@@ -4,7 +4,8 @@ title: '[已解決] Rails如何取得修改前attribute原本的值？'
 published: true
 date: 2011-10-14 08:00
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/10/railsattribute.html

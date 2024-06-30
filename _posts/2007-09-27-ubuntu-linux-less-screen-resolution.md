@@ -3,8 +3,10 @@ layout: post
 title: ubuntu linux提供的螢幕解析度選項太少…怎麼會這樣
 published: true
 date: 2007-09-27 18:43
-tags: []
-category: [tw]
+category:
+- tw
+tags:
+- dev
 comments: true
 redirect_from:
   - /2007/09/ubuntu-linux.html

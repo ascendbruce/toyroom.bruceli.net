@@ -3,8 +3,10 @@ layout: post
 title: 用PHP算出兩日期差幾日 (倒數計日)
 published: true
 date: 2007-09-27 18:33
-tags: []
-category: [tw]
+category:
+- tw
+tags:
+- dev
 comments: true
 redirect_from:
   - /2007/09/php.html

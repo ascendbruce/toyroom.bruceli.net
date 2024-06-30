@@ -1,8 +1,11 @@
 ---
 title: "產生短但保證不重複的亂數 token in Rails x ActiveRecord x PostgreSQL"
 date: 2015-09-07 9:00
-category: [tw]
-tags: []
+category:
+- tw
+tags:
+- dev
+- rails
 image: /images/posts/008-binary-binary-codes.jpg
 excerpt: 為每個 Records 產生不重複亂數 token 是很常見的需求，一個常見的解法是使用 UUID，原則上就可確保不重複。但有時候會有「既要短、又要保證不重複」的需求，例如訂單編號（不希望外人可以透過自動遞增的 id 得知訂單量、但又要能透過電話唸給客服）。
 ---

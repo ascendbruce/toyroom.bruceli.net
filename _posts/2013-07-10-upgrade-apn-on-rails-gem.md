@@ -4,7 +4,8 @@ title: 更新 natescherer:apn_on_rails 換到新版 PRX:apn_on_rails 筆記
 published: true
 date: 2013-07-10 19:17
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2013/07/upgrade-apn-on-rails-gem.html

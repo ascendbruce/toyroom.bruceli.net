@@ -4,7 +4,8 @@ title: MacBook with Mac OS X 10.7 Lion 的軌跡板觸控手勢 這幾個你知�
 published: true
 date: 2011-09-13 02:59
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/09/macbook-with-mac-os-x-107-lion.html

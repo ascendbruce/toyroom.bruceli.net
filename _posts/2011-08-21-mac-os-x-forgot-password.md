@@ -4,7 +4,8 @@ title: Mac OS X 10.7 Lion 忘記密碼/密碼明明正確卻無法登入怎麼�
 published: true
 date: 2011-08-21 12:13
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2011/08/mac-os-x-107-lion.html

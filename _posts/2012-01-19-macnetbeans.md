@@ -4,7 +4,8 @@ title: Mac下NetBeans打中文怪怪的，要如何輸入中文？ (已解決)
 published: true
 date: 2012-01-19 20:18
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2012/01/macnetbeans.html

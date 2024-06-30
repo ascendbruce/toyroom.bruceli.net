@@ -4,7 +4,8 @@ title: 寫給新手的 升級 Rails 3.0.x 到 Rails 3.2.x 教學與基本觀念
 published: true
 date: 2013-11-09 13:56
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

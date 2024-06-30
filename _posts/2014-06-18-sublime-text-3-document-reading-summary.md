@@ -6,7 +6,8 @@ date: 2014-06-18 02:15
 tags:
 - dev
 - Sublime
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

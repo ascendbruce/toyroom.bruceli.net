@@ -3,7 +3,8 @@ title: 'Git: How to rename a file or folder into different case (case-sensitive)
 published: true
 date: 2012-12-01 15:22
 tags:
-category: [en]
+category:
+- en
 comments: true
 ---
 

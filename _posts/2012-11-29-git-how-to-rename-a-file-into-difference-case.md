@@ -4,7 +4,8 @@ title: 如何修改git檔名大小寫
 published: true
 date: 2012-11-29 18:15
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2012/11/git-how-to-rename-file-to-differ-case.html

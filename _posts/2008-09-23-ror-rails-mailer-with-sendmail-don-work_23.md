@@ -4,8 +4,10 @@ title: ror rails mailer with sendmail don't work? 不會寄信 寄不出去？ m
   Authentication mailer
 published: true
 date: 2008-09-23 06:15
-tags: []
-category: [tw]
+category:
+- tw
+tags:
+- dev
 comments: true
 redirect_from:
   - /2008/09/ror-rails-mailer-with-sendmail-don-work.html

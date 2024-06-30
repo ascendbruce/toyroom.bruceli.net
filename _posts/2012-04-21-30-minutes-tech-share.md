@@ -4,7 +4,8 @@ title: 30分鐘技術分享會投影片（4/9~4/19）
 published: true
 date: 2012-04-21 11:00
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2012/04/3049419.html

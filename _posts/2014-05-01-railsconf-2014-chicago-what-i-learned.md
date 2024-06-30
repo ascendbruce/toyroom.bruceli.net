@@ -4,7 +4,8 @@ title: RailsConf 2014 行 - 學習的部份
 published: true
 date: 2014-05-01 04:00
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

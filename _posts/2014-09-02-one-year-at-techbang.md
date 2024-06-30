@@ -6,7 +6,8 @@ date: 2014-09-02 14:26
 tags:
 - career
 - Techbang
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

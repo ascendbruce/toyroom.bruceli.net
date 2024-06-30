@@ -7,7 +7,8 @@ tags:
 - rails
 - career
 - Techbang
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

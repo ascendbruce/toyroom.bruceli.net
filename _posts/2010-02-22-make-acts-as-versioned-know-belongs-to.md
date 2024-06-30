@@ -4,7 +4,8 @@ title: 讓 acts_as_versioned 能處理目標 model 的 belongs_to 關連
 published: true
 date: 2010-02-22 20:56
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 
 ---

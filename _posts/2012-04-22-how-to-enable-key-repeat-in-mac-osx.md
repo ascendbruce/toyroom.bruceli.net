@@ -4,7 +4,8 @@ title: Mac 10.7 以後如何恢復長按鍵盤重複輸入
 published: true
 date: 2012-04-22 10:00
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 redirect_from:
   - /2012/04/how-to-enable-key-repeat-in-mac-osx-107.html

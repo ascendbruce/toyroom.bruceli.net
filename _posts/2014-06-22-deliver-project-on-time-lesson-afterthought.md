@@ -4,7 +4,8 @@ title: 「Deliver Project on Time 敏捷專案管理實務」上課心得
 published: true
 date: 2014-06-22 09:24
 tags: []
-category: [tw]
+category:
+- tw
 comments: true
 
 ---
