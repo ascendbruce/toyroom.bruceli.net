@@ -27,7 +27,7 @@ permalink: "/tw/audiophile/"
 * **Philips X2HR** - 傳奇跳水王，推出時 1 萬的價位，後來 3 千多就買得到，很超值
 * ⭐️ **audio-technica ADX5000** - 鐵三角真香，登上鐵三角當代的頂點了
 * ⭐️ **Grado RS1e** - Grado 家相當經典的一隻耳機
-* ⭐️ **Sony MDR-CD900ST** - 很常出現在日本歌手 MV 裡的耳機，是眾多錄音室的標配
+* ⭐️ **Sony MDR-CD900ST** - 很常出現在日本歌手 MV 裡的耳機，是日本眾多錄音室的標配
 * ⭐️ **beyerdynamic DT770 PRO X Limited Edition** - 地球動圈出拜耳，beyerdynamic 100 週年紀念款
 
 **耳罩式 (無線)**
@@ -79,3 +79,13 @@ permalink: "/tw/audiophile/"
 * ⭐️ **Apple HomePod 二代** - 反正頸掛式喇叭都列入了，這個總可以列入吧。就是搭配 Apple TV 日常用
 * ⭐️ **Rogers LS3/5a** - 傳奇經典喇叭，我收到的是 11 ohm single-wire 版本，根據 [ls35a.org 整理的圖表](https://ls35a.org/graphical-timeline/)，大概是在 1988-1991 生產的
 * ⭐️ **audio-technica AT-SP105** - USB 供電+訊號的主動式喇叭，一條線搞定、非常方便，音質以這個價位、體積跟形式來說夠好了，要是當初有這個產品的話我大概就不會買 Edifier U29, R1280DB 跟 Creative Pepple 了
+
+DAC 或擴大機族譜：
+
+* **FOSTEX PC100USB**
+* **TEAC HA-P50SE**
+* **AudioQuest DragonFly Cobalt (藍蜻蜓)**
+* **TEAC UD-505-X**
+* ⭐️ **TEAC UD-701N**
+* ⭐️ **ifi GO bar Kensei**
+* ⭐️ **NAD C388**
