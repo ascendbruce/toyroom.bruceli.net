@@ -1,5 +1,5 @@
 ---
-title: Audiophile
+title: 我的耳機音響族譜
 layout: default
 permalink: "/tw/audiophile/"
 ---
