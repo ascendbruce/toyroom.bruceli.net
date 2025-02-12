@@ -8,6 +8,8 @@ tags:
 - 好用工具
 ---
 
+> 2025-02-12 update: 事情有許多變化（尤其是目前 AI 產品變化極快），我為了使用 o1 以及 deep research 因此又訂閱 ChatGPT 了，而且 Setapp 也通知即將下架 TypingMind mac 版。
+
 ## 前言
 
 ChatGPT Plus 訂閱費不便宜 (US$20/mo)
