@@ -24,20 +24,21 @@ permalink: "/tw/audiophile/"
 * **audio-technica ATH-T300** - 接收朋友退役的耳機，一試覺得女毒真棒，也導致後來入手 M50x
 * ⭐️ **audio-technica ATH-M50x** - 鐵三角意外打中歐美市場的作品，其實也比較合我胃口，更女毒的 MSR7 其實我也有試聽過，但沒有適當的耳擴配合的話齒音會太重所以暫不打算收
 * ⭐️ **Grado SR60e** - 高 CP 的入門耳機，當初買 D310 的時候其實也有跟這隻比，因為想要低音多一點所以選了 D310，但一直還是想收，最後是做為生日禮物收到的
-* **Philips X2HR** - 傳奇跳水王，推出時 1 萬的價位，後來 3 千多就買得到，很超值
+* **Philips X2HR** - 傳奇跳水王，推出時 1 萬的價位，後來 3 千多就買得到，很超值。音質不錯，但調音沒有很中我的口味，所以很少用
 * ⭐️ **audio-technica ADX5000** - 鐵三角真香，登上鐵三角當代（非限量版）的頂點了
-* ⭐️ **Grado RS1e** - Grado 家相當經典的一隻耳機
-* ⭐️ **Sony MDR-CD900ST** - 很常出現在日本歌手 MV 裡的耳機，是日本眾多錄音室的標配
+* ⭐️ **Grado RS1e** - Grado 家相當經典的一隻耳機，沒有買到更前面的世代有點可惜
+* ⭐️ **Sony MDR-CD900ST** - 很常出現在日本歌手 MV 裡、或 THE F1RST TAKE 影片裡的耳機，是日本眾多錄音室的標配
 * ⭐️ **beyerdynamic DT770 PRO X Limited Edition** - 地球動圈出拜耳，beyerdynamic 100 週年紀念款
 * ⭐️ **Audeze LCD-5** - 我的夢想超旗艦，理論上是我的 end-game，但我是不會說「再買就剁手」的 🤪
 
 **耳罩式 (無線)**
 
 * **Bose QC25** - 工作用抗噪耳機，最後意外碰到水掛了
-* **B&W PX7** - 以藍芽耳機來說音質相當不錯，這代還有 3.5 耳機孔所以可以透過 DAC 搭配來提升音質，PX7 S2 以及更高階的 PX8 就沒有 3.5 孔了
+* **B&W PX7** - 以藍芽耳機來說音質相當不錯，但很夾耳，後來很少用，就賣掉了
 * ⭐️ **Sony WH-1000XM4** - 因為 QC25 掛了所以再買的工作用抗噪耳機
-* ⭐️ **Apple AirPods Max** - 無誠意改版推出後，用將近半價買到的初代整新品，總之就是蠻划算的，搭配 Apple TV 看電影效果非常好
+* ⭐️ **Apple AirPods Max** - 無誠意改版 (USB-C 跟新顏色) 推出後，用將近半價買到的初代整新品，總之就是蠻划算的，搭配 Apple TV 看電影效果還不錯
 * ⭐️ **Razer Blackshark V2 Pro 2023** - 麥克風品質相當好，配戴也很舒適，感覺非常適合長時間視訊會議用，所以入手一個福利品
+* ⭐️ **B&W PX7 S3** - 雖然之前脫手 PX7、PI7 S2，但久了又開始覺得癢，外出用偶爾還是想要聽比 AirPods Pro 更好的，所以就趁著 S3 上市的時候回鍋
 
 **耳道式 (有線)**
 
@@ -51,8 +52,9 @@ permalink: "/tw/audiophile/"
 * ⭐️ **Sony Just Ear XJE-MH/L1SA** - LiSA 聯名 CIEM，信仰無價
 * ⭐️ **IKKO OH10S** - 女毒銘機收藏
 * ⭐️ **Campfire Audio Andromeda-Emerald Sea** - 女毒銘機收藏
-* ⭐️ **FitEar TG334** - 女毒銘機收藏
+* ⭐️ **FitEar TG334** - 女毒銘機收藏，不過跟我的耳型很不合，也許之後考慮做一條 MH334 SR CIEM 吧
 * ⭐️ **SENNHEISER IE600** - 因為還是會懷念 SENNHEISER 的聲音所以入手了
+* ⭐️ **CrinEar Project Meta** - 耳機評論家 Crinacle 創立的自有品牌的第一個產品、而且限量 999 個，抱著想支持、以及覺得就算二手也絕對賣得掉，就先搶一條了
 
 **耳道式 (無線)**
 
@@ -60,7 +62,7 @@ permalink: "/tw/audiophile/"
 * **Anker Soundcore Wireless** - 也是健身房用，當時 AirPods 1 代已經推出了，但是沒有抗噪、藍芽規格也不夠新，所以找了當時還很少見的藍芽 5.0 耳機
 * **Apple AirPods Pro** - 等到有一定程度防水 & 有抗噪才終於願意入手的 AirPods
 * ⭐️ **Apple AirPods Pro 2** - 想說也是幾乎天天用 AirPods Pro（通勤的時候）、就脫手 1 代升級，調音跟通透模式有進化
-* **B&W PI7 S2** - 捷運通勤可能是我最常聽有空聽音樂的時候，這種時候卻只能用 AirPods Pro 也太可惜，所以為了音質，買了 B&W 的真無線耳機，小小的耳機但聲音確實很爽。但是這種真無線就是消耗品，在保固內發生故障，加上非 Apple 生態系連線很不靈，一氣之下就賣掉了。
+* **B&W PI7 S2** - 捷運通勤可能是我最常聽有空聽音樂的時候，這種時候卻只能用 AirPods Pro 也太可惜，所以為了音質，買了 B&W 的真無線耳機，小小的耳機但聲音確實很爽。但是這種真無線就是消耗品，在保固內發生故障，加上非 Apple 生態系連線很不靈，一氣之下就賣掉了
 
 ## 音響
 
@@ -81,6 +83,7 @@ permalink: "/tw/audiophile/"
 * ⭐️ **Apple HomePod 二代** - 反正頸掛式喇叭都列入了，這個總可以列入吧。就是搭配 Apple TV 日常用
 * ⭐️ **Rogers LS3/5a** - 傳奇經典喇叭，我收到的是 11 ohm single-wire 版本，根據 [ls35a.org 整理的圖表](https://ls35a.org/graphical-timeline/)，大概是在 1988-1991 生產的
 * ⭐️ **audio-technica AT-SP105** - USB 供電+訊號的主動式喇叭，一條線搞定、非常方便，音質以這個價位、體積跟形式來說夠好了，要是當初有這個產品的話我大概就不會買 Edifier U29, R1280DB 跟 Creative Pepple 了
+* ⭐️ **B&W 805 D4** - 完成「入手 B&W 800 系列」的夢想，因為熟識的店家剛好有品項不錯的二手，想說二手價蠻保值的，再賣掉也不虧，就趁機圓夢一下了
 
 DAC 或擴大機族譜：
 
