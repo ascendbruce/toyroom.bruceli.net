@@ -11,8 +11,14 @@ Make sure:
 Then
 
 ```bash
-jekyll server --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
+# Normal server
 jekyll server --drafts --config _config.yml,_config-dev.yml -P 4001
+
+# Livereload
+jekyll server --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
+
+# Rebuild all and start Livereload
+jekyll build --drafts --config _config.yml,_config-dev.yml; jekyll server --livereload --drafts --config _config.yml,_config-dev.yml -P 4001 --incremental
 ```
 
 other usful commands
