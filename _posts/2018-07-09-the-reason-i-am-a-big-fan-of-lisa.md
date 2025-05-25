@@ -7,6 +7,9 @@ tags:
 - life
 ---
 
+<a href="{% link _posts/2018-07-09-the-reason-i-am-a-big-fan-of-lisa.md %}" title="我喜歡 LiSA 的理由" class="lang-btn lang-current">TW</a>
+<a href="{% link _posts/2018-07-09-the-reason-i-am-a-big-fan-of-lisa-jp.md %}" title="私がLiSAを好きな理由" class="lang-btn">JP</a>
+
 ![live concert](/images/posts/2018-07-09-saitama-arena.jpg)
 
 > 照片是 2017 年埼玉超級競技場演唱會結束後允許拍的

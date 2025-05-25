@@ -7,6 +7,9 @@ tags:
 - life
 ---
 
+<a href="{% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado.md %}" title="我喜歡 Ado 的理由" class="lang-btn lang-current">TW</a>
+<a href="{% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado-jp.md %}" title="私がAdoを好きな理由" class="lang-btn">JP</a>
+
 ## 前情提要
 
 我很喜歡日本歌手 LiSA。
@@ -46,8 +49,6 @@ tags:
 ### 2025 Hibana
 
 然後 [我還搶到 Hibana 世界巡迴台北站的票](https://x.com/BruceToyRoom/status/1858696653072723993)！
-
-![hibena](/images/posts/2025-05-25-ado-hibana.jpeg)
 
 Hibana 演唱會表演非常棒，[我有寫下一些心得](https://x.com/BruceToyRoom/status/1921595405038432599)。
 
