@@ -66,4 +66,4 @@ https://www.facebook.com/ascendbruce/posts/1381048278573818
 
 - 2018 更新：[後來在 2018 新加坡場抽到 meet & greet，拿這張照片給 LiSA 本人看，得到了「すごい」的評論](https://www.facebook.com/ascendbruce/posts/2363538490324787)。
 - 2020 更新：毛巾也繼續的成長中，[2020 疫情也沒跳過](https://twitter.com/ascendbruce/status/1343103032859344896)
-- 2025 更新：後來毛巾只成長到 2021，之後就漸漸退坑了，在 [Now 頁面]({% link now-tw.md %}) 裡面有說明為何。
+- 2025 更新：後來毛巾只成長到 2021，之後就漸漸退坑了，在 [Now 頁面]({% link now-tw.md %}) 裡面有說明為何。並且 [也迷上了 Ado]({% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado.md %})

@@ -66,7 +66,7 @@ https://www.facebook.com/ascendbruce/posts/1381048278573818
 
 - 2018年更新：[後に2018年シンガポール公演でmeet & greetに当選し、この写真をLiSA本人に見せて「すごい」というコメントをもらいました](https://www.facebook.com/ascendbruce/posts/2363538490324787)。
 - 2020年更新：タオルも成長を続けており、[2020年のコロナ禍もスキップしませんでした](https://twitter.com/ascendbruce/status/1343103032859344896)
-- 2025年更新：後にタオルは2021年まで成長しただけで、その後は徐々に離れていきました。[Nowページ]({% link now-tw.md %})で理由を説明しています。
+- 2025年更新：後にタオルは2021年まで成長しただけで、その後は徐々に離れていきました。[Nowページ]({% link now-tw.md %})で理由を説明しています。そして[Adoにもハマりました]({% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado-jp.md %})。
 
 ------
 
