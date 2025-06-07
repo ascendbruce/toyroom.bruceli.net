@@ -5,6 +5,7 @@ category:
 - tw
 tags:
 - life
+- lifeupdates
 ---
 
 真的是超級久沒有寫近況更新了，上次是 [近況報告 2019 December](https://medium.com/@ascendbruce/diary-2019-december-fd7dffff1c98)（是疫情之前呢），因為覺得真的太久了，在 2022 年末的時候覺得應該來寫一篇 2020 ~ 2022 年底濃縮版，結果一不小心就又錯過了，所以還是硬著頭皮快速寫一篇，跟大家報告一下近況。
@@ -127,3 +128,5 @@ PX7 是音質不錯的耳罩式無線耳機；但長時間配戴降噪耳機果�
 然後還有 COVID 疫苗儘快打好打滿、注意衛生習慣，這個疫情不知道還要影響人類多久，目前看起來還沒有要終結的樣子。
 
 在此祝大家健康平安 🙏
+
+{% include series_for_label.md label_name = "lifeupdates" %}
