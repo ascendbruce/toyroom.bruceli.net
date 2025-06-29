@@ -38,6 +38,10 @@ hr {
   margin: 32px 0 32px 0;
 }
 
+a {
+  word-break: break-all;
+}
+
 a.lang-btn {
     font-size: 14px;
     background-color: #0099cc;
@@ -100,11 +104,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: auto;
+  max-width: 100%;
   height: auto;
   border: 1px solid #ccc;
   padding: 9px;
   border-radius: 4px;
+  box-sizing: border-box;
 }
 
 p img + span {
