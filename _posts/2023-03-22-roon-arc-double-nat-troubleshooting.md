@@ -91,6 +91,16 @@ IP 分享器後面的每個設備會有個內部 IP （通常會長得像 `192.1
 
 總得來說，Double NAT 的解法 1 跟 2 是最可行的，雖然 Roon 官方推薦解法 1，但我自己是靠解法 2 才打通。
 
+> ### 2025-07-14 補言：後來我用解法 1 成功了
+>
+> 以下是以我的設備（Nokia G-040W-Q）的設定經驗。經進一步研究（感謝 AI 幫助）與實驗，確認了方法 4 = 方法 1。
+>
+> 1. 最重要的是取得 PPPoE 帳號密碼。帳碼卡遺失的話，透過實體連線、進入 moden 的後台以後，用 inspect 把 password input 改成 text 就可以看到
+> 2. 把自備 WIFI 分享器改成 router mode，並輸入 PPPoE 撥接密碼
+> 3. 從 WAN service 裡確認 Bridge 是否有啟用，我這台的 IPoE, PPPoE, Bridge 三個模式同時都是打開的
+> 4. 把 WAN service > PPPoE 的帳號或密碼故意打錯，確保他不通、以免衝突
+> 5. 回到自備 WIFI 分享器上，設定 UPnP, port forward
+
 如果覺得以上的建議覺得還不夠細節、難以參考，推薦閱讀 Roon 官方的 troubleshooting 文章，其實寫得相當清楚明白:  [Port Forwarding Troubleshooting](https://help.roonlabs.com/portal/en/kb/articles/port-forwarding-troubleshooting)
 
 唯一的問題是文章是英文的，雖然遠水救不了近火，但如果想要學到基本可看懂、不求文學造詣高的話，歡迎參考我們公司跟以琳老師合作推出的熱銷英文課程： [多益只是想考600分｜英文弱底 79 天多益達標訓練營](https://shop.wordup.com.tw/en/product/490)
