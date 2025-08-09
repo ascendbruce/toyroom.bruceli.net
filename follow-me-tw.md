@@ -23,7 +23,7 @@ permalink: "/tw/follow_me/"
 
 ## 訂閱我的學習筆記電子報
 
-* Substack: [BruceToyRoom 的學習筆記](https://brucetoyroom.substack.com/welcome)
+* [BruceToyRoom 的學習筆記](https://newsletter.bruceli.net/welcome)
 
 
 ## 訂閱我的 YouTube 頻道

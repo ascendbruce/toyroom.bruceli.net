@@ -40,7 +40,7 @@ permalink: "/tw/now/"
 
 我還蠻常看很多有的沒的文章、影片，有時候也會畫重點做筆記，我好幾次考慮過分享出來，但之前一直沒什麼動力，也覺得在社群平台上經營很容易被平台耍。
 
-後來想了想，覺得做成電子報可能有點機會，所以就在 substack 上隨意的開始了: [BruceToyRoom 的學習筆記](https://brucetoyroom.substack.com/welcome)
+後來想了想，覺得做成電子報可能有點機會，所以就在 substack 上隨意的開始了: [Bruce 的玩具間學習筆記](https://newsletter.bruceli.net/welcome)
 
 ## 一直還有在玩的
 

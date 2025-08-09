@@ -23,7 +23,7 @@ permalink: "/en/follow_me/"
 
 ## My Newsletter
 
-* Substack: [BruceToyRoom 的學習筆記](https://brucetoyroom.substack.com/welcome)
+* [BruceToyRoom 的學習筆記](https://newsletter.bruceli.net/welcome)
 
 ## My YouTbue channel
 
