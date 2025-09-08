@@ -26,10 +26,12 @@ permalink: "/tw/audiophile/"
 * ⭐️ **Grado SR60e** - 高 CP 的入門耳機，當初買 D310 的時候其實也有跟這隻比，因為想要低音多一點所以選了 D310，但一直還是想收，最後是做為生日禮物收到的
 * **Philips X2HR** - 傳奇跳水王，推出時 1 萬的價位，後來 3 千多就買得到，很超值。音質不錯，但調音沒有很中我的口味，所以很少用
 * ⭐️ **audio-technica ADX5000** - 鐵三角真香，登上鐵三角當代（非限量版）的頂點了
-* ⭐️ **Grado RS1e** - Grado 家相當經典的一隻耳機，沒有買到更前面的世代有點可惜
+* ⭐️ **Grado RS1e** - Grado 家相當經典的一隻耳機，沒有買到更前面的世代有點可惜（後來收到 i 世代了）
 * ⭐️ **Sony MDR-CD900ST** - 很常出現在日本歌手 MV 裡、或 THE F1RST TAKE 影片裡的耳機，是日本眾多錄音室的標配
 * ⭐️ **beyerdynamic DT770 PRO X Limited Edition** - 地球動圈出拜耳，beyerdynamic 100 週年紀念款
 * ⭐️ **Audeze LCD-5** - 我的夢想超旗艦，理論上是我的 end-game，但我是不會說「再買就剁手」的 🤪
+* ⭐️ **audio-technica ATH-W10VTG** - 鐵三角木殼系列的起點，1996 年推出的老耳機，女毒真棒
+* ⭐️ **Grado RS1i** - 補了之前的遺憾，二手收到 i 世代的 RS1，風格柔美很多
 
 **耳罩式 (無線)**
 

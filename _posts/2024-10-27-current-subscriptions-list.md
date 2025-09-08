@@ -66,16 +66,25 @@ tags:
 | Fanbox/Fantia       | 292     | 長期贊助的繪師 x3，解鎖贊助回饋內容 |
 | KKBOX Lossless      | 209     | 音樂串流服務，前陣子趁特價活動買了一年份，正常價格是 299/mo |
 | Netflix             | 100     | 看電影、動畫，費用是家庭方案分攤後 |
+| NordVPN             | 95      | 解鎖一些鎖區的網站內容 |
 | 動畫瘋               | 84      | 看動畫，巴哈姆特這幾年的週年活動都有特價，正常價是 99/mo |
 | LiSA Lab            | 81      | 日本歌手 LiSA 的官方 Fan Club。[我喜歡 LiSA 的理由](https://medium.com/@ascendbruce/the-reason-i-am-a-big-fan-of-lisa-d625a0ce7ff2)。 |
-| NordVPN             | 70      | 解鎖一些鎖區的網站內容 |
 
-# 沒有列在上面，但我想特別提一下的
+> 勘誤：NordVPN 的月費之前似乎算錯成 70 了，已修正成 95。
+
+# 不是軟體服務，但是訂閱制的
 
 | Name                | 平均月費NT$   | 用途                    |
 |:--------------------|------------:|:------------------------|
 | TPASS               | 1200        | 通勤月票。雖然不是軟體訂閱，但就是想提醒一下「搭車通勤單趟 35 元以上、幾乎每天都進辦公室的人」很可以考慮買月票，但划不划算要根據實際搭車習慣來試算 |
-| ChatGPT Plus        | 641         | 沒有訂的原因是透過 API 使用，主要有兩個管道： (1) Alfred (2) TypingMind (Setapp 裡有)。我的 API 用量通常不到 US$1/mo |
+
+> iPhone 某種程度上也可以看成訂閱費，我的平均月費是 480~1,100（根據持有期間、轉賣價導致成本不同），可以參考我的 [iPhone 該不該每年換機？](https://youtu.be/5JWWb_APQhk) 影片。
+
+# 是軟體服務，但已買斷 or 公司出錢的
+
+| Name                | 平均月費NT$   | 用途                    |
+|:--------------------|------------:|:------------------------|
+| ChatGPT Plus        | 641         | 沒有訂的原因是透過 API 使用，主要有兩個管道： (1) Alfred (2) TypingMind (Setapp 裡有)。我目前的 API 用量通常不到 US$1/mo |
 | Roon*               | 400         | 音樂伺服器軟體，但我買了 Lifetime 所以沒列在上面 |
 | GitHub Copilot      | 267         | AI 輔助寫 code。因為由公司訂所以沒列在上面，而且正在評估換訂到 Cursor |
 | Brain.fm            | 186         | 引導腦波的功能性音樂。因為有買 Lifetime (已停賣) 所以沒有列在上面，這個超推，我幾乎每天都用。[YouTube 上有 Sample](https://www.youtube.com/@BrainfmApp/videos) |
@@ -88,5 +97,3 @@ tags:
 -------------
 
 如果你覺得這樣的分享有趣，也可考慮瞧瞧 [Now 頁面]({% link now-tw.md %})，裡面有我正在玩、或玩過的事情的紀錄。
-
-iPhone 也可以看成訂閱費，我的平均月費是 480~1,100（根據持有期間、轉賣價導致成本不同），可以參考我的 [iPhone 該不該每年換機？](https://youtu.be/5JWWb_APQhk) 影片。
