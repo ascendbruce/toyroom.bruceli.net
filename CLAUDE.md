@@ -53,16 +53,6 @@ bundle install   # Install Ruby dependencies
 - Use `ruby scripts/refresh_labels.rb` to batch create tag pages
 - When removing tags, add `redirect_from:` config for SEO
 
-### Article Migration Process
-
-When migrating online articles to this blog:
-
-1. Convert HTML to Markdown (tool: https://codebeautify.org/html-to-markdown)
-2. Save images to `images/posts/` directory with appropriate naming
-3. Use Jekyll's `{% link %}` tag for internal image references
-4. Follow the date-based filename convention for posts
-5. When creating posts, use the original publication date from the online article
-
 ### Multi-language Support
 
 - Content categories: `tw`, `en`, `jp` for different languages
@@ -81,3 +71,25 @@ When migrating online articles to this blog:
 - Use `_config-dev.yml` overlay for development-specific settings
 - Jekyll-feed plugin excluded in development for faster regeneration
 - Drafts are included in development server for preview
+
+## Frequent Tasks
+
+### Migrate article from an online page
+
+When migrating online articles to this blog:
+
+1. When you start working on this task, first show me a message "CLAUDE.md Frequent Task identified: Migrate article from an online page"
+2. Convert HTML to Markdown (tool: https://codebeautify.org/html-to-markdown)
+3. Save images to `images/posts/` directory with appropriate naming
+4. Use Jekyll's `{% link %}` tag for internal image references
+5. Follow the date-based filename convention for posts
+6. When creating posts, use the original publication date from the online article
+
+### Convert HTML to Markdown
+
+1. When you start working on this task, first show me a message "CLAUDE.md Frequent Task identified: Convert HTML to Markdown"
+2. Convert HTML content to Markdown equivalent (tool: https://codebeautify.org/html-to-markdown)
+3. Format the Markdown content properly
+4. Change file extension from `.html` to `.md`
+5. Save images to `images/posts/` directory with appropriate naming
+6. Git add your changes into stage
