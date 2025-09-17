@@ -6,6 +6,7 @@ category:
 - tw
 tags:
 - life
+- lifeupdates
 image: /images/posts/2019-12-15-1_XsrKIjkc5RiaXahv8K786w.jpg
 ---
 
@@ -97,3 +98,5 @@ image: /images/posts/2019-12-15-1_XsrKIjkc5RiaXahv8K786w.jpg
 大概是這樣，我要火燒屁股了，掰 — —
 
 > 2021–07–04 補言：使用拼音輸入法在台灣偶爾還是會有些不方便的地方，借用別人的電腦、手機的時候常常要去把拼音叫出來，像 ibon 的話就是甚至完全沒得用拼音，只好用手寫。但這幾年來其實也認識到幾個用拼音的人，其實沒很罕見。
+
+{% include series_for_label.md label_name = "lifeupdates" %}
