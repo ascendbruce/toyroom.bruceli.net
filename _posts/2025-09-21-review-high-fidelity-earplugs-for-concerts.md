@@ -5,6 +5,7 @@ category:
 - tw
 tags:
 - life
+image: /images/posts/2025-09-21-earplugs-box.jpeg
 ---
 
 我測試了 6 款聽力保護用的演唱會耳塞，花了大約 NT$8,000，經過 3 個月，幫你選出了演唱會耳塞中的王者。
