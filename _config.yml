@@ -106,6 +106,7 @@ exclude:
   - .jekyll-cache/
   - .ruby-version
   - .sass-cache/
+  - .local/
   - _config.yml
   - Gemfile
   - Gemfile.lock
