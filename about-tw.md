@@ -51,9 +51,9 @@ redirect_from:
 
 經營的其他部落格
 
-* [工程師 Bruce 的玩具間](https://www.youtube.com/@bruceToyRoom) YouTube 頻道
-* [Bruce 的玩具間學習筆記](https://newsletter.bruceli.net/) 電子報
-* [雜七雜八英文部落格](http://english.bruceli.net/)
+* [工程師 Bruce 的玩具間](https://www.youtube.com/@bruceToyRoom) (YouTube 頻道)
+* [Bruce 的玩具間學習筆記](https://newsletter.bruceli.net/) (電子報)
+* [雜七雜八英文部落格](http://english.bruceli.net/) (英文學習 blog)
 
 以前做的一些小玩具服務
 
@@ -68,7 +68,7 @@ redirect_from:
 
 * **聽音樂:** 我聽的音樂類型還蠻廣的，從古典到死亡重金屬，很多類型我都聽，主要聽英日文、但也有聽一點韓語跟西文
 * **耳機喇叭:** 既然常常在聽音樂，播放設備也是會小小講究的 → [我的耳機音響族譜]({% link _pages/audiophile-tw.md %})
-* **追星:** 最喜歡的歌手是 LiSA (日本)，[我喜歡 LiSA 的理由]({% link _posts/2018-07-09-the-reason-i-am-a-big-fan-of-lisa.md %})。我甚至有收藏 [Just Ear XJE-MH/L1SA (LiSA 聯名款) 客製化耳道式耳機](https://medium.com/p/8af29b49c6f6)。此外也蠻喜歡 Ado 的，[我喜歡 Ado 的理由]({% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado.md %})
+* **追星:** 最喜歡的歌手是 LiSA (日本)，[我喜歡 LiSA 的理由]({% link _posts/2018-07-09-the-reason-i-am-a-big-fan-of-lisa.md %})。我甚至有收藏 [Just Ear XJE-MH/L1SA (LiSA 聯名款) 客製化耳道式耳機]({% link _posts/2019-08-16-sony-just-ear-xje-mh-l1sa-lisa-ciem.md %})。此外也蠻喜歡 Ado 的，[我喜歡 Ado 的理由]({% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado.md %})
 * **看動畫、漫畫、小說:** 特別喜歡的作品是《科學超電磁砲》、《少女與戰車》、《青春豬頭少年》系列、《你的名字》、《重金搖滾雙面人》。特別喜歡的作者有：森見登美彥、東野圭吾、有川浩
 * **球型關節人偶:** 我有 Mirai Classic Milk (Smart Doll 1/3)、Poe-Poe 羽百合 (Azone 45cm)、御坂美琴 (Azone 1/6)
 * 這裡只列了一小部分我還在玩的東西，這裡有更多我以前玩過的東西 → <a href="/tw/now">Now</a>

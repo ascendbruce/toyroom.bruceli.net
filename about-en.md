@@ -46,25 +46,25 @@ I enjoy helping others become more effective. For example, I like to share my le
 
 Other blogs I maintain
 
-* [Engineer Bruce's Toy Room](https://www.youtube.com/@bruceToyRoom) YouTube channel
-* [Bruce's Toy Room Study Notes](https://newsletter.bruceli.net/) Newsletter
-* [Random English Blog](http://english.bruceli.net/)
+* [工程師 Bruce 的玩具間](https://www.youtube.com/@bruceToyRoom) (YouTube channel)
+* [Bruce 的玩具間學習筆記](https://newsletter.bruceli.net/) (Newsletter)
+* [雜七雜八英文部落格](http://english.bruceli.net/) (English learning tips blog)
 
 Some small toy services I built
 
 * [Temperature Drop Forecast](http://chill.bruceli.net/) (currently broken, haven't had time to fix)
 * [Latest Published Manga/Light Novel Info - Frog Book List RSS](http://wawarss.bruceli.net/)
-* [Books.com.tw 66% Off Optimized Newsletter](http://books66.bruceli.net/)
+* [Books.com.tw 34% Off Optimized Newsletter](http://books66.bruceli.net/)
 * For older toys, please check out [Portfolio](/tw/works/)
 
 ## My Interests
 
 I have quite a few interests and they change often. Feel free to chat if you share similar interests!
 
-* **Listening to music:** My music taste is quite broad, from classical to death metal. I listen to many genres, mainly English and Japanese, but also some Korean and Spanish
+* **Music:** My music taste is quite broad, from classical to death metal. I listen to many genres, mainly English and Japanese, but also some Korean and Spanish
 * **Headphones & Speakers:** Since I listen to music frequently, I do care a bit about playback equipment → [My Audiophile Chronicle]({% link _pages/audiophile-tw.md %})
-* **Following artists:** My favorite singer is LiSA (Japan), [Why I'm a fan of LiSA]({% link _posts/2018-07-09-the-reason-i-am-a-big-fan-of-lisa.md %}). I even own [Just Ear XJE-MH/L1SA (LiSA collaboration) custom in-ear monitors](https://medium.com/p/8af29b49c6f6). I also quite like Ado, [Why I'm a fan of Ado]({% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado.md %})
-* **Watching anime, manga, novels:** Particularly fond of "A Certain Scientific Railgun", "Girls und Panzer", "Rascal Does Not Dream" series, "Your Name", "Detroit Metal City". Favorite authors include: Tomihiko Morimi, Keigo Higashino, Hiro Arikawa
+* **Fandom:** My favorite singer is LiSA (Japan), [Why I'm a fan of LiSA]({% link _posts/2018-07-09-the-reason-i-am-a-big-fan-of-lisa.md %}). I even own [Just Ear XJE-MH/L1SA (LiSA collaboration) custom in-ear monitors]({% link _posts/2019-08-16-sony-just-ear-xje-mh-l1sa-lisa-ciem.md %}). I also quite like Ado, [Why I'm a fan of Ado]({% link _posts/2025-05-25-the-reason-i-am-a-big-fan-of-ado.md %})
+* **Anime, Manga & Novels:** Particularly fond of "A Certain Scientific Railgun", "Girls und Panzer", "Rascal Does Not Dream" series, "Your Name", "Detroit Metal City". Favorite authors include: Tomihiko Morimi, Keigo Higashino, Hiro Arikawa
 * **Ball-jointed dolls:** I have Mirai Classic Milk (Smart Doll 1/3), Uyuri by Poe-Poe (Azone 45cm), Misaka Mikoto (Azone 1/6)
 * This is just a small portion of things I still play with. See more things I used to play with → <a href="/tw/now">Now</a>
 
