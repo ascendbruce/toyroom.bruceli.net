@@ -70,13 +70,15 @@ image: /images/posts/2025-10-04-smart-scales.jpeg
 
 ## 重要考量：你願不願意跟 Inbody 的數據混著紀錄？
 
-Inbody 跟 TANITA 的體脂 % 算法似乎有很大的不同。所以如果你家用是 TANITA，但也想把在健身房測完 Inbody 的結果寫到 Apple Health 的話，Inbody 的數據就會跟其他天的數據格格不入。
+Inbody 跟 TANITA 的體脂% 算法似乎有很大的不同。所以如果你家用是 TANITA，但也想把在健身房測完 Inbody 的結果寫到 Apple Health 的話，Inbody 的數據就會跟其他天的數據格格不入。
 
-那個差距大到，我有一次我在幾天之內、先在健身房測到 Inbody、也在家測 TANITA，Inbody 的體脂 % 卻多出超過 5%，雖然 BIA 測量本來就很容易有誤差，但超過 1%、2% 的話我覺得已經不能用誤差來解釋了，所以我猜是他們的算法不同的關係。
+那個差距大到，我有一次我在幾天之內、先在健身房測到 Inbody、也在家測 TANITA，Inbody 的體脂% 卻多出超過 5%，雖然 BIA 測量本來就很容易有誤差，但超過 1%、2% 的話我覺得已經不能用誤差來解釋了，所以我猜是他們的算法不同的關係。
 
 有個網紅 (KosmoFit) 曾經[實測同一天去量商用 Inbody 跟 DEXA](https://www.youtube.com/watch?v=ofYvYzd9a_U) (骨密度測量的黃金標準，但儀器太大、通常醫院才會有、而且會有低劑量輻射)，結果是 10.1% (Inbody) vs. 8.58% (DEXA)。
 
 加上我自己測到的 Inbody vs. TANITA 的結果也是 Inbody 顯著比較高，我目前的猜測是 Inbody 的體脂% 算法都會高估一些，TANITA 的結果「可能」還比較接近黃金標準 DEXA，但這個我就沒辦法驗證了。
+
+因為有這個問題，所以最後我決定把之前手動輸入進 Apple Health 的 Inbody 資料刪除，從此井水不犯河水。
 
 ## 另一個考量，關於 Apple Health 的紀錄項目
 
