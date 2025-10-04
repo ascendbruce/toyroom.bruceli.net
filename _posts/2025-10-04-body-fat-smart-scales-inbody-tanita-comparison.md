@@ -51,6 +51,7 @@ image: /images/posts/2025-10-04-smart-scales.jpeg
 ### Inbody Dial H40
 
 - ✅ H20B 的優點這台也一樣有
+- ✅ 這款有分男女
 - ❌ 貴，價位 NT$15,990 
 - ❌ App 不會顯示局部肌肉的數據的毛病還是持續。廣告裡還強調水分量測很準什麼的，但 App 根本不會顯示水分相關的數據，所以他用很精準的測量方式，最後只給你一些籠統的總分數，超沒意義的。[這裡有人 po 出 app 截圖](https://www.mobile01.com/topicdetail.php?f=293&t=7154211)
 
