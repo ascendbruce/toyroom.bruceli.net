@@ -5,6 +5,7 @@ category:
 - tw
 tags:
 - life
+- 敗家好物
 image: /images/posts/2025-10-04-smart-scales.jpeg
 ---
 
