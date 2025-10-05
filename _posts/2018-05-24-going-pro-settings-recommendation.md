@@ -3,7 +3,9 @@ layout: post
 title: "每天要打那麼多注音，你有沒有想過選更好的注音輸入法來打？"
 date: 2018-05-24
 categories: tw
-tags: [productivity, input-methods, mac, chinese]
+tags:
+- productivity
+- mac
 image: /images/posts/2018-05-24-zhuyin-input-settings.png
 ---
 

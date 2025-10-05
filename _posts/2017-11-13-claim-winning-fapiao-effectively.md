@@ -4,7 +4,7 @@ title: "追求效率的人會怎麼對發票"
 date: 2017-11-13
 categories: tw
 tags:
-- life
+- productivity
 image: /images/posts/2017-11-13-fapiao-preview.jpeg
 ---
 

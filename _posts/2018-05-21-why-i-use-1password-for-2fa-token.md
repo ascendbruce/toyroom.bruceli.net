@@ -3,7 +3,8 @@ layout: post
 title: "為什麼我拋棄 Google Authenticator 改用 1Password 管理 OTP token"
 date: 2018-05-21 00:00:00 +0800
 categories: tw
-tags: [security, password-management, 2fa, two-factor-authentication]
+tags:
+- productivity
 ---
 
 ![1Password 2FA preview](/images/posts/2018-05-21-why-i-use-1password-for-2fa-token/preview.png)
