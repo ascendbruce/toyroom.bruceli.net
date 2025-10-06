@@ -34,6 +34,7 @@ bundle install   # Install Ruby dependencies
 ### Content Structure
 
 - **Posts**: Located in `_posts/` with date-based filename format (YYYY-MM-DD-title.md)
+- **Pages**: Located in `_pages/` and project root (eg. now-tw.md, search.html, support-tw.md, ...)
 - **Work Projects**: Special posts in `_posts/works/` subdirectory for portfolio items
 - **Labels/Tags**: Tag pages auto-generated in `_labels/` collection, managed via `scripts/refresh_labels.rb`
 - **Images**: Stored in `images/posts/` with organized naming convention
@@ -71,3 +72,24 @@ bundle install   # Install Ruby dependencies
 - Use `_config-dev.yml` overlay for development-specific settings
 - Jekyll-feed plugin excluded in development for faster regeneration
 - Drafts are included in development server for preview
+
+## Content
+
+### Posts
+
+- Front matter: follow this example: _posts/2025-10-04-body-fat-smart-scales-inbody-tanita-comparison.md
+- Tags (a.k.a. labels):  Available tags can be found in _data/labels.yaml
+- Main tags: Each article MUST fall into one (and only one) of following 4 main tags: #dev #productivity #商業理財 #life
+- Normal tags: Can opitonally add normal labels
+- Avoid using tags that didn't listed in _data/labels.yaml (a.k.a. hidden tags)
+
+## Frequent Tasks
+
+### Convert HTML to Markdown
+
+1. When you start working on this task, first show me a message "CLAUDE.md Frequent Task identified: Convert HTML to Markdown"
+2. Convert HTML content to Markdown equivalent (tool: https://codebeautify.org/html-to-markdown)
+3. Format the Markdown content properly
+4. Change file extension from `.html` to `.md`
+5. Save images to `images/posts/` directory with appropriate naming
+6. Git add your changes into stage
