@@ -136,7 +136,7 @@ Smart Doll 是 60cm 的人偶，算是蠻大的，也因此細節可以做的非
 
 後來看到幾本講指數型投資的書以及綠角財經筆記，覺得這個才適合我，於是鑽研了一陣子，當時我在新加坡工作，我甚至安排休假回台灣的時間，就為了能上綠角的實體課。（綠角的課整理了很多知識，可以少走冤枉路，個人認為很超值）
 
-我有把投資學習心得寫成懶人包發布在 [全球指數投資懶人包](https://medium.com/daily-life-productivity/etf-index-investing-4ee8d03c8882)
+我有把投資學習心得寫成懶人包發布在 [全球指數投資懶人包](/tw/2020/05/11/investment-global-etf-asset-allocation.html)
 
 ### 投資比特幣 (2025 年中 -)
 
@@ -168,9 +168,9 @@ Smart Doll 是 60cm 的人偶，算是蠻大的，也因此細節可以做的非
 
 因為有一陣子比較頻繁做菜，開始想要收一把好廚刀，但光有刀遲早會鈍，也因此花了一些時間研究如何磨刀、買一些工具來用。
 
-研究後我把學到的知識整理成一篇文章：[從原理了解如何正確有效率磨刀](https://medium.com/daily-life-productivity/how-to-sharpen-chef-knives-85a5a8d377cd)，它曾經是 `磨刀` 關鍵字搜尋結果第一名。
+研究後我把學到的知識整理成一篇文章：[從原理了解如何正確有效率磨刀](/tw/2017/07/16/efficient-knife-sharpening.html)，它曾經是 `磨刀` 關鍵字搜尋結果第一名。
 
-對了，我最後收的廚刀是 Zwilling J. A. Henckels (雙人牌) 的 Zwilling Pro 7" Chef's Knife。我也有把挑選廚刀的心得寫成一篇文章： [勝過雙人三叉？升級廚房菜刀要怎麼選擇](https://medium.com/daily-life-productivity/how-to-choose-chef-santoku-knives-c6683c8ab2ae)
+對了，我最後收的廚刀是 Zwilling J. A. Henckels (雙人牌) 的 Zwilling Pro 7" Chef's Knife。我也有把挑選廚刀的心得寫成一篇文章： [勝過雙人三叉？升級廚房菜刀要怎麼選擇](/tw/2017/05/28/how-to-choose-chef-santoku-knives.html)
 
 ### 新加坡工作生活攻略 wiki (2015 - 2018)
 

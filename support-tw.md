@@ -87,9 +87,9 @@ Milanote 是一個高自由度的白板，可以把卡片移到任意角落，�
 
 買美股是我有一陣子研究股票投資後的到的結論：透過美股買體質健康的 ETF。美股券商中，Firstrade 註冊簡單而且還沒有交易手續費，是很簡單的懶人開始。
 
-我有把投資學習心得寫成懶人包發布在 [全球指數投資懶人包](https://medium.com/daily-life-productivity/etf-index-investing-4ee8d03c8882)
+我有把投資學習心得寫成懶人包發布在 [全球指數投資懶人包](/tw/2020/05/11/investment-global-etf-asset-allocation.html)
 
-除此之外，如果你不住在台灣，有些申請條件你可能需要知道一下，因為我當初就是在海外的時候申請的，心得我有發表在 [如何從國外開戶 Firstrade 美股券商＆潛在的陷阱](https://medium.com/daily-life-productivity/open-firstrade-account-from-outside-of-taiwan-and-pitfalls-a5526dbaf19d)
+除此之外，如果你不住在台灣，有些申請條件你可能需要知道一下，因為我當初就是在海外的時候申請的，心得我有發表在 [如何從國外開戶 Firstrade 美股券商＆潛在的陷阱](/tw/2017/12/21/open-firstrade-account-from-outside-of-taiwan-and-pitfalls.html)
 
 推薦成功的條件：註冊後 30 天內完成一切開戶手續、入金並維持帳號裡有 500 USD 以上一陣子。因為條件比較複雜，詳細請參考官方說明： https://affiliate.firstrade.com/affiliate/
 
