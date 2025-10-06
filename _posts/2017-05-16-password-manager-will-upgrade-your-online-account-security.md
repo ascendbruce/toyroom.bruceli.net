@@ -22,7 +22,7 @@ image: /images/posts/2017-05-16-how-secure-password.png
 
 很多人不信任 password manager,認為一旦該服務被駭、所有的密碼都會流出。這種事件無法否認其可能性,但是風險不是只有密碼被管理的網站流出,以下都是風險:
 
-- 一個服務流出密碼導致其他網站也被盜帳號(因為在不同網站使用了相同的密碼,或者密碼編碼方式不夠強、被察覺出規則。尤其有些[網站密碼根本沒加密](http://plainpass.com/p/about-this-site.html),非常可能流出。用 [' — have i been pwned? ](https://haveibeenpwned.com/)檢查 email 沒有被列在駭客公布的中獎名單裡)
+- 一個服務流出密碼導致其他網站也被盜帳號(因為在不同網站使用了相同的密碼,或者密碼編碼方式不夠強、被察覺出規則。尤其有些[網站密碼根本沒加密](http://plainpass.com/p/about-this-site.html),非常可能流出。用 [' — have i been pwned?](https://haveibeenpwned.com/)檢查 email 沒有被列在駭客公布的中獎名單裡)
 - 被釣魚釣到其中一個網站密碼,導致其他網站也被盜帳號(理由同上,別以為自己不會中,[釣魚手法日新月異,其中有很厲害的](https://blog.gslin.org/archives/2017/04/23/7259/%E5%88%A9%E7%94%A8-unicode-domain-%E9%87%A3%E9%AD%9A%EF%BC%8C%E4%BB%A5%E5%8F%8A-chrome-%E8%88%87-firefox-%E7%9A%84%E8%A7%A3%E6%B3%95/))
 - 被暴力破解、字典檔攻擊(因為使用了相對簡單的密碼,[這個網站](https://howsecureismypassword.net/)可以幫你估計某個字串當密碼需要多久破解,輸入一個跟你目前密碼接近的字串看看?)
 - 因為真的忘記密碼、多次登入失敗被瑣帳號(尤其上面提過的有密碼限制的網站,你不得不想一個例外規則的密碼,結果就是忘記)
@@ -38,7 +38,7 @@ image: /images/posts/2017-05-16-how-secure-password.png
 
 1. 使用單機版並且永遠只用隨身碟 copy 或直連的 wifi 傳到另一台電腦 (而不是透過官方的 cloud sync 或 dropbox),這樣子你的資料不會傳到雲端服務上
 2. password manager 只放次要網站,重要網站如 Google, Apple 還是自己記憶
-3. 能開 2FA 的網站都要開 2FA,這是稍微不一樣的話題,請 follow [Daily Life Productivity](https://medium.com/daily-life-productivity),下次會有專文討論。
+3. 能開 2FA 的網站都要開 2FA,這是稍微不一樣的話題,可以看 [為什麼我拋棄 Google Authenticator 改用 1Password 管理 OTP token]({% link _posts/2018-05-21-why-i-use-1password-for-2fa-token.md %})
 
 如果這樣子還是無法說服你安心使用 password manager,那就別用吧。如果你已有能力防堵上一節提到的各種風險,犧牲了一些東西後如果沒辦法提供等值或超值的好處的話,那也沒道理去用。
 
