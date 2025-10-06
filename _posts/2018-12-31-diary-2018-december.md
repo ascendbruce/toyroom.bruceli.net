@@ -6,6 +6,7 @@ category:
 tags:
 - life
 - 敗家好物
+- lifeupdates
 date: 2018-12-31 00:00:00 +0800
 image: /images/posts/2018-12-31-diary-2018-december/1_M7jSvF-No_X6EH-v5ZVK7g@2x.jpg
 ---
