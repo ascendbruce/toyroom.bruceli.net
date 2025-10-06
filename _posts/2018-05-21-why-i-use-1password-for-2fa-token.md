@@ -57,3 +57,7 @@ tags:
 - Authy：相容 Google Authenticator + 有 sync，推薦文 [Google Authenticator Backups — The Right Way To Do Two Factor Authentication](https://www.icontrolwp.com/blog/google-authenticator-backups/)
 - [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor)：用 USB 或 NFC 的硬體裝置進行驗證，需要買硬體、目前支援的網站也比較少，弄丟就糟了
 - SMS 簡訊：[透過簡訊執行二次驗證不再安全，美國國家標準技術研究所建議別再使用](http://www.ithome.com.tw/news/112845)
+
+## 補充
+
+我的另一篇文章 [用 Password Manager 大幅提升網路帳號密碼安全性]({% link /tw/2017/05/16/password-manager-will-upgrade-your-online-account-security.html %})
