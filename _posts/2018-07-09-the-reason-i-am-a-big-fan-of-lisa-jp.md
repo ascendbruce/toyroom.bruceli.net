@@ -44,7 +44,7 @@ https://www.facebook.com/ascendbruce/posts/1070575342954448
 - 初めてのコンサート映像ディスク購入
 - 初めての体育館級コンサート参加
 - 初めての歌手公式ファンクラブ有料加入
-- [初めての日本旅行](https://medium.com/@ascendbruce/japan-tokyo-trip-lesson-learned-recommendation-f961957a323f)（コンサートを聞くため）
+- [初めての日本旅行](/tw/2017/07/15/japan-trip.html)（コンサートを聞くため）
 
 面白いことに、台湾への帰国もコンサートの時間に合わせることがありました
 

@@ -65,7 +65,7 @@ image: /images/posts/2018-05-24-zhuyin-input-settings.png
 
 ### 後續
 
-改用拼音輸入法一段時間以後，我忘記怎麼打注音了，請看：[近況報告 2019 December](https://medium.com/@ascendbruce/diary-2019-december-fd7dffff1c98)
+改用拼音輸入法一段時間以後，我忘記怎麼打注音了，請看：[近況報告 2019 December](/tw/2019/12/15/diary-2019-december.html)
 
 我之所以會在意拼音輸入法是因為 iPad 上的注音輸入法也很爛，爛到我寧可在 iPad 上慢慢打拼音輸入法，但如此一來就有 iPad / Mac / Windows 切換的問題了。打著打著就全面切過去了。
 

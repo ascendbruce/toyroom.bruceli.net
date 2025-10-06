@@ -25,7 +25,7 @@ tags:
 
 ![1Password 2FA security comparison](/images/posts/2018-05-21-why-i-use-1password-for-2fa-token/security-comparison.png)
 
-> 無法理解為什麼把密碼交給別人是安全的，請參考 [用 Password Manager 大幅提升網路帳號密碼安全性](https://medium.com/daily-life-productivity/pasword-manager-will-upgrade-your-online-account-security-36d36623b545)
+> 無法理解為什麼把密碼交給別人是安全的，請參考 [用 Password Manager 大幅提升網路帳號密碼安全性](/tw/2017/05/16/password-manager-will-upgrade-your-online-account-security.html)
 
 因為雖然失去了 2FA 的好處，但 TOTP 的好處仍在。
 

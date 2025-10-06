@@ -121,4 +121,4 @@ image: /images/posts/2017-05-28-knives/header.jpeg
 
 再怎麼高級的鋼，只要正常使用還是會鈍，此時就需要磨刀。請參考：
 
-[從原理了解如何正確磨刀](https://medium.com/daily-life-productivity/how-to-sharpen-chef-knives-85a5a8d377cd)
+[從原理了解如何正確磨刀](/tw/2017/07/16/efficient-knife-sharpening.html)

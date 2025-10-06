@@ -121,7 +121,7 @@ Backblaze B2 是個類似 Amazon S3 的服務，選 B2 有幾個好處：
 
 軟體專案用 git，隨時 push 到 GitHub 或 BitBucket。
 
-我用 1Password Membership 管理我的密碼，不喜歡工具跟雲端同一家的話也可以買單機版、加密後用 Dropbox sync。（看我的 1Password 介紹：[用 Password Manager 大幅提升網路帳號密碼安全性](https://medium.com/daily-life-productivity/pasword-manager-will-upgrade-your-online-account-security-36d36623b545)）
+我用 1Password Membership 管理我的密碼，不喜歡工具跟雲端同一家的話也可以買單機版、加密後用 Dropbox sync。（看我的 1Password 介紹：[用 Password Manager 大幅提升網路帳號密碼安全性](/tw/2017/05/16/password-manager-will-upgrade-your-online-account-security.html)）
 
 ### 系統備份
 

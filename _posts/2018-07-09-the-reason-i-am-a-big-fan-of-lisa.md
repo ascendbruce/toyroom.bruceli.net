@@ -44,7 +44,7 @@ https://www.facebook.com/ascendbruce/posts/1070575342954448
 - 第一次購買演唱會錄影光碟
 - 第一次參加體育館級的演唱會
 - 第一次加入付費的歌手官方 fan club
-- [第一次去日本](https://medium.com/@ascendbruce/japan-tokyo-trip-lesson-learned-recommendation-f961957a323f)（為了聽演唱會）
+- [第一次去日本](/tw/2017/07/15/japan-trip.html)（為了聽演唱會）
 
 好笑的是有時候連回台灣都要配合演唱會時間
 
