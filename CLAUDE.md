@@ -93,3 +93,19 @@ bundle install   # Install Ruby dependencies
 4. Change file extension from `.html` to `.md`
 5. Save images to `images/posts/` directory with appropriate naming
 6. Git add your changes into stage
+
+### Migrate a article from other source
+
+migrate post from an online post
+
+1. When you start working on this task, first show me a message "CLAUDE.md Frequent Task identified: Migrate article from an online page"
+2. You may use https://freedium.cfd/URL (eg. https://freedium.cfd/https://the-original-url.com) to fetch from a live page
+3. Save images to `images/posts/` directory with iso8601date-short-slug. If the post contains more than 2 images, then use a subfolder
+4. Use Jekyll's `{% link %}` tag for internal image references. use image syntax or link syntax accordingly
+5. Follow the date-based filename convention for posts
+6. When creating posts, use the original publication date from the online article (if not given instruction)
+7. make sure Front matter meets the standard
+8. git stage relevant changes
+
+origin: <URL>
+save to: <FILENAME>
