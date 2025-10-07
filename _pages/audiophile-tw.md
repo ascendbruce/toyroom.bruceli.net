@@ -32,6 +32,7 @@ permalink: "/tw/audiophile/"
 * ⭐️ **Audeze LCD-5** - 我的夢想超旗艦，理論上是我的 end-game，但我是不會說「再買就剁手」的 🤪
 * ⭐️ **audio-technica ATH-W10VTG** - 鐵三角木殼系列的起點，1996 年推出的老耳機，女毒真棒
 * ⭐️ **Grado RS1i** - 補了之前的遺憾，二手收到 i 世代 (2008 年) 的 RS1，風格柔美很多
+* ⭐️ **Audeze LCD-3** - 不小心看到半價的 Demo 機，這支的低音跟中高音還挺不錯
 
 **耳罩式 (無線)**
 
