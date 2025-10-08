@@ -60,4 +60,4 @@ tags:
 
 ## 補充
 
-我的另一篇文章 [用 Password Manager 大幅提升網路帳號密碼安全性]({% link /tw/2017/05/16/password-manager-will-upgrade-your-online-account-security.html %})
+我的另一篇文章 [用 Password Manager 大幅提升網路帳號密碼安全性](/tw/2017/05/16/password-manager-will-upgrade-your-online-account-security.html)
