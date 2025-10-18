@@ -96,18 +96,73 @@ bundle install   # Install Ruby dependencies
 
 ### Migrate a article from other source
 
-migrate post from an online post
+Migrate post from an online post or local HTML file
 
 1. When you start working on this task, first show me a message "CLAUDE.md Frequent Task identified: Migrate article from an online page"
-2. You may use https://freedium.cfd/URL or https://web.archive.org/web/URL (eg. https://freedium.cfd/https://the-original-url.com) to fetch from a live page
-3. Save images to `images/posts/` directory with iso8601date-short-slug. If the post contains more than 2 images, then use a subfolder
-4. Use Jekyll's `{% link %}` tag for internal image references. use image syntax or link syntax accordingly
-5. Follow the date-based filename convention for posts
-6. When creating posts, use the original publication date from the online article (if not given instruction)
-7. make sure to use `![]()` (image syntax) for image urls
-8. make sure Front matter meets the standard. refer to _posts/2025-10-04-body-fat-smart-scales-inbody-tanita-comparison.md for ideal usage
-9. Use tags from _data/labels.yaml
-10. git stage relevant changes
+2. **Extract content from source:**
+   - For online URLs: Try WebFetch with https://freedium.cfd/URL or https://web.archive.org/web/URL
+   - For local HTML files: Use Python with HTMLParser to extract article content
+     - Extract h1-h4, p, li, blockquote tags
+     - Preserve links and structure
+     - Filter out Freedium notices and irrelevant content
+3. **Find publication date:**
+   - Search HTML for date patterns: `grep -i "published\|<time\|20[0-9][0-9]"`
+   - Look for date in format like "November 21, 2016"
+4. **Create Markdown post:**
+   - Filename: `_posts/YYYY-MM-DD-slug.md` (use original publication date)
+   - Front matter must include:
+     - title: (article title)
+     - excerpt: (brief summary from first paragraph)
+     - category: [tw/en/jp]
+     - tags: [main tag + optional normal tags from _data/labels.yaml]
+   - Convert HTML to clean Markdown
+   - Preserve heading hierarchy, lists, blockquotes, links
+5. **Handle images (if any):**
+   - Save to `images/posts/` with iso8601date-short-slug
+   - Use subfolder if post contains more than 2 images
+   - Use Jekyll's `{% link %}` tag for internal references
+   - Use `![]()` syntax for image URLs
+6. **Quality checks:**
+   - Ensure Front matter meets standard (reference: _posts/2025-10-04-body-fat-smart-scales-inbody-tanita-comparison.md)
+   - Use tags from _data/labels.yaml only
+   - Each article MUST have exactly ONE main tag: dev, productivity, 商業理財, or life
+7. **Git stage changes:** `git add _posts/YYYY-MM-DD-slug.md`
 
-origin: <URL>
-save to: <FILENAME>
+**Python extraction template for local HTML files:**
+```python
+python3 << 'EOF'
+from html.parser import HTMLParser
+
+class ArticleExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.content = []
+        self.capture_text = False
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ['h1', 'h2', 'h3', 'p', 'li', 'blockquote']:
+            self.capture_text = True
+            if tag == 'h1':
+                self.content.append('\n# ')
+            elif tag == 'h2':
+                self.content.append('\n## ')
+            # ... etc
+
+    def handle_data(self, data):
+        if self.capture_text and data.strip():
+            self.content.append(data.strip())
+
+    def get_content(self):
+        return ''.join(self.content).strip()
+
+with open('PATH_TO_HTML', 'r', encoding='utf-8') as f:
+    parser = ArticleExtractor()
+    parser.feed(f.read())
+    print(parser.get_content())
+EOF
+```
+
+Usage:
+- `Migrate a article from other source: <URL or file path>`
+- Example: `Migrate a article from other source: https://medium.com/@user/article`
+- Example: `Migrate a article from other source: file:///Users/bruce/Downloads/article.html`
