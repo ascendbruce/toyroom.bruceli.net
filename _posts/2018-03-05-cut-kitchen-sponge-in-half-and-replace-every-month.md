@@ -4,10 +4,12 @@ excerpt: 為什麼要每個月換？因為菜瓜布是細菌的溫床，泡熱�
 category:
 - tw
 tags:
-- life
+- productivity
 - 小技巧
 - 健康
 image: /images/posts/2018-03-05-cut-kitchen-sponge.jpg
+redirect_from:
+- /tw/2018/05/05/dirty-sponge.html
 ---
 
 為什麼要每個月換？**因為菜瓜布是細菌的溫床，泡熱水或沾水微波都無法根絕，唯一有效的方法就是換新的**。
