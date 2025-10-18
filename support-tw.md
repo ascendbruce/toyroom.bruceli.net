@@ -79,7 +79,7 @@ Milanote 是一個高自由度的白板，可以把卡片移到任意角落，�
 * [Owala Freesip 水壺](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7928648&memid=6000018258&cid=apuad&oid=1&osm=league)  
   彈蓋式吸管水壺，單手可開關、不用仰頭喝的水壺，讓喝水的動作變得超精簡，幫助維持喝水習慣
 * [王樣的極夢枕](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7779684&memid=6000018258&cid=apuad&oid=1&osm=league)  
-  我覺得很好睡的枕頭，在 [近況報告 2019 June](https://medium.com/@ascendbruce/diary-2019-june-2fbe42973776) 裡有介紹過
+  我覺得很好睡的枕頭，在 [近況報告 2019 June]({% link _posts/2019-06-30-diary-2019-june.md %}) 裡有介紹過
 * [伊藤園 お～いお茶 綠茶](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6912188&memid=6000018258&cid=apuad&oid=1&osm=league)  
   已經是到處都有賣的普通綠茶了，但還是很好喝，想來一箱嗎？
 

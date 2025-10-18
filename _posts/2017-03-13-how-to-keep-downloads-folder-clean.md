@@ -54,7 +54,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ascendbruce/downloads-fold
 這個 solution 的想法其實很單純，但一開始可能會不習慣，它基於以下的假設：
 
 1. Downloads 資料夾本身是個暫存資料夾，大部分的下載檔案打開來看完、安裝完就沒用了，不需要留存
-2. 對於重要檔案，本來就應該有適當的歸檔位置，例如例如放進 Dropbox、iCloud Drive、備份到或外接硬碟、甚至[加密封存到另一個雲端](https://medium.com/daily-life-productivity/backup-cloud-archive-external-hard-drives-1afd46a105a5)
+2. 對於重要檔案，本來就應該有適當的歸檔位置，例如例如放進 Dropbox、iCloud Drive、備份到或外接硬碟、甚至[加密封存到另一個雲端]({% link _posts/2018-03-26-backup-cloud-archive-external-hard-drives.md %})
 3. 所以需留存的下載檔案，下載完成後要「立刻」移到適當的歸檔位置，否則會被丟進垃圾桶（雖然你可以從系統垃圾桶挖回來）
 
 如此一來，你會被迫養成立即歸檔的好習慣，但因為本來就必須移到歸檔的位置，整個流程沒有額外工，只是提早做。同時你就不用去想「整理 Downloads 資料夾」這件事，因為最慢 48 小時後就會被自動丟進垃圾桶。

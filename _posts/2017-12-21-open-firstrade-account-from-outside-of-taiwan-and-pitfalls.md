@@ -74,4 +74,4 @@ image: /images/posts/2017-12-21-firstrade/hero.jpg
 
 - 想要投長期的人可不能漏掉股利再投資的動作，一個撇步是要去打開「免費股息再投資計劃」
 
-會來看這篇文章的人估計都已經對投資美股、全球標的有興趣了，我寫了一篇我這幾個月以來讀書、看文章以及參加綠角實體課程的精華，歡迎參考：[全球指數投資懶人包](https://medium.com/@ascendbruce/global-index-investing-7b2b8e5ae630)
+會來看這篇文章的人估計都已經對投資美股、全球標的有興趣了，我寫了一篇我這幾個月以來讀書、看文章以及參加綠角實體課程的精華，歡迎參考：[全球指數投資懶人包]({% link _posts/2020-05-11-investment-global-etf-asset-allocation.md %})

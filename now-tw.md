@@ -91,7 +91,7 @@ permalink: "/tw/now/"
 
 ### 球型關節人偶 (2018 - )
 
-在 [近況報告 2018 August](https://medium.com/@ascendbruce/diary-2018-august-546218884083) 裡有提到我如何入坑娃娃的：
+在 [近況報告 2018 August]({% link _posts/2018-08-31-diary-2018-august.md %}) 裡有提到我如何入坑娃娃的：
 
 > 我從 2012 年開始關注 Danny Choo，也知道他從 2015 開始轉型專心做 smart doll，原本覺得他專心做 smart doll、漸漸不寫日本文化相關文章有點可惜，但看著看著就手滑了……
 
