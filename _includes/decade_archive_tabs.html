@@ -1,0 +1,26 @@
+{% comment %}
+  Parameters:
+  - decade_start: The starting year of the decade (e.g., 2000, 2010, 2020)
+{% endcomment %}
+
+<p class="more-posts">
+  <strong>▼ 更多 Archives</strong><br/>
+
+  {% if include.decade_start == 2020 %}
+    2020s
+  {% else %}
+    <a href="{% link archives/2020s.html %}">2020s</a>
+  {% endif %}
+  |
+  {% if include.decade_start == 2010 %}
+    2010s
+  {% else %}
+    <a href="{% link archives/2010s.html %}">2010s</a>
+  {% endif %}
+  |
+  {% if include.decade_start == 2000 %}
+    2000s
+  {% else %}
+    <a href="{% link archives/2000s.html %}">2000s</a>
+  {% endif %}
+</p>

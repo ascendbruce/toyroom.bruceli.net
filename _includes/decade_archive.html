@@ -1,0 +1,24 @@
+{% comment %}
+  Parameters:
+  - decade_start: The starting year of the decade (e.g., 2000, 2010, 2020)
+{% endcomment %}
+
+{% assign decade_end = include.decade_start | plus: 10 %}
+
+{% assign all_posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign posts_by_year = "" | split: "" %}
+{% for year_group in all_posts_by_year %}
+  {% assign year_num = year_group.name | plus: 0 %}
+  {% if year_num >= include.decade_start and year_num < decade_end %}
+    {% assign posts_by_year = posts_by_year | push: year_group %}
+  {% endif %}
+{% endfor %}
+
+{% for year_group in posts_by_year %}
+  <h2>{{ year_group.name }}</h2>
+  <ul>
+    {% for post in year_group.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
