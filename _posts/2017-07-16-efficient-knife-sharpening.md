@@ -152,4 +152,4 @@ sharpening 的主要目的則是刮除一些金屬，修出開刃角度，讓尖
 
 廚房維持眉角多，除了定期磨刀，你知道菜瓜布最好要頻繁換嗎？
 
-→ [菜瓜布有夠髒，抗菌對策：菜瓜布剪對半，每個月更換]({% link _posts/2018-05-05-dirty-sponge.md %})
+→ [菜瓜布有夠髒，抗菌對策：菜瓜布剪對半，每個月更換]({% link _posts/2018-03-05-cut-kitchen-sponge-in-half-and-replace-every-month.md %})
