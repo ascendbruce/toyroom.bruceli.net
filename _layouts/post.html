@@ -19,8 +19,6 @@ layout: default
     {{ content }}
   </div>
 
-  {%- include billboard.html -%}
-
   <ul class="tag-link">
     {% for tag in page.tags %}
       {% assign tag_slug = tag | slugify: "raw" %}
@@ -34,6 +32,8 @@ layout: default
     {% endfor %}
   </ul>
   <!-- ref: https://blog.lunarlogic.io/2019/managing-tags-in-jekyll-blog-easily/ -->
+
+  {%- include billboard.html -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
