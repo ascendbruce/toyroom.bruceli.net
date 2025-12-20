@@ -9,7 +9,7 @@ tags:
 
 ## TL; DR
 
-因為新年新希望對我不太有用，而且我並不是特例（只有 8% 的人每次都能達成新年新希望），更重要的是，我找到了對我更有效的方法。
+因為新年新希望對我不太有用，而且我並不是特例，更重要的是，我找到了對我更有效的方法。
 
 ![New Year Resolutions]({% link images/posts/2018-12-30-new-year-resolutions-preview.jpg %})
 
