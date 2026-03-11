@@ -1,0 +1,97 @@
+---
+layout: null
+sitemap: false
+permalink: /confetti.html
+---
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎉</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0f0f1a;
+    font-family: system-ui, "Noto Sans TC", sans-serif;
+    overflow: hidden;
+  }
+  h1 {
+    font-size: clamp(2rem, 10vw, 6rem);
+    font-weight: 800;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    z-index: 1;
+  }
+  .sub {
+    color: rgba(255,255,255,.6);
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: .5rem;
+  }
+</style>
+</head>
+<body>
+
+<div>
+  <h1 id="msg">🎉</h1>
+  <p id="sub" class="sub" style="display:none;"></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.4/dist/confetti.browser.min.js"></script>
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const text = params.get('text') || '🎉 恭喜！';
+  const sub  = params.get('sub');
+  const bg   = params.get('bg');
+  const dur  = parseInt(params.get('dur')) || 3000;
+
+  document.getElementById('msg').textContent = text;
+  document.title = text;
+
+  if (sub) {
+    const el = document.getElementById('sub');
+    el.textContent = sub;
+    el.style.display = 'block';
+  }
+  if (bg) document.body.style.background = '#' + bg;
+
+  // Pop style from top-left and top-right
+  const colors = ['#ec1e45', '#fce855', '#f6fbf6', '#fe7e99'];
+  const end = Date.now() + dur;
+
+  (function frame() {
+    // Left side
+    confetti({
+      particleCount: 5,
+      angle: 60,
+      spread: 55,
+      origin: { x: 0, y: 0.5 },
+      colors: colors,
+      startVelocity: 45,
+      gravity: 1,
+      ticks: 200,
+    });
+    // Right side
+    confetti({
+      particleCount: 5,
+      angle: 120,
+      spread: 55,
+      origin: { x: 1, y: 0.5 },
+      colors: colors,
+      startVelocity: 45,
+      gravity: 1,
+      ticks: 200,
+    });
+
+    if (Date.now() < end) requestAnimationFrame(frame);
+  })();
+</script>
+
+</body>
+</html>
