@@ -61,6 +61,7 @@ permalink: "/tw/audiophile/"
 * ⭐️ **SENNHEISER IE600** - 因為還是會懷念 SENNHEISER 的聲音所以入手了
 * ⭐️ **CrinEar Project Meta** - 耳機評論家 Crinacle 創立的自有品牌的第一個產品、而且限量 999 個，抱著想支持、以及覺得就算二手也絕對賣得掉，就先搶一條了
 * ⭐️ **RK Music HACHI TuneMATE TMX001** - HACHI 專武，有點微妙，預計會再體驗一陣子看會不會改觀，但我目前的心得是價位就在那邊，果然不能太多期待嗎
+* ⭐️ **CrinEar Project Monolith** - Crinacle 家的低音特化耳機，也是限量 999 隻，低音真的有點太多了，很挑歌，但適合的歌會很爽，滿滿的低頻
 
 **耳道式 (無線)**
 
