@@ -78,6 +78,7 @@ bundle install   # Install Ruby dependencies
 ### Posts
 
 - Front matter: follow this example: _posts/2025-10-04-body-fat-smart-scales-inbody-tanita-comparison.md
+- Filename/slug MUST be English: lowercase, hyphenated ASCII only (e.g. `2026-09-20-janat-ceylon-black-tea-iced-brewing.md`). `_config.yml` sets no site-wide `permalink`, so Jekyll's default `/:categories/:year/:month/:day/:title.html` turns the filename straight into the post URL — a Chinese filename produces a percent-encoded URL. The `title:` in front matter stays in the post's own language.
 - Tags (a.k.a. labels):  Available tags can be found in _data/labels.yaml
 - Main tags: Each article MUST fall into one (and only one) of following 4 main tags: #dev #productivity #商業理財 #life
 - Normal tags: Can opitonally add normal labels
